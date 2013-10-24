@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <corpus xmlns="http://semweb.unister.de/xml-corpus-schema-2013">
   <Document id="0">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15001</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/Avery_Dennison">Paxar Corp</NamedEntityInText>
       <SimpleTextPart> said it has acquired </SimpleTextPart>
@@ -14,18 +16,17 @@
       <SimpleTextPart> products, for undisclosed terms.</SimpleTextPart>
     </TextWithNamedEntities>
   </Document>
-  <Document id="1">
-    <TextWithNamedEntities>
-      <SimpleTextPart>Shr 10 cts vs 32 cts Net 975,000 vs 3,145,000 Sales 159.1 mln vs 147.3 mln</SimpleTextPart>
-    </TextWithNamedEntities>
-  </Document>
   <Document id="2">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15003</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/Key_Tronic">Key Tronic corp</NamedEntityInText>
       <SimpleTextPart> said it has received contracts to provide seven original equipment manufacturers with which it has not done business recently with over 300,000 computer keyboards for delivery within the next 12 months. The company said The new contracts represent an annual increase of approximately 25 pct in unit volume over last year.</SimpleTextPart>
     </TextWithNamedEntities>
   </Document>
   <Document id="3">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15004</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <SimpleTextPart>Canadian </SimpleTextPart>
       <NamedEntityInText uri="http://aksw.org/notInWiki">Bashaw Leduc Oil and Gas Ltd</NamedEntityInText>
@@ -39,6 +40,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="4">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15005</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://aksw.org/notInWiki">Entourage International Inc</NamedEntityInText>
       <SimpleTextPart> said it had a first quarter loss of 104,357 dlrs, after incurring 70,000 dlrs in costs for an internal audit, a report for shareholders and proxy soliciation and 24,000 dlrs in startup expenses for opening </SimpleTextPart>
@@ -50,12 +53,9 @@
       <SimpleTextPart>, a video productions company.</SimpleTextPart>
     </TextWithNamedEntities>
   </Document>
-  <Document id="5">
-    <TextWithNamedEntities>
-      <SimpleTextPart>Shr 58 cts vs 29 cts Net 3,141,000 vs 1,440,000 Sales 24.7 mln vs 13.0 mln</SimpleTextPart>
-    </TextWithNamedEntities>
-  </Document>
   <Document id="6">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15007</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://aksw.org/notInWiki">Digital Communications Associates Inc</NamedEntityInText>
       <SimpleTextPart> said its board has named </SimpleTextPart>
@@ -70,6 +70,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="7">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15008</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/Teradyne">Teradyne Inc</NamedEntityInText>
       <SimpleTextPart> said </SimpleTextPart>
@@ -78,6 +80,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="8">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15009</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://aksw.org/notInWiki">Home Intensive Care Inc</NamedEntityInText>
       <SimpleTextPart> said it has opened a Dialysis at Home office in </SimpleTextPart>
@@ -86,6 +90,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="9">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15010</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/Prudential_Securities">Bache Securities Inc</NamedEntityInText>
       <SimpleTextPart>, 80 pct owned by </SimpleTextPart>
@@ -101,12 +107,9 @@
       <SimpleTextPart> said it needed a third exchange seat as part of an extensive plan to provide an enhanced level of service to clients. The seat will be used to further build its professional trading area, the investment dealer said.</SimpleTextPart>
     </TextWithNamedEntities>
   </Document>
-  <Document id="10">
-    <TextWithNamedEntities>
-      <SimpleTextPart>Qtly div 33 cts vs 28 cts prior Pay June 1 Record May 1</SimpleTextPart>
-    </TextWithNamedEntities>
-  </Document>
   <Document id="11">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15013</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <SimpleTextPart>Roughly half of this years expected 130,000 hectare Dutch sugar beet crop is already in the ground, a spokesman for </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Royal_Cosun">Suiker Unie</NamedEntityInText>
@@ -120,6 +123,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="12">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15014</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <SimpleTextPart>Demand for shares in state-owned engine maker </SimpleTextPart>
       <NamedEntityInText uri="http://dbpedia.org/resource/Rolls-Royce_plc">Rolls Royce Plc</NamedEntityInText>
@@ -141,6 +146,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="13">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15015</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/Philips">NV Philips Gloeilampenfabrieken</NamedEntityInText>
       <SimpleTextPart> PGLO.AS shares are due to start trading on the </SimpleTextPart>
@@ -167,6 +174,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="14">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15017</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <SimpleTextPart>The </SimpleTextPart>
       <NamedEntityInText uri="http://dbpedia.org/resource/European_Commission">EC Commission</NamedEntityInText>
@@ -184,6 +193,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="15">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15018</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://aksw.org/notInWiki">Pancontinental Oil Ltd</NamedEntityInText>
       <SimpleTextPart> said it arranged a 10 mln dlr private financing with </SimpleTextPart>
@@ -192,6 +203,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="16">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15019</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <SimpleTextPart>Todays dollar convertible eurobond for </SimpleTextPart>
       <NamedEntityInText uri="http://aksw.org/notInWiki">Federal Realty Investment Trust</NamedEntityInText>
@@ -201,6 +214,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="17">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15020</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/Volkswagen_Group">Volkswagen AG</NamedEntityInText>
       <SimpleTextPart> VOWG.F, </SimpleTextPart>
@@ -217,6 +232,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="18">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15021</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/Toronto-Dominion_Bank">Toronto Dominion Bank</NamedEntityInText>
       <SimpleTextPart>, Nassau Branch is issuing a 40 mln Australian dlr eurobond due May 15, 1990 paying 14-1/2 pct and priced at 101-3/8 pct, lead manager </SimpleTextPart>
@@ -227,6 +244,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="19">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15022</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/Toronto-Dominion_Bank">Toronto Dominion Bank</NamedEntityInText>
       <SimpleTextPart>, Nassau Branch is issuing a 40 mln Australian dlr eurobond due May 15, 1990 paying 14-1/2 pct and priced at 101-3/8 pct, lead manager </SimpleTextPart>
@@ -236,12 +255,9 @@
       <SimpleTextPart>. The selling concession is one pct, while management and underwriting combined will pay 1/2 pct. The payment date is May 15.</SimpleTextPart>
     </TextWithNamedEntities>
   </Document>
-  <Document id="20">
-    <TextWithNamedEntities>
-      <SimpleTextPart>Shr 1.40 dlrs vs 1.16 dlrs Net 5,776,000 vs 4,429,000 Avg shrs 4,132,828 vs 3,834,117</SimpleTextPart>
-    </TextWithNamedEntities>
-  </Document>
   <Document id="21">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15024</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://aksw.org/notInWiki">Southmark Corp</NamedEntityInText>
       <SimpleTextPart> said it acquired 28 long-term care facilities containing for approximately 70 mln dlrs in cash. It said the facilities, which contain approximately 2,500 beds in seven western states, were bought from </SimpleTextPart>
@@ -254,6 +270,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="22">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15025</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/Helen_of_Troy_Limited">Helen of Troy Corp</NamedEntityInText>
       <SimpleTextPart> said it filed with the </SimpleTextPart>
@@ -266,23 +284,17 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="23">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15026</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <SimpleTextPart>shr 1.22 dlrs vs 1.28 dlrs net 226.4 mln vs 233.9 mln assets 80.45 billion vs 70.23 billion loans 35.16 billion vs 35.99 billion deposits 45.22 billion vs 39.68 billion return on assets 1.14 pct vs 1.35 pct return on common equity 18.20 pct vs 22.08 pct NOTE: 1987 qtr net was reduced by 20 mln dlrs because 1.3 billion dlrs of loans to </SimpleTextPart>
       <NamedEntityInText uri="http://dbpedia.org/resource/Brazil">Brazil</NamedEntityInText>
       <SimpleTextPart> were placed on non-accrual. loan loss provision 35 mln dlrs vs 70 mln year earlier.</SimpleTextPart>
     </TextWithNamedEntities>
   </Document>
-  <Document id="24">
-    <TextWithNamedEntities>
-      <SimpleTextPart>Shr 74 cts vs 67 cts Net 8,067,000 vs 7,317,000</SimpleTextPart>
-    </TextWithNamedEntities>
-  </Document>
-  <Document id="25">
-    <TextWithNamedEntities>
-      <SimpleTextPart>Qtr ends Feb 28 Shr Class A 61 cts vs 48 cts Shr Class B 59 cts vs 46 cts Net 2,358,000 vs 1,876,000 Revs 122,508,000 vs 105,871,000 Six mths Shr Class A 1.15 dlrs vs 86 cts Shr Class B 1.13 dlrs vs 84 cts Net 4,485,000 vs 3,378,000 Revs 242,453,000 vs 210,117,000 NOTE: qtr and six mths prior figures reflect two-for-one stock split in August 1986.</SimpleTextPart>
-    </TextWithNamedEntities>
-  </Document>
   <Document id="26">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15029</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/Hanover_Insurance">Hanover Insurance Co</NamedEntityInText>
       <SimpleTextPart> said its stockholders approved a two-for-one stock split. As a result of the split, </SimpleTextPart>
@@ -293,6 +305,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="27">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15030</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://aksw.org/notInWiki">Federal Paperboard Co Inc</NamedEntityInText>
       <SimpleTextPart> said it has entered into an agreement with </SimpleTextPart>
@@ -315,6 +329,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="28">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15031</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://aksw.org/notInWiki">National Guardian Corp</NamedEntityInText>
       <SimpleTextPart> said it has acquired a number of security services companies recently, with aggregate revenues of about 3,500,000 dlrs, for an aggregate cost of about 2,700,000 dlrs. It said it acquired guard service companies </SimpleTextPart> 
@@ -373,11 +389,16 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="29">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15032</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
-      <SimpleTextPart>Qtly distribution 7-1/2 cts vs 7-1/2 cts prior (excluding 2-1/2 cts special) Pay April 30 Record April 22 NOTE: Full name is Universal Medical Buildings L.P.</SimpleTextPart>
+      <SimpleTextPart>Qtly distribution 7-1/2 cts vs 7-1/2 cts prior (excluding 2-1/2 cts special) Pay April 30 Record April 22 NOTE: Full name is </SimpleTextPart>
+      <NamedEntityInText uri="http://aksw.org/notInWiki/Universal_Medical_Buildings_L_P">Universal Medical Buildings L.P.</NamedEntityInText>
     </TextWithNamedEntities>
   </Document>
   <Document id="30">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15033</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <SimpleTextPart>The </SimpleTextPart>
       <NamedEntityInText uri="http://dbpedia.org/resource/Zambia">Zambian government</NamedEntityInText>
@@ -395,6 +416,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="31">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15034</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://aksw.org/notInWiki">Blocker Energy corp</NamedEntityInText>
       <SimpleTextPart> said an offering of 20 mln common shares is underway at 2.625 dlrs per share through underwriters led by </SimpleTextPart>
@@ -405,6 +428,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="32">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15035</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/ASARCO">Asarco Inc</NamedEntityInText>
       <SimpleTextPart> said it completed the sale of four mln shares of </SimpleTextPart>
@@ -415,6 +440,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="33">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15036</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://aksw.org/notInWiki">American Midland Corp</NamedEntityInText>
       <SimpleTextPart> said </SimpleTextPart>
@@ -435,6 +462,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="34">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15037</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://aksw.org/notInWiki">Wedgestone Realty Investors Trust</NamedEntityInText>
       <SimpleTextPart> said shareholkders have approved the acquisition of its advisor, </SimpleTextPart>
@@ -443,12 +472,16 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="35">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15038</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
-      <NamedEntityInText uri="http://aksw.org/notInWiki">Sun Cos Sun Refining and Marketing Co</NamedEntityInText>
+      <NamedEntityInText uri="http://aksw.org/notInWiki/Sun_Co">Sun Co's</NamedEntityInText><SimpleTextPart> </SimpleTextPart><NamedEntityInText uri="http://aksw.org/notInWiki/Sun_Refining_and_Marketing_Co">Sun Refining and Marketing Co</NamedEntityInText>
       <SimpleTextPart> subsidiary said it is decreasing the price it charges contract barge customers for heating oil in ny harbor by 0.50 cent a gallon, effective today. The 0.50 cent a gallon price reduction brings Suns heating oil contract barge price to 50 cts a gallon, the company said.</SimpleTextPart>
     </TextWithNamedEntities>
   </Document>
   <Document id="36">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15040</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <SimpleTextPart>Promising new findings in the use of a controversial experimental drug called Interleukin-2 as a cure for cancer will be published in the April 9 issue of the prestigious </SimpleTextPart>
       <NamedEntityInText uri="http://dbpedia.org/resource/The_New_England_Journal_of_Medicine">New England Journal of Medicine</NamedEntityInText>
@@ -496,6 +529,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="37">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15041</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <SimpleTextPart>An audit submitted to the </SimpleTextPart>
       <NamedEntityInText uri="http://dbpedia.org/resource/Georgia_Public_Service_Commission">Georgia Public Service Commission</NamedEntityInText>
@@ -533,6 +568,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="38">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15042</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <SimpleTextPart>The coupon on the 75 mln dlr, 15-year, convertible eurobond for </SimpleTextPart>
       <NamedEntityInText uri="http://dbpedia.org/resource/Atari">Atari Corp</NamedEntityInText>
@@ -544,6 +581,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="39">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15043</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <SimpleTextPart>Argentine grain producers adjusted their yield estimates for the 1986/87 coarse grain crop downward in the week to yesterday after the heavy rains at the end of March and beginning of April, trade sources said. They said sunflower, maize and sorghum production estimates had been reduced despite some later warm, dry weather, which has allowed a return to harvesting in some areas. However, as showers fell intermittently after last weekend, producers feared another spell of prolonged and intense rain could cause more damage to crops already badly hit this season. Rains in the middle of last week reached an average of 27 millimetres in parts of </SimpleTextPart>
       <NamedEntityInText uri="http://dbpedia.org/resource/Buenos_Aires_Province">Buenos Aires province</NamedEntityInText>
@@ -593,6 +632,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="40">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15045</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <SimpleTextPart>Dutch seasonally adjusted unemployment rose in the month to end-March to a total 693,000 from 690,600 at end-February, but was well down from 730,100 at end-March 1986, </SimpleTextPart>
       <NamedEntityInText uri="http://dbpedia.org/resource/Ministry_of_Social_Affairs_and_Employment_(Netherlands)">Social Affairs Ministry</NamedEntityInText>
@@ -600,6 +641,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="41">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15047</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/Moody's_Investors_Service">Moodys Investors Service Inc</NamedEntityInText>
       <SimpleTextPart> said it affirmed the long-term debt ratings but cut the commercial paper to Prime-2 from Prime-1 of </SimpleTextPart>
@@ -618,6 +661,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="42">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15048</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <SimpleTextPart>Top officials of leading industrial nations arrived at the </SimpleTextPart>
       <NamedEntityInText uri="http://dbpedia.org/resource/United_States_Department_of_the_Treasury">U.S. Treasury</NamedEntityInText>
@@ -661,6 +706,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="43">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15049</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <SimpleTextPart>The </SimpleTextPart>
       <NamedEntityInText uri="http://dbpedia.org/resource/Federal_Reserve_System">Federal Reserve</NamedEntityInText>
@@ -670,21 +717,26 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="44">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15050</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/Best_Buy">Best Buy Co Inc</NamedEntityInText>
       <SimpleTextPart> said its sales for March rose to 26.1 mln dlrs from 11.9 mln dlrs in the comparable 1986 period. It said sales for the fiscal year ended March 31 rose to 329.5 mln dlrs from 113.1 mln dlrs a year earlier. The company said sales performance was based on the addition of 12 new retail facilities.</SimpleTextPart>
     </TextWithNamedEntities>
   </Document>
   <Document id="45">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15051</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://aksw.org/notInWiki">AutoSpa corp</NamedEntityInText>
       <SimpleTextPart> said it will redeem all its common stock purchase warrants on May Five at 7.5 cts each. Through May Four, each warrant may be exercised into one common share at 1.75 dlrs.</SimpleTextPart>
     </TextWithNamedEntities>
   </Document>
   <Document id="46">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15052</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
-      <SimpleTextPart>The </SimpleTextPart>
-      <NamedEntityInText uri="http://dbpedia.org/resource/The_Reader's_Digest_Association">Readers Digest Association Inc</NamedEntityInText>
+      <NamedEntityInText uri="http://dbpedia.org/resource/The_Reader's_Digest_Association">The Readers Digest Association Inc</NamedEntityInText>
       <SimpleTextPart> said it sold its subsidiary, </SimpleTextPart>
       <NamedEntityInText uri="http://dbpedia.org/resource/The_Source_(online_service)">Source Telecomputing Corp</NamedEntityInText>
       <SimpleTextPart>, to the venture capital firm of </SimpleTextPart>
@@ -694,12 +746,9 @@
       <SimpleTextPart> said. It said it purchased an 80 pct stake in Source in 1980 and earned an unspecified profit on 14 mln dlrs in revenues in 1986.</SimpleTextPart>
     </TextWithNamedEntities>
   </Document>
-  <Document id="47">
-    <TextWithNamedEntities>
-      <SimpleTextPart>Shr 59 cts vs 51 cts Net 18.0 mln vs 15.6 mln Revs 278.6 mln vs 272.2 mln</SimpleTextPart>
-    </TextWithNamedEntities>
-  </Document>
   <Document id="48">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15054</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/Avnet">Avnet Inc</NamedEntityInText>
       <SimpleTextPart> said it filed with the </SimpleTextPart>
@@ -712,6 +761,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="49">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15055</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/Continental_Bank_of_Canada">Continental Bank of Canada</NamedEntityInText>
       <SimpleTextPart> said shareholders approved a capital reorganization to allow an initial payout by the end of May to common shareholders from last years 200 mln Canadian dlr sale of most </SimpleTextPart>
@@ -728,6 +779,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="50">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15056</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <SimpleTextPart>4th qtr Shr loss 17 cts vs loss 22 cts Net loss 14.5 mln vs loss 18.0 mln Revs 27.3 mln vs 23.7 mln Year Shr 58 cts vs 1.01 dlrs Net loss 48.3 mln vs loss 84.2 mln Revs 111.7 mln vs 141.9 mln NOTE: </SimpleTextPart>
       <NamedEntityInText uri="http://aksw.org/notInWiki">Atlas Consolidated Mining and Development Corp</NamedEntityInText>
@@ -737,6 +790,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="51">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15057</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/Ford_Motor_Company">Ford Motor Co</NamedEntityInText>
       <SimpleTextPart> said it extended its buyer incentive program on light trucks to April 30 from April 6, the programs previous expiration date. </SimpleTextPart>
@@ -747,6 +802,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="52">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15058</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <SimpleTextPart>World output of staple foods maintained growth in 1986, following a record harvest the year before, and most of the increase was in developing countries, the director general of the </SimpleTextPart>
       <NamedEntityInText uri="http://dbpedia.org/resource/Food_and_Agriculture_Organization">U.N.s Food and Agriculture Organisation</NamedEntityInText>
@@ -762,6 +819,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="53">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15059</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/AVX_Corporation">AVX Corp</NamedEntityInText>
       <SimpleTextPart> said it has filed a registration statement with the </SimpleTextPart>
@@ -774,6 +833,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="54">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15060</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://aksw.org/notInWiki">Sci-Med Life Systems Inc</NamedEntityInText>
       <SimpleTextPart> said its directors approved a previously proposed agreement of merger with </SimpleTextPart>
@@ -792,6 +853,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="55">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15061</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://aksw.org/notInWiki">Fidelcor Inc</NamedEntityInText>
       <SimpleTextPart> said it has completed the sale of its </SimpleTextPart>
@@ -803,20 +866,21 @@
       <SimpleTextPart>.</SimpleTextPart>
     </TextWithNamedEntities>
   </Document>
-  <Document id="56">
-    <TextWithNamedEntities>
-      <SimpleTextPart>Shr 18 cts vs 13 cts Net 575,000 vs 379,000 Sales 6,625,000 vs 4,537,000 Avg shrs 3,173,000 vs 2,977,000</SimpleTextPart>
-    </TextWithNamedEntities>
-  </Document>
   <Document id="57">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15063</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <SimpleTextPart>Cheap oil feedstocks, the weakened U.S. dollar and a plant utilization rate approaching 90 pct will propel the streamlined U.S. petrochemical industry to record profits this year, with growth expected through at least 1990, major company executives predicted. This bullish outlook for chemical manufacturing and an industrywide move to shed unrelated businesses has prompted </SimpleTextPart>
       <NamedEntityInText uri="http://dbpedia.org/resource/GAF_Materials_Corporation">GAF Corp</NamedEntityInText>
-      <SimpleTextPart> GAF, privately-held </SimpleTextPart>
+      <SimpleTextPart> (</SimpleTextPart>
+      <NamedEntityInText uri="http://dbpedia.org/resource/GAF_Materials_Corporation">GAF</NamedEntityInText>
+      <SimpleTextPart>), privately-held </SimpleTextPart>
       <NamedEntityInText uri="http://aksw.org/notInWiki">Cain Chemical Inc</NamedEntityInText>
       <SimpleTextPart>, and other firms to aggressively seek acquisitions of petrochemical plants. Oil companies such as </SimpleTextPart>
       <NamedEntityInText uri="http://dbpedia.org/resource/Ashland_Inc.">Ashland Oil Inc</NamedEntityInText>
-      <SimpleTextPart> ASH, the </SimpleTextPart>
+      <SimpleTextPart> (</SimpleTextPart>
+      <NamedEntityInText uri="http://dbpedia.org/resource/Ashland_Inc.">ASH</NamedEntityInText>
+      <SimpleTextPart>), the </SimpleTextPart>
       <NamedEntityInText uri="http://dbpedia.org/resource/Kentucky">Kentucky</NamedEntityInText>
       <SimpleTextPart>-based oil refiner and marketer, are also shopping for money-making petrochemical businesses to buy. I see us poised at the threshold of a golden period, said </SimpleTextPart>
       <NamedEntityInText uri="http://aksw.org/notInWiki">Paul Oreffice</NamedEntityInText>
@@ -886,6 +950,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="58">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15064</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/International_Paper">Federal Paper Board Co Inc</NamedEntityInText>
       <SimpleTextPart> said it has named </SimpleTextPart>
@@ -897,12 +963,9 @@
       <SimpleTextPart> on the sale of bleached paperboard. Federal said it plans to open its own Japanese office in the near future.</SimpleTextPart>
     </TextWithNamedEntities>
   </Document>
-  <Document id="59">
-    <TextWithNamedEntities>
-      <SimpleTextPart>Shr loss two cts vs profit 38 cts Net loss 90,000 vs profit 1,685,000 Revs 1,826,000 vs 29.3 mln Year Shr profit 3.37 dlrs vs profit 46 cts Net profit 15.0 mln vs profit 2,047,000 Revs 26.2 mln vs 123.6 mln NOTE: Net includes pretax securities sale gain 10,000 dlrs vs loss 1,000 dlrs in quarter and gain 486,000 dlrs vs loss 112,000 dlrs in year. Net includes pretax gains on sale of businesses of nil vs 4,656,000 dlrs in quarter and 26.0 mln dlrs vs 4,656,000 dlrs in year. Net includes pretax losses on disposition of product line of nil vs 3,150,000 dlrs in quarter and 3,300,000 dlrs vs 3,150,000 dlrs in year. Quarter net includes tax credits of 102,000 dlrs vs 736,000 dlrs. Net includes reversal of tax loss carryforwards of 259,000 dlrs vs 264,000 dlrs in quarter and tax loss carryforwards of 8,635,000 dlrs vs 579,000 dlrs in year.</SimpleTextPart>
-    </TextWithNamedEntities>
-  </Document>
   <Document id="60">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15066</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://aksw.org/notInWiki">CMS Enhancements Inc</NamedEntityInText>
       <SimpleTextPart> said it has introduced the first add-on mass storage products for the new </SimpleTextPart>
@@ -916,12 +979,9 @@
       <SimpleTextPart> personal computers within the next two months. Prices for the new products range from 795 dlrs for a tape backup subsystem, to 5,695 dlrs for a mass storage subsystem.</SimpleTextPart>
     </TextWithNamedEntities>
   </Document>
-  <Document id="61">
-    <TextWithNamedEntities>
-      <SimpleTextPart>Oper shr 26 cts vs not given Oper net 866,000 vs 480,000 NOTE: 1987 net excludes 157,000 dlr gain from termination of pension plan. Company went public in August 1986.</SimpleTextPart>
-    </TextWithNamedEntities>
-  </Document>
   <Document id="62">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15068</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://aksw.org/notInWiki">Nantucket Industries Inc</NamedEntityInText>
       <SimpleTextPart> said </SimpleTextPart>
@@ -936,6 +996,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="63">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15071</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/Freeport-McMoRan">Freeport-McMoRan Inc</NamedEntityInText>
       <SimpleTextPart> said it has decided to begin accruing a portion of its estimate of the intanmgible drilling and development cost recapture amount as a cost in determining payments to be made to </SimpleTextPart>
@@ -946,6 +1008,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="64">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15072</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/AT%26T_Corporation">American Telephone and Telegraph Co</NamedEntityInText>
       <SimpleTextPart> said it has developed superconducting wires that can easily be formed into coils. It said when cooled to 91 degrees Kelvin, or 296 degrees below zero Fahrenheit, the wires conduct electricity without resistance. </SimpleTextPart>
@@ -954,6 +1018,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="65">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15073</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <SimpleTextPart>Faulty repair work by </SimpleTextPart>
       <NamedEntityInText uri="http://dbpedia.org/resource/Boeing">The Boeing Company</NamedEntityInText>
@@ -975,6 +1041,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="66">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15075</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://aksw.org/notInWiki">Shared Network Technologies Inc</NamedEntityInText>
       <SimpleTextPart> said it entered into a cooperative marketing agreement with </SimpleTextPart>
@@ -985,6 +1053,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="67">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15076</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/The_Reynolds_and_Reynolds_Company">Reynolds and Reynolds</NamedEntityInText>
       <SimpleTextPart> said that it filed a coutersuit in the </SimpleTextPart>
@@ -1012,22 +1082,9 @@
       <SimpleTextPart> said its suit asked the court for injunctive and monetary relief based on Advanceds activities.</SimpleTextPart>
     </TextWithNamedEntities>
   </Document>
-  <Document id="68">
-    <TextWithNamedEntities>
-      <SimpleTextPart>Qtly div 30 cts vs 30 cts prior Pay June 8 Record May 18</SimpleTextPart>
-    </TextWithNamedEntities>
-  </Document>
-  <Document id="69">
-    <TextWithNamedEntities>
-      <SimpleTextPart>Qtly div 10 cts vs 10 cts previously Pay April 20 Record April 10</SimpleTextPart>
-    </TextWithNamedEntities>
-  </Document>
-  <Document id="70">
-    <TextWithNamedEntities>
-      <SimpleTextPart>Shr 1.37 dlrs vs 1.19 dlrs Net 101.8 mln vs 92.3 mln Revs 1.750 billion vs 1.725 billion Avg shrs 74.2 mln vs 77.8 mln</SimpleTextPart>
-    </TextWithNamedEntities>
-  </Document>
   <Document id="71">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15080</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <SimpleTextPart>The </SimpleTextPart>
       <NamedEntityInText uri="http://aksw.org/notInWiki">Victorian Corporate Affairs Commission</NamedEntityInText>
@@ -1067,6 +1124,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="72">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15081</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://aksw.org/notInWiki">Shopsmith Inc</NamedEntityInText>
       <SimpleTextPart> said its board has released </SimpleTextPart>
@@ -1076,12 +1135,9 @@
       <SimpleTextPart> as saying.</SimpleTextPart>
     </TextWithNamedEntities>
   </Document>
-  <Document id="73">
-    <TextWithNamedEntities>
-      <SimpleTextPart>Qtly div eight cts vs N.A. Payable May 11 Record April 24</SimpleTextPart>
-    </TextWithNamedEntities>
-  </Document>
   <Document id="74">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15083</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/Eastman_Kodak">Eastman Kodak Co</NamedEntityInText>
       <SimpleTextPart> is issuing a 200 mln Australian dlr zero-coupon bond due May 12, 1992 and priced at 54-3/8 for an effecitve yield of 13.52 pct, said </SimpleTextPart>
@@ -1092,6 +1148,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="75">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15084</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/First_Boston">First Boston Corp</NamedEntityInText>
       <SimpleTextPart> analyst </SimpleTextPart>
@@ -1118,6 +1176,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="76">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15085</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/Philips">NV Philips Gloielampenfabrieken</NamedEntityInText>
       <SimpleTextPart> PGLO.AS expects volume turnover to show a satisfactory increase in the first 1987 quarter, chairman </SimpleTextPart>
@@ -1126,6 +1186,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="77">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15086</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/Data_I/O">Data I/O Corp</NamedEntityInText>
       <SimpleTextPart> said it unveiled a software package that helps engineers design complex integrated circuits that fit on circuit boards built by </SimpleTextPart>
@@ -1134,12 +1196,16 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="78">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15087</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/PSC_Inc.">Photographic Sciences Corp</NamedEntityInText>
       <SimpleTextPart> said it has formed a new Metrology Division for the production and marketing of surface profiler measurement equipment. It said the equipment, a new market area, should add significantly to company revenues in the next few years.</SimpleTextPart>
     </TextWithNamedEntities>
   </Document>
   <Document id="79">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15088</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/Merck_%26_Co.">Merck and Co Inc </NamedEntityInText>
       <SimpleTextPart>said a combination heart drug is available by prescription in the U.S. The drug is Vaseretic, a once-a-day medication combining an angiotensin converting enzyme inhibitor (ACE) and a diuretic to treat high blood pressure. The inhibitor is a new class of antihypertensive drugs. Last year </SimpleTextPart>
@@ -1148,6 +1214,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="80">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15089</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/United_Kingdom">Britain</NamedEntityInText>
       <SimpleTextPart> intends to negotiate further agreements on international securities regulation to match those now in force with the </SimpleTextPart>
@@ -1205,12 +1273,9 @@
       <SimpleTextPart> sources said. It is not legally binding and comes into force immediately.</SimpleTextPart>
     </TextWithNamedEntities>
   </Document>
-  <Document id="81">
-    <TextWithNamedEntities>
-      <SimpleTextPart>Shr primary 73 cts vs 60 cts Shr diluted 70 cts vs 58 cts Net 38,528,000 vs 31,680,000 Avg shares 52,087,634 vs 51,294,652 NOTE: Qtr net interest income is 130.7 mln dlrs vs 114.8 mln dlrs. Earnings per share reflects two-for-one common stock split on March 15.</SimpleTextPart>
-    </TextWithNamedEntities>
-  </Document>
   <Document id="82">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15091</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/Dominion_Textile">Dominion Textile Inc</NamedEntityInText>
       <SimpleTextPart> considers a published report that it has bought a stake in </SimpleTextPart>
@@ -1245,17 +1310,16 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="83">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15093</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/Raytheon">Raytheon</NamedEntityInText>
       <SimpleTextPart> said a 10 pct rise in its first quarter net to 101.8 mln dlrs reflected improved operations and a lower effective tax rate. The company said revenue gains in electronics, major appliances and other lines were offset by decreases in energy services and aircraft products. Revenues in the quarter rose 1.4 pct to 1.75 billion dlrs, it said. The company said backlog stood at 7.520 billion dlrs, down from 7.912 billion dlrs a year earlier. It said a five year 3.55 billion dlr U.S. defense contract was awarded shortly after the close of the first quarter.</SimpleTextPart>
     </TextWithNamedEntities>
   </Document>
-  <Document id="84">
-    <TextWithNamedEntities>
-      <SimpleTextPart>Ended Feb 28 Shr loss 2.80 dlrs vs profit 17 cts Net loss 90.5 mln vs profit 5,271,000 Revs 240.9 mln vs 159.4 mln Year Shr loss 2.49 dlrs vs loss 2.07 dlrs Net loss 80.4 mln vs loss 66.5 mln Revs 787.9 mln vs 612.4 mln NOTE: Includes loss of 89.6 mln dlrs vs loss 14.5 mln dlrs in year and loss of 91.6 mln dlrs in current qtr from discontinued operations. 1986 qtr includes pretax gain of five mln dlrs from settlement of litigation and tax gain of 5.1 mln dlrs from change in estimated effective tax rate.</SimpleTextPart>
-    </TextWithNamedEntities>
-  </Document>
   <Document id="85">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15095</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <SimpleTextPart>Major cocoa exporters are likely to limit sales in the weeks ahead in an effort to boost world prices, sources close to a meeting of the </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Cocoa_Producers’_Alliance">Cocoa Producers Alliance</NamedEntityInText>
@@ -1279,6 +1343,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="86">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15096</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <SimpleTextPart>The </SimpleTextPart>
       <NamedEntityInText uri="http://dbpedia.org/resource/Federal_Reserve_System">Federal Reserve</NamedEntityInText>
@@ -1290,6 +1356,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="87">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15097</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/Honduras">Honduras</NamedEntityInText>
       <SimpleTextPart> will tender April 13 under Public Law 480 for approximately 52,500 tonnes of various wheats in bulk, an agent for the country said. The agent said </SimpleTextPart>
@@ -1298,6 +1366,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="88">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15098</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/Pan_American_World_Airways">Pan Am Corps Pan Am World Airways</NamedEntityInText>
       <SimpleTextPart> said it began hiring pilots and flight engineers for the first time in 19 years. The need for about 130 to 150 new pilots has been created by the </SimpleTextPart>
@@ -1308,6 +1378,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="89">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15099</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/Thermwood_Corporation">Thermwood Corp</NamedEntityInText>
       <SimpleTextPart> said it is extending the expiration date of its 620,000 common stock warrants through Dec 31, 1987. It said the warrants to purchase one share of common stock, which have an exercise price of 3.00 dlrs, were to expire April 11. The company noted that its stock price has more than doubled since late last year and is now much closer to the exercise price of the warrants. </SimpleTextPart>
@@ -1316,6 +1388,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="90">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15100</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/U.S._Bancorp">Ameribanc Inc</NamedEntityInText>
       <SimpleTextPart> is raising 15 mln dlrs through an offering of convertible subordinated capital notes due 1995 with an eight pct coupon and par pricing, said lead manager </SimpleTextPart>
@@ -1332,12 +1406,16 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="91">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15101</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://aksw.org/notInWiki">Highland Superstores Inc</NamedEntityInText>
       <SimpleTextPart> said its March sales rose to 50.6 mln dlrs from 47.4 mln dlrs a year ago. On a comparable store basis, it said the sales decreased nine pct.</SimpleTextPart>
     </TextWithNamedEntities>
   </Document>
   <Document id="92">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15102</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/Investment_Technology_Group">Investment Technologies Inc</NamedEntityInText>
       <SimpleTextPart> said it will make available its online investment advisory service to </SimpleTextPart>
@@ -1352,6 +1430,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="93">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15103</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/J._P._Morgan">J.P. Morgan and Co Inc</NamedEntityInText>
       <SimpleTextPart> said its first-quarter earnings fell by 3.2 pct, largely reflecting its previously announced decision to place on non-accrual status its 1.3 billion dlrs of medium- and long-term loans to </SimpleTextPart>
@@ -1377,12 +1457,9 @@
       <SimpleTextPart> said.</SimpleTextPart>
     </TextWithNamedEntities>
   </Document>
-  <Document id="94">
-    <TextWithNamedEntities>
-      <SimpleTextPart>Shr loss 17.3 cts vs 21.5 cts Net loss 14.5 mln vs loss 18.0 mln Revs 27.3 mln vs 23.7 mln Year Shr loss 58 cts vs loss 1.01 dlrs Net loss 48.3 mln vs loss 84.2 mln Revs 111.7 mln vs 141.9 mln</SimpleTextPart>
-    </TextWithNamedEntities>
-  </Document>
   <Document id="95">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15105</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/Avnet">Avnet Inc</NamedEntityInText>
       <SimpleTextPart> said it filed with the </SimpleTextPart>
@@ -1395,6 +1472,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="96">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15106</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <SimpleTextPart>Storage problems with Brazils record grain crop are likely to result in losses of about five mln tonnes, an </SimpleTextPart>
       <NamedEntityInText uri="http://dbpedia.org/resource/Ministry_of_Agriculture_(Brazil)">Agriculture Ministry</NamedEntityInText>
@@ -1422,6 +1501,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="97">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15107</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/FleetBoston_Financial">Fleet Financial Group</NamedEntityInText>
       <SimpleTextPart> said its shareholders approved an increase in shares of the companys authorized common stock to 100,000,000 shares from 75,000,000 shares currently. The company said shareholders approved the move at the annual meeting in </SimpleTextPart>
@@ -1436,6 +1517,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="98">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15108</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/Ally_Financial">General Motors Acceptance Corp</NamedEntityInText>
       <SimpleTextPart>, a unit of </SimpleTextPart>
@@ -1449,12 +1532,9 @@
       <SimpleTextPart>.</SimpleTextPart>
     </TextWithNamedEntities>
   </Document>
-  <Document id="99">
-    <TextWithNamedEntities>
-      <SimpleTextPart>Shr 42 cts vs 35 cts Net 854,000 vs 839,000 Revs 23.2 mln vs 21.9 mln</SimpleTextPart>
-    </TextWithNamedEntities>
-  </Document>
   <Document id="100">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15110</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <SimpleTextPart>Exchanges and telecommunications authorities should abolish their restrictions on full and free dissemination of information to the investment and banking communities, </SimpleTextPart>
       <NamedEntityInText uri="http://dbpedia.org/resource/Reuters">Reuters Holdings Plc</NamedEntityInText>
@@ -1474,6 +1554,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="101">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15111</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/CCL_Industries">CCL Industries Inc</NamedEntityInText>
       <SimpleTextPart> said it purchased a majority interest in </SimpleTextPart>
@@ -1490,6 +1572,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="102">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15112</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <SimpleTextPart>The </SimpleTextPart>
       <NamedEntityInText uri="http://aksw.org/notInWiki">Association of White Metals</NamedEntityInText>
@@ -1507,6 +1591,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="103">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15113</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/AVX_Corporation">AVX Corp</NamedEntityInText>
       <SimpleTextPart> said it filed with the </SimpleTextPart>
@@ -1517,6 +1603,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="104">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15114</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/U.S._Securities_and_Exchange_Commission">Securities and Exchange Commission</NamedEntityInText>
       <SimpleTextPart> </SimpleTextPart>
@@ -1549,6 +1637,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="105">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15115</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <SimpleTextPart>The </SimpleTextPart>
       <NamedEntityInText uri="http://dbpedia.org/resource/Transportation_Communications_International_Union">Brotherhood of Railway and Airline Clerks</NamedEntityInText>
@@ -1562,6 +1652,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="106">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15116</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/Western_Digital">Western Digtial Corp</NamedEntityInText>
       <SimpleTextPart> said it has completed the redemption of its 47 mln dlr, 6-3/4 pct convertible subordinated debentures due 2011. The redemption resulted in the issuance of 2,685,142 shares of the companys common stock, </SimpleTextPart>
@@ -1569,12 +1661,9 @@
       <SimpleTextPart> said.</SimpleTextPart>
     </TextWithNamedEntities>
   </Document>
-  <Document id="107">
-    <TextWithNamedEntities>
-      <SimpleTextPart>Qtly div nine cts vs nine cts prior Pay July 15 Record June 15</SimpleTextPart>
-    </TextWithNamedEntities>
-  </Document>
   <Document id="108">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15119</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://aksw.org/notInWiki">Madeira Inc</NamedEntityInText>
       <SimpleTextPart> said it signed a letter of intent to be acquired by </SimpleTextPart>
@@ -1585,12 +1674,16 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="109">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15120</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://aksw.org/notInWiki">Celltronics Inc</NamedEntityInText>
       <SimpleTextPart> said its directors declared a one-for-10 reverse stock split of its common stock. It said the split will be payable April 17 to shareholders of record April 16.</SimpleTextPart>
     </TextWithNamedEntities>
   </Document>
   <Document id="110">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15121</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Montedison">Montedison SPA</NamedEntityInText>
       <SimpleTextPart> of </SimpleTextPart>
@@ -1645,6 +1738,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="111">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15122</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://aksw.org/notInWiki">Datron Corp</NamedEntityInText>
       <SimpleTextPart> said it agreed to merge with </SimpleTextPart>
@@ -1667,6 +1762,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="112">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15123</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/Office_of_Management_and_Budget">Office of Management and Budget</NamedEntityInText>
       <SimpleTextPart> Director </SimpleTextPart>
@@ -1691,10 +1788,14 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="113">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15125</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <SimpleTextPart>Dutch state-owned chemical firm </SimpleTextPart>
       <NamedEntityInText uri="http://dbpedia.org/resource/DSM_(company)">NV DSM</NamedEntityInText>
-      <SimpleTextPart> DSMN.AS, the former Dutch state mines, which today reported a 2.5 pct increase in 1986 net profit to 412 mln guilders, said it was poised to be privatised, possibly next year. </SimpleTextPart>
+      <SimpleTextPart> (</SimpleTextPart>
+      <NamedEntityInText uri="http://dbpedia.org/resource/DSM_(company)">DSMN.AS</NamedEntityInText>
+      <SimpleTextPart>), the former Dutch state mines, which today reported a 2.5 pct increase in 1986 net profit to 412 mln guilders, said it was poised to be privatised, possibly next year. </SimpleTextPart>
       <NamedEntityInText uri="http://dbpedia.org/resource/DSM_(company)">DSM</NamedEntityInText>
       <SimpleTextPart> chairman </SimpleTextPart>
       <NamedEntityInText uri="http://aksw.org/notInWiki">Hans van Liemt</NamedEntityInText>
@@ -1709,12 +1810,9 @@
       <SimpleTextPart> generally has a lower ratio than the worlds major exchanges,  he said. The average Dutch price/earnings ratio is 10.</SimpleTextPart>
     </TextWithNamedEntities>
   </Document>
-  <Document id="114">
-    <TextWithNamedEntities>
-      <SimpleTextPart>Shr 26 cts vs 52 cts Net 1,386,000 vs 2,773,000 Revs 47.7 mln vs 38.5 mln Nine mths Shr 52 cts vs 97 cts Net 2,765,000 vs 5,419,000 Revs 116.9 mln vs 97 mln</SimpleTextPart>
-    </TextWithNamedEntities>
-  </Document>
   <Document id="115">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15127</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://aksw.org/notInWiki">CNA Income Shares Inc</NamedEntityInText>
       <SimpleTextPart> said it filed with the </SimpleTextPart>
@@ -1727,6 +1825,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="116">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15128</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/Donald_Trump">Donald Trump</NamedEntityInText>
       <SimpleTextPart> and </SimpleTextPart>
@@ -1741,23 +1841,24 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="117">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15129</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/Japan">Japan</NamedEntityInText>
       <SimpleTextPart> bought 4,000 tonnes of Canadian rapeseed overnight at an undisclosed price for last half May/first half June shipment, trade sources said.</SimpleTextPart>
     </TextWithNamedEntities>
   </Document>
-  <Document id="118">
-    <TextWithNamedEntities>
-      <SimpleTextPart>Shr profit 12 cts vs loss 14 cts Net profit 183,000 vs loss 234,000 Revs 2.4 mln vs 1.5 mln Six months Shr profit 22 cts vs loss 22 cts Net profit 345,000 vs loss 358,000 Revs 5.2 mln vs 2.9 mln NOTE:1987 2nd qtr and six months include gains of 78,000 dlrs and 154,000 dlrs for tax loss carryforward.</SimpleTextPart>
-    </TextWithNamedEntities>
-  </Document>
   <Document id="119">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15131</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://aksw.org/notInWiki">Entourage International Inc</NamedEntityInText>
       <SimpleTextPart> said it plans to package solid perfume in a lipstick tube and retail the product, called Amadeus, for 15 dlrs. The company said the product was first test marketed in Feburary after six months of research and development.</SimpleTextPart>
     </TextWithNamedEntities>
   </Document>
   <Document id="120">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15132</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/Tunisia">Tunisia</NamedEntityInText>
       <SimpleTextPart> is expected to tender April 14 for 100,000 tonnes of French soft wheat for delivery between May and August and which would be covered by the </SimpleTextPart>
@@ -1774,6 +1875,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="121">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15133</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/Great_Lakes_Chemical_Corporation">Great Lakes Chemical Corp</NamedEntityInText>
       <SimpleTextPart> said it registered with the </SimpleTextPart>
@@ -1790,6 +1893,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="122">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15134</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/Nortel">Northern Telecom</NamedEntityInText>
       <SimpleTextPart> said it shipped the first digital central office switching system it sold to </SimpleTextPart>
@@ -1798,6 +1903,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="123">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15135</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/West_Germany">West Germanys</NamedEntityInText>
       <SimpleTextPart> total net direct investments abroad fell to 11.2 billion marks in 1986 from 13.6 billion in 1985, but investments in developing countries rose to 683 mln marks from 358 mln, the </SimpleTextPart>
@@ -1809,12 +1916,9 @@
       <SimpleTextPart> noted that, despite last years rise in West German investments in developing countries, the 1986 level was below the investments of over two billion marks seen in 1981, 1982 and 1983.</SimpleTextPart>
     </TextWithNamedEntities>
   </Document>
-  <Document id="124">
-    <TextWithNamedEntities>
-      <SimpleTextPart>Shr 28 cts vs 16 cts Net 9,387,000 vs 25,617,000 Revs 410.1 mln vs 393.5 mln Avg shrs 35.4 mln vs 164.7 mln NOTE: 1987 net reflects interest expense on debt incurred to finance recapitalization in Oct. 1986. Prior year earnings restated to reflect recapitalization plan.</SimpleTextPart>
-    </TextWithNamedEntities>
-  </Document>
   <Document id="125">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15137</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <SimpleTextPart>The </SimpleTextPart>
       <NamedEntityInText uri="http://dbpedia.org/resource/United_States_Senate_Committee_on_the_Budget">Senate Budget Committee</NamedEntityInText>
@@ -1826,6 +1930,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="126">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15138</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://aksw.org/notInWiki">Yankee Cos Inc</NamedEntityInText>
       <SimpleTextPart> said its </SimpleTextPart>
@@ -1834,6 +1940,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="127">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15139</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <SimpleTextPart>The </SimpleTextPart>
       <NamedEntityInText uri="http://dbpedia.org/resource/CME_Group">Chicago Mercantile Exchange</NamedEntityInText>
@@ -1861,6 +1969,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="128">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15140</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <SimpleTextPart>Plans to rejuvenate Polands economy by reducing central government control would help reassure Western creditors that the countrys economy was safe to invest in, a senior Polish official said. The business of granting loans to </SimpleTextPart>
       <NamedEntityInText uri="http://dbpedia.org/resource/Poland">Poland</NamedEntityInText>
@@ -1881,12 +1991,9 @@
       <SimpleTextPart> said.</SimpleTextPart>
     </TextWithNamedEntities>
   </Document>
-  <Document id="129">
-    <TextWithNamedEntities>
-      <SimpleTextPart>Shr 59 cts vs 46 cts Net 2.4 mln vs 1.9 mln Revs 122.5 mln vs 105.9 mln Six months Shr 1.13 dlrs vs 84 cts Net 4.5 mln vs 3.4 mln Revs 242.5 mln vs 210.1 mln NOTE: 1986 share adjusted for 2-for-1 stock split.</SimpleTextPart>
-    </TextWithNamedEntities>
-  </Document>
   <Document id="130">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15142</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/Iran">Iran</NamedEntityInText>
       <SimpleTextPart> decided to continue its operations east of </SimpleTextPart>
@@ -1925,6 +2032,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="131">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15143</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <SimpleTextPart>The </SimpleTextPart>
       <NamedEntityInText uri="http://dbpedia.org/resource/Banque_de_France">Bank of France</NamedEntityInText>
@@ -1933,17 +2042,9 @@
       <SimpleTextPart> sold a total of 7.7 billion francs worth of 13 and 26-week bills against an original offer of seven billion and demand for 22.66 billion.</SimpleTextPart>
     </TextWithNamedEntities>
   </Document>
-  <Document id="132">
-    <TextWithNamedEntities>
-      <SimpleTextPart>Shr 33 cts vs 31 cts Net 9,219,017 vs 8,515,539 Revs 112.0 mln vs 95.4 mln</SimpleTextPart>
-    </TextWithNamedEntities>
-  </Document>
-  <Document id="133">
-    <TextWithNamedEntities>
-      <SimpleTextPart>Shr loss 24 cts vs profit seven cts Net loss 5,952,000 vs profit 2,078,000 Revs 55.9 mln vs 50.6 mln Avg shrs 25.2 mln vs 24.7 mln Nine mths Shr loss 11 cts vs profit 24 cts Net loss 2,673,000 vs profit 6,800,000 Revs 162.6 mln vs 143.9 mln Avg shrs 25.0 mln vs 24.4 mln NOTE: Current year net both periods includes pretax charge seven mln dlrs from increase in reserve for investments in broadcast television entities and tax credits of 1,002,000 dlrs in quarter and 520,000 dlrs in nine mths.</SimpleTextPart>
-    </TextWithNamedEntities>
-  </Document>
   <Document id="134">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15146</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/Investment_Canada">Investment Canada</NamedEntityInText>
       <SimpleTextPart> said it has allowed the indirect takeover of </SimpleTextPart>
@@ -1968,6 +2069,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="135">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15147</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <SimpleTextPart>The </SimpleTextPart>
       <NamedEntityInText uri="http://aksw.org/notInWiki">New Jersey Hospital Association</NamedEntityInText>
@@ -1975,6 +2078,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="136">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15149</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <SimpleTextPart>The largest U.S. textile maker focused on its own business as its competitors found merger partners, but now </SimpleTextPart>
       <NamedEntityInText uri="http://dbpedia.org/resource/Burlington_Industries">Burlington Industries Inc</NamedEntityInText>
@@ -2066,6 +2171,8 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="137">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15151</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/Kidder,_Peabody_%26_Co.">Kidder, Peabody and Co</NamedEntityInText>
       <SimpleTextPart> and </SimpleTextPart>
@@ -2077,17 +2184,9 @@
       <SimpleTextPart> said.</SimpleTextPart>
     </TextWithNamedEntities>
   </Document>
-  <Document id="138">
-    <TextWithNamedEntities>
-      <SimpleTextPart>Shr profit 10 cts vs loss 17 cts Net profit 206,000 vs loss 281,000 Revs 1,022,00 vs 344,000</SimpleTextPart>
-    </TextWithNamedEntities>
-  </Document>
-  <Document id="139">
-    <TextWithNamedEntities>
-      <SimpleTextPart>Shr loss 48 cts vs loss 19 cts Net loss 746,000 vs loss 342,000 Revs 3,213,000 vs 2,925,000</SimpleTextPart>
-    </TextWithNamedEntities>
-  </Document>
   <Document id="140">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15154</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <SimpleTextPart>Senior Japanese officials tomorrow open talks with American trade negotiators in a last-ditch effort to avert new high U.S. tariffs to be imposed on a wide variety of Japanese electronic exports. </SimpleTextPart>
       <NamedEntityInText uri="http://aksw.org/notInWiki">Makoto Kuroda</NamedEntityInText>
@@ -2121,12 +2220,16 @@
     </TextWithNamedEntities>
   </Document>
   <Document id="141">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15155</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/Emerson_Radio">Emerson Radio Corp</NamedEntityInText>
       <SimpleTextPart> said it has sold 10 mln dlrs of eight pct senior notes due March 1992 to a major institutional investor it did not name. The company also said 5,800,000 dlrs of its convertible subordinated notes due 1997 have been converted into 728,476 common shares.</SimpleTextPart>
     </TextWithNamedEntities>
   </Document>
   <Document id="142">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15156</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <NamedEntityInText uri="http://dbpedia.org/resource/Celanese">Hoechst Celanese Corp</NamedEntityInText>
       <SimpleTextPart> said it sent propsective customers a confidential report describing its polyester textile fiber facilities in </SimpleTextPart>
@@ -2160,12 +2263,9 @@
       <SimpleTextPart>.</SimpleTextPart>
     </TextWithNamedEntities>
   </Document>
-  <Document id="143">
-    <TextWithNamedEntities>
-      <SimpleTextPart>Qtly div 25 cts vs 25 cts prior Payable May 6 Record April 24</SimpleTextPart>
-    </TextWithNamedEntities>
-  </Document>
   <Document id="144">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15158</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
     <TextWithNamedEntities>
       <SimpleTextPart>A </SimpleTextPart>
       <NamedEntityInText uri="http://dbpedia.org/resource/United_States_Department_of_the_Treasury">Treasury</NamedEntityInText>
@@ -2184,4 +2284,59 @@
       <SimpleTextPart> needs dollars, not Japanese yen, to pay its debts and reduce the deficit and so has no plans to issue yen-denominated bonds, he emphasized.</SimpleTextPart>
     </TextWithNamedEntities>
   </Document>
+<Document id="13331">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15159</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
+<TextWithNamedEntities><NamedEntityInText uri="http://dbpedia.org/resource/Public_Service_Company_of_Colorado">Public Service Co of Colorado</NamedEntityInText><SimpleTextPart> said it has reached a preliminary agreement to resolve a territorial dispute with </SimpleTextPart><NamedEntityInText uri="http://aksw.org/notInWiki/Union_Rural_Electric_Association_of_Brighton">Union Rural Electric Association of Brighton, Colo</NamedEntityInText><SimpleTextPart>. The company said, &quot;The tentative agreement protects </SimpleTextPart><NamedEntityInText uri="http://aksw.org/notInWiki/Union_Rural_Electric_Association_of_Brighton">Union&apos;s</NamedEntityInText><SimpleTextPart> boundaries and also would set in motion a vote of </SimpleTextPart><NamedEntityInText uri="http://aksw.org/notInWiki/Union_Rural_Electric_Association_of_Brighton">Union&apos;s</NamedEntityInText><SimpleTextPart> membership, which could lead to acquisition of </SimpleTextPart><NamedEntityInText uri="http://aksw.org/notInWiki/Union_Rural_Electric_Association_of_Brighton">Union</NamedEntityInText><SimpleTextPart> by </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Public_Service_Company_of_Colorado">Public Service Co</NamedEntityInText><SimpleTextPart>.&quot; </SimpleTextPart><NamedEntityInText uri="http://aksw.org/notInWiki/Union_Rural_Electric_Association_of_Brighton">Union</NamedEntityInText><SimpleTextPart> provides electrical service to about 14,000 members in cities and rural areas north of </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Denver">Denver</NamedEntityInText><SimpleTextPart>. The company said the settlement, which is pending before the </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Colorado_Public_Utilities_Commission">Colorado Public Utilities Commission</NamedEntityInText><SimpleTextPart>, is under review by the </SimpleTextPart><NamedEntityInText uri="http://aksw.org/notInWiki/Tri-State_Generation_and_Transmission_Association">Tri-State Generation and Transmission Association</NamedEntityInText><SimpleTextPart>, which supplies power to </SimpleTextPart><NamedEntityInText uri="http://aksw.org/notInWiki/Union_Rural_Electric_Association_of_Brighton">Union</NamedEntityInText><SimpleTextPart>, and is subject to approval by the </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Public_Service_Company_of_Colorado">Public Service Colorado</NamedEntityInText><SimpleTextPart> board and </SimpleTextPart><NamedEntityInText uri="http://aksw.org/notInWiki/Union_Rural_Electric_Association_of_Brighton">Union&apos;s</NamedEntityInText><SimpleTextPart> membership. It also will be discussed with the </SimpleTextPart><NamedEntityInText uri="http://aksw.org/notInWiki/Colorado Rural Electric Association">Colorado Rural Electric Association</NamedEntityInText><SimpleTextPart>. It said legislation that would halt the acquisition of electric utility service territories by annexation will remain active in the </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Colorado_House_of_Representatives">Colorado House of Representatives</NamedEntityInText><SimpleTextPart> until </SimpleTextPart><NamedEntityInText uri="http://aksw.org/notInWiki/Union_Rural_Electric_Association_of_Brighton">Union</NamedEntityInText><SimpleTextPart> and </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Public_Service_Company_of_Colorado">Public Service</NamedEntityInText><SimpleTextPart> assure legislators they are in agreement. </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Reuter">Reuter</NamedEntityInText></TextWithNamedEntities>
+</Document>
+<Document id="13332">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15160</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
+<TextWithNamedEntities><NamedEntityInText uri="http://aksw.org/notInWiki/Advanced_Micro_Devices_Inc">Advanced Micro Devices Inc</NamedEntityInText><SimpleTextPart> said it is developing a set of five computer chips for use in digital communications systems. The company said the new chips support the integrated services digital network, or </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Integrated_Services_Digital_Network">ISDN</NamedEntityInText><SimpleTextPart>, the international standard for digital voice and data communications. </SimpleTextPart><NamedEntityInText uri="http://aksw.org/notInWiki/Advanced_Micro">Advanced Micro</NamedEntityInText><SimpleTextPart> also said it has signed a licensing agreement with </SimpleTextPart><NamedEntityInText uri="http://aksw.org/notInWiki/American_Telephone_and_Telegraph_Co">American Telephone and Telegraph Co</NamedEntityInText><SimpleTextPart> T under which ATT has provided it with certain digital communications specifications. Today&apos;s announcement follows the company&apos;s introduction last week of a 32-bit microprocessor. &quot;We have now reached a key point in the development of communications devices that implement a worldwide </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Integrated_Services_Digital_Network">ISDN</NamedEntityInText><SimpleTextPart> standard,&quot; said </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/John_East">John East</NamedEntityInText><SimpleTextPart>, group vice president for </SimpleTextPart><NamedEntityInText uri="http://aksw.org/notInWiki/Advanced_Micro">Advanced Micro</NamedEntityInText><SimpleTextPart>&apos;s logic businesses. He said the company&apos;s new computer chips, to be available by the end of this year, should boost the acceptance and implementation of </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Integrated_Services_Digital_Network">ISDN</NamedEntityInText><SimpleTextPart> services. The chip set includes five separate devices in 100 unit quantities. The devices are priced from 7.25 dlrs to 29.25 dlrs. Similar chip sets for </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Integrated_Services_Digital_Network">ISDN</NamedEntityInText><SimpleTextPart> communications are already being sold by a number of companies including </SimpleTextPart><NamedEntityInText uri="http://aksw.org/notInWiki/INTEL_Corp_INTC">INTEL Corp INTC</NamedEntityInText><SimpleTextPart>, ATT, </SimpleTextPart><NamedEntityInText uri="http://aksw.org/notInWiki/Rockwell_International_ROK">Rockwell International ROK</NamedEntityInText><SimpleTextPart> and a joint venture between </SimpleTextPart><NamedEntityInText uri="http://aksw.org/notInWiki/Northern_Telecom_LTd">Northern Telecom LTd</NamedEntityInText><SimpleTextPart> NT and </SimpleTextPart><NamedEntityInText uri="http://aksw.org/notInWiki/Motorola_Inc">Motorola Inc</NamedEntityInText><SimpleTextPart> MOT. The </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Integrated_Services_Digital_Network">ISDN</NamedEntityInText><SimpleTextPart> standard, portions of which are still being defined, will provide for the simultaneous transmission of voice, data and video. </SimpleTextPart><NamedEntityInText uri="http://aksw.org/notInWiki/Advanced_Micro">Advanced Micro</NamedEntityInText><SimpleTextPart> chip sets will be used in equipment such as private branch exchanges and desktop computers. The company also said it is developing an </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Integrated_Services_Digital_Network">ISDN</NamedEntityInText><SimpleTextPart> protocol controller. It said the controller will connect directly with its current line of </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Integrated_Services_Digital_Network">ISDN</NamedEntityInText><SimpleTextPart> devices. The device supports several digital communications protocols, including ones from </SimpleTextPart><NamedEntityInText uri="http://aksw.org/notInWiki/International_Business_Machines_Corp_IBM">International Business Machines Corp IBM</NamedEntityInText><SimpleTextPart> and ATT. </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Reuter">Reuter</NamedEntityInText></TextWithNamedEntities>
+</Document>
+<Document id="13333">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15161</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
+<TextWithNamedEntities><NamedEntityInText uri="http://dbpedia.org/resource/General_Electric_Company_plc">General Electric Co Plc</NamedEntityInText><SimpleTextPart> (</SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/General_Electric_Company_plc">GECL.L</NamedEntityInText><SimpleTextPart>) (</SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/General_Electric_Company_plc">GEC</NamedEntityInText><SimpleTextPart>) declined comment on rumours on the </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/London">London</NamedEntityInText><SimpleTextPart> stock market that it is planning another purchase in the </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/United_States">U.S.</NamedEntityInText><SimpleTextPart> Medical equipment field, in addition to its existing </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/United_States">U.S.</NamedEntityInText><SimpleTextPart> Subsidiary </SimpleTextPart><NamedEntityInText uri="http://aksw.org/notInWiki/Picker_International_Inc">Picker International Inc</NamedEntityInText><SimpleTextPart>. A </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/General_Electric_Company_plc">GEC</NamedEntityInText><SimpleTextPart> spokesman said that it is company policy not to comment on acquisition rumours. Stock Exchange traders said the rumour helped </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/General_Electric_Company_plc">GEC&apos;s</NamedEntityInText><SimpleTextPart> share price to rise 5p, to a final 206p from yesterday&apos;s closing price of 201p. </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Reuter">Reuter</NamedEntityInText></TextWithNamedEntities>
+</Document>
+<Document id="13334">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15162</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
+<TextWithNamedEntities><SimpleTextPart></SimpleTextPart><NamedEntityInText uri="http://aksw.org/notInWiki/Preston_corp">Preston corp</NamedEntityInText><SimpleTextPart> said it expects to report a loss of about 300,000 dlrs or five cts per share for the first quarter, compared with a profit of 1,081,000 dlrs or 19 cts per share a year before. The trucking company attributed the loss to the continued rate of discounted in its primary markets, flat revenues and increased costs, including uninsured claims expense resulting from adverse weather conditions during the last three months. It said results outside the Northeast were strong, and it expects to show improved results for the rest of the year. </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Reuter">Reuter</NamedEntityInText></TextWithNamedEntities>
+</Document>
+<Document id="13335">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15163</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
+<TextWithNamedEntities><SimpleTextPart>The </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Federal_Reserve_System">Federal Reserve</NamedEntityInText><SimpleTextPart> entered the </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Federal_government_of_the_United_States">U.S. Government</NamedEntityInText><SimpleTextPart> securities market and offered to buy all maturities of Treasury notes and bonds, a </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Federal_Reserve_System">Fed</NamedEntityInText><SimpleTextPart> spokesman said. He said this coupon &quot;pass,&quot; which adds permanent reserves to the banking system, was for regular delivery tomorrow. Dealers said that Federal funds were trading at 6-7/16 pct when the </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Federal_Reserve_System">Fed</NamedEntityInText><SimpleTextPart> announced the operation. Economists had been expecting the </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Federal_Reserve_System">Fed</NamedEntityInText><SimpleTextPart> to do this because of the need to offset seasonal factors expected to drain reserves heavily over the next few weeks. The </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Federal_Reserve_System">Fed</NamedEntityInText><SimpleTextPart> had previously offered to buy all coupon issues on March 31. </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Reuter">Reuter</NamedEntityInText></TextWithNamedEntities>
+</Document>
+<Document id="13336">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15164</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
+<TextWithNamedEntities><NamedEntityInText uri="http://aksw.org/notInWiki/Synergen_Inc">Synergen Inc</NamedEntityInText><SimpleTextPart> said it has filed for an offering of 1,500,000 common shares through underwriters led by </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Alex._Brown_%26_Sons">Alex. Brown Inc ABSB</NamedEntityInText><SimpleTextPart>, </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Hambrecht_%26_Quist">Hambrecht and Quist Inc</NamedEntityInText><SimpleTextPart> and </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Boettcher_and_Co_Inc">Boettcher and Co Inc</NamedEntityInText><SimpleTextPart>. It said proceeds will be used to fund research and testing and for other general corporate purposes. </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Reuter">Reuter</NamedEntityInText></TextWithNamedEntities>
+</Document>
+<Document id="13337">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15165</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
+<TextWithNamedEntities><SimpleTextPart>The </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/United_States_Senate_Committee_on_the_Budget">U.S. Senate Budget Committee</NamedEntityInText><SimpleTextPart> ended its stalemate over a budget plan and approved by a single vote a revised 1988 budget proposed by chairman </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Lawton_Chiles">Lawton Chiles</NamedEntityInText><SimpleTextPart> to cut the deficit to 133.7 billion next year. The new plan broke last week&apos;s gridlock in which the committee failed to approve a similar </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Lawton_Chiles">Chiles</NamedEntityInText><SimpleTextPart> plan on a tie vote. Today, the measure was sent to the </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/United_States_Senate">Senate</NamedEntityInText><SimpleTextPart> 13 to 11. Among a series of changes to get the extra vote, </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Lawton_Chiles">Chiles</NamedEntityInText><SimpleTextPart> added about 400 mln dlrs for additional, unspecified, agricultural spending programs to be paid with partly with higher user fees. </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Reuter">Reuter</NamedEntityInText></TextWithNamedEntities>
+</Document>
+<Document id="13338">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15166</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
+<TextWithNamedEntities><NamedEntityInText uri="http://dbpedia.org/resource/Quebec">Quebec</NamedEntityInText><SimpleTextPart> mines minister </SimpleTextPart><NamedEntityInText uri="http://aksw.org/notInWiki/Raymond_Savoie">Raymond Savoie</NamedEntityInText><SimpleTextPart> said the province is prepared to offer money to help re-open (</SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Noranda_(mining_company)">Noranda Inc</NamedEntityInText><SimpleTextPart>)&apos;s </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Murdochville,_Quebec">Murdochville</NamedEntityInText><SimpleTextPart>, </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Quebec">Quebec</NamedEntityInText><SimpleTextPart> copper mine, shut down by fire last week, but said he could not give a specific figure until damage estimates have been completed. Federal member of parliament for the region,  </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Charles-Eugène_Marin">Charles-Eugene Marin</NamedEntityInText><SimpleTextPart>, said last week the federal government is also prepared to provide financial help to restart operations as soon as possible. </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Noranda_(mining_company)">Noranda</NamedEntityInText><SimpleTextPart> has estimated damage from the fire at about 10 mln dlrs and a company spokesman said it should have a more specific estimate by the end of the month. </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Noranda_(mining_company)">Noranda</NamedEntityInText><SimpleTextPart> said it had hoped to have an estimate sooner, but has found that it will take longer than expected to gain access to the burned-out area. </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Noranda_(mining_company)">Noranda</NamedEntityInText><SimpleTextPart> said the mine was not insured. &quot;We decided many years ago...that the costs of insuring all of </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Noranda_(mining_company)">Noranda&apos;s</NamedEntityInText><SimpleTextPart> underground operations would have been prohibitive,&quot; </SimpleTextPart><NamedEntityInText uri="http://aksw.org/notInWiki/Larry_Taylor">Larry Taylor</NamedEntityInText><SimpleTextPart>, </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Noranda_(mining_company)">Noranda&apos;s</NamedEntityInText><SimpleTextPart> risk management and insurance director, said. </SimpleTextPart><NamedEntityInText uri="http://aksw.org/notInWiki/Larry_Taylor">Taylor</NamedEntityInText><SimpleTextPart> said before last week&apos;s fire, the company had only had one previous mine accident many years ago. Last week&apos;s fire killed one miner and trapped 52 other underground, some for up to 24 hours. It was believed to have started on a new conveyor system. </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Noranda_(mining_company)">Noranda</NamedEntityInText><SimpleTextPart> has said it would take four to five months to return the mine to normal operating capacity. It produced 72,0000 tons of copper anode last year, </SimpleTextPart><NamedEntityInText uri="http://aksw.org/notInWiki/Coffin">Coffin</NamedEntityInText><SimpleTextPart> said. </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Reuter">Reuter</NamedEntityInText></TextWithNamedEntities>
+</Document>
+<Document id="13339">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15167</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
+<TextWithNamedEntities><NamedEntityInText uri="http://dbpedia.org/resource/Western_Digital">Western Digital Corp</NamedEntityInText><SimpleTextPart> said its 47 mln dlrs of 6-3/4 pct convertible debentures due 2011, which had been called for redemption, were converted into 2,685,142 common shares. </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Reuter">Reuter</NamedEntityInText></TextWithNamedEntities>
+</Document>
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15168</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
+<Document id="13340">
+<TextWithNamedEntities><NamedEntityInText uri="http://dbpedia.org/resource/Eastman_Kodak">Eastman Kodak Co</NamedEntityInText><SimpleTextPart> is raising 25 mln dlrs through an offering of notes due 1997, said sole underwriter </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Morgan_Stanley">Morgan Stanley and Co Inc</NamedEntityInText><SimpleTextPart>. The notes have a 7-1/2 pct coupon and an initial offering price of 99.625 to yield 7.34 pct, or 20 basis points over five-year Treasury notes. </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Morgan_Stanley">Morgan</NamedEntityInText><SimpleTextPart> said the notes will be reoffered to investors at variable prices. Non-callable for life, the issue is rated Aaa by <TextWithNamedEntities><NamedEntityInText uri="http://dbpedia.org/resource/Moody%27s_Investors_Service">Moody&apos;s Investors Service Inc</NamedEntityInText><SimpleTextPart> and AA by </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Standard_%26_Poor%27s">Standard and Poor&apos;s Corp</NamedEntityInText><SimpleTextPart>. Investors can sell the notes back to the company in 1992. </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Reuter">Reuter</NamedEntityInText></TextWithNamedEntities>
+</Document>
+<Document id="13341">
+    <DocumentURI>http://www.research.att.com/~lewis/Reuters-21578/15169</DocumentURI>
+    <DocumentSource>Reuters-21578</DocumentSource>
+<TextWithNamedEntities><NamedEntityInText uri="http://aksw.org/notInWiki/Le_Peep_Restaurants_Inc">Le Peep Restaurants Inc</NamedEntityInText><SimpleTextPart> said it is suing an </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Ohio">Ohio</NamedEntityInText><SimpleTextPart> company, charging it copied its restaurant from its menu to its design. The action is being taken against </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Shelly%27s_Inc">Shelly&apos;s Inc</NamedEntityInText><SimpleTextPart>, operator of three restaurants in </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Columbus,_Ohio">Columbus</NamedEntityInText><SimpleTextPart>, </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Ohio">Ohio</NamedEntityInText><SimpleTextPart>, the company said. The suit alleges copyright infringement and unfair competition, it said. The suit was filed in </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/United_States_District_Court_for_the_Southern_District_of_Ohio">U.S. District Court of the Southern District in Ohio</NamedEntityInText><SimpleTextPart>, and seeks damages in excess of 2,250,000, the company said. </SimpleTextPart><NamedEntityInText uri="http://dbpedia.org/resource/Reuter">Reuter</NamedEntityInText></TextWithNamedEntities>
+</Document>
 </corpus>

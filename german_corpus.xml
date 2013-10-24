@@ -123,7 +123,7 @@
       <SimpleTextPart> altem </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/VW_Golf" source="manualAnnotation">VW Golf</NamedEntityInText>
       <SimpleTextPart> ist bisher auf dem inzwischen 14 Jahre alten Wagen sitzengebleiben. Wie die </SimpleTextPart>
-      <NamedEntityInText uri="http://de.wikipedia.org/wiki/The_Sun" source="manualAnnotation">Sun</NamedEntityInText>
+      <NamedEntityInText uri="http://de.dbpedia.org/resource/The_Sun" source="manualAnnotation">Sun</NamedEntityInText>
       <SimpleTextPart> meldet, hat </SimpleTextPart>
       <NamedEntityInText uri="http://aksw.org/notInWiki/Gez_Keogh" source="manualAnnotation">Gez Keogh</NamedEntityInText>
       <SimpleTextPart> knapp unter 2000 Pfund (etwa 2300 Euro) für das Auto verlangt.  Der 38-Jährige nahm an, die Interessenten würden sich um den </SimpleTextPart>
@@ -2195,7 +2195,6 @@
     </TextWithNamedEntities>
   </Document>
   <!-- START ADDITIONAL DOCUMENTS -->
-  </Document>
 <Document id="800956050">
     <DocumentSource>news.de</DocumentSource>
     <DocumentURI>http://www.news.de/sport/800956050/aus-fuer-langer-und-kaymer/1/</DocumentURI>
@@ -2667,7 +2666,8 @@
       <SimpleTextPart> war bei der Leserwahl der Fachzeitschrift </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Auto_motor_und_sport" source="manualAnnotation">auto, motor und sport</NamedEntityInText>
       <SimpleTextPart> mit der Mittelklasse-Modellreihe A4/Allroad/A5, dem Cabrio R8 Spyder und dem Geländewagen Q5 erfolgreich. Porsche gewann mit seinem Panamera in der Luxusklasse, wie </SimpleTextPart>
-      <NamedEntityInText uri="http://de.dbpedia.org/resource/Auto_motor_und_sport" source="manualAnnotation">auto, motor und sport</NamedEntityInText> am Donnerstag in </SimpleTextPart>
+      <NamedEntityInText uri="http://de.dbpedia.org/resource/Auto_motor_und_sport" source="manualAnnotation">auto, motor und sport</NamedEntityInText>
+      <SimpleTextPart> am Donnerstag in </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Stuttgart" source="manualAnnotation">Stuttgart</NamedEntityInText>
       <SimpleTextPart> mitteilte. </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Daimler_AG" source="manualAnnotation">Daimler</NamedEntityInText>
@@ -3005,7 +3005,7 @@
       <SimpleTextPart> von der Umweltgruppe </SimpleTextPart>
       <NamedEntityInText uri="http://aksw.org/notInWiki/Gulf_Restoration_Network" source="manualAnnotation">Gulf Restoration Network</NamedEntityInText>
       <SimpleTextPart> erklärte. Bei den gegenwärtigen Windverhältnissen werde das Öl frühestens nach dem Wochenende die Küste erreichen, erklärte ein Experte der </SimpleTextPart>
-      <NamedEntityInText uri="http://de.dbpedia.org/resource/National_Oceanic_and_Atmospheric_Administration" source="manualAnnotation">Nationalen Behörde für Ozeane und Atmosphäre (NOAA)</NamedEntityInText>.<!-- PARAGRAPH --> Nach Angaben der Küstenwacht gab es Hinweise auf einen etwa 1,5 mal acht Kilometer großen Ölteppich. Der Ölkonzern </SimpleTextPart><NamedEntityInText uri="http://de.dbpedia.org/resource/BP">BP</NamedEntityInText><SimpleTextPart>, der die Bohrinsel betrieb, kündigte eine umfangreiche Aufräumaktion zur Beseitigung des Öls an. Tauchroboter sollen Videoaufnahmen von den möglichen Schäden unter Wasser machen, insgesamt 32 Schiffe sollen das Öl aufsaugen oder auf andere Art beseitigen. Es werde alles getan, um den Ölteppich zu beseitigen, erklärte </SimpleTextPart><NamedEntityInText uri="http://de.dbpedia.org/resource/BP">BP</NamedEntityInText><SimpleTextPart>-Chef </SimpleTextPart>
+      <NamedEntityInText uri="http://de.dbpedia.org/resource/National_Oceanic_and_Atmospheric_Administration" source="manualAnnotation">Nationalen Behörde für Ozeane und Atmosphäre (NOAA)</NamedEntityInText><SimpleTextPart>.<!-- PARAGRAPH --> Nach Angaben der Küstenwacht gab es Hinweise auf einen etwa 1,5 mal acht Kilometer großen Ölteppich. Der Ölkonzern </SimpleTextPart><NamedEntityInText uri="http://de.dbpedia.org/resource/BP">BP</NamedEntityInText><SimpleTextPart>, der die Bohrinsel betrieb, kündigte eine umfangreiche Aufräumaktion zur Beseitigung des Öls an. Tauchroboter sollen Videoaufnahmen von den möglichen Schäden unter Wasser machen, insgesamt 32 Schiffe sollen das Öl aufsaugen oder auf andere Art beseitigen. Es werde alles getan, um den Ölteppich zu beseitigen, erklärte </SimpleTextPart><NamedEntityInText uri="http://de.dbpedia.org/resource/BP">BP</NamedEntityInText><SimpleTextPart>-Chef </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Tony_Hayward" source="manualAnnotation">Tony Hayward</NamedEntityInText>
       <SimpleTextPart>. Wenn nötig, würden weitere Kräfte mobilisiert.<!-- PARAGRAPH --> Um Öl von der Wasseroberfläche abzusaugen, waren schon sieben Schiffe sowie vier Flugzeuge im Einsatz, die einen möglichen Ölteppich mit Hilfe von Chemikalien eindämmen können. Bis Donnerstagabend waren 1,8 Kilometer an Ölsperren ausgelegt, wie ein Sprecher sagte.<!-- PARAGRAPH --> <!-- SUBTITLE -->Umweltschützer warnen vor Gefahren durch Bohrinseln.<!-- /SUBTITLE --><!-- PARAGRAPH --> Die Ölplattform «</SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Deepwater_Horizon" source="manualAnnotation">Deepwater Horizon</NamedEntityInText>
@@ -3120,7 +3120,8 @@
       <SimpleTextPart>-Delta im Süden des Staates </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Louisiana" source="manualAnnotation">Louisiana</NamedEntityInText>
       <SimpleTextPart> zugetrieben, wie ein Sprecher der US-Wetterbehörde </SimpleTextPart>
-      <NamedEntityInText uri="http://de.dbpedia.org/resource/National_Oceanic_and_Atmospheric_Administration" source="manualAnnotation">NOAA</NamedEntityInText> mitteilte. Ursprünglich war mit dem Eintreffen des Ölteppichs an Land erst später gerechnet worden.<!-- PARAGRAPH --> Hoffnungen der </SimpleTextPart>
+      <NamedEntityInText uri="http://de.dbpedia.org/resource/National_Oceanic_and_Atmospheric_Administration" source="manualAnnotation">NOAA</NamedEntityInText>
+      <SimpleTextPart> mitteilte. Ursprünglich war mit dem Eintreffen des Ölteppichs an Land erst später gerechnet worden.<!-- PARAGRAPH --> Hoffnungen der </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/United_States_Coast_Guard" source="manualAnnotation">Küstenwache</NamedEntityInText>
       <SimpleTextPart>, einen Teil des Öls noch auf dem Meer durch Abbrennen unschädlich zu machen, hatten sich wegen schlechten Wetters und hohen Wellengangs zerschlagen.<!-- PARAGRAPH --> <!-- SUBTITLE -->«Jetzt wissen wir, dass es näher kommt und uns treffen wird».<!-- /SUBTITLE --><!-- PARAGRAPH --> Damit droht der Südküste der </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Vereinigte_Staaten" source="manualAnnotation">USA</NamedEntityInText>
@@ -3131,8 +3132,8 @@
       <SimpleTextPart>, rief den Notstand aus. «Das gibt Anlass zu erster Sorge», sagte </SimpleTextPart>
       <NamedEntityInText uri="http://aksw.org/notInWiki/David_Kennedy_(NOAA)" source="manualAnnotation">David Kennedy</NamedEntityInText>
       <SimpleTextPart> von der Meeresschutzbehörde </SimpleTextPart>
-      <NamedEntityInText uri="http://de.dbpedia.org/resource/National_Oceanic_and_Atmospheric_Administration" source="manualAnnotation">NOAA</NamedEntityInText>. «Ich bin schockiert. Das ist eine sehr, sehr große Sache.»<!-- PARAGRAPH --> «Seit etwa 30 Minuten können wir es riechen», sagte ein Austernzüchter am Donnerstag in der Ortschaft </SimpleTextPart>
-      <NamedEntityInText uri="http://dbpedia.org/resource/Empire,_Louisiana" source="manualAnnotation">Empire</NamedEntityInText> an der Küste von </SimpleTextPart>
+      <NamedEntityInText uri="http://de.dbpedia.org/resource/National_Oceanic_and_Atmospheric_Administration" source="manualAnnotation">NOAA</NamedEntityInText><SimpleTextPart>. «Ich bin schockiert. Das ist eine sehr, sehr große Sache.»<!-- PARAGRAPH --> «Seit etwa 30 Minuten können wir es riechen», sagte ein Austernzüchter am Donnerstag in der Ortschaft </SimpleTextPart>
+      <NamedEntityInText uri="http://dbpedia.org/resource/Empire,_Louisiana" source="manualAnnotation">Empire</NamedEntityInText><SimpleTextPart> an der Küste von </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Louisiana" source="manualAnnotation">Louisiana</NamedEntityInText>
       <SimpleTextPart>. «Jetzt wissen wir, dass es näher kommt und uns hier treffen wird.»<!-- PARAGRAPH --> <!-- SUBTITLE -->Schaden könnte «Exxon Valdez»-Katastrophe übertreffen.<!-- /SUBTITLE --><!-- PARAGRAPH --> Am Mittwoch wurde klar, dass das Öl aus der Ölbohrplattform ungehindert aus drei verschiedenen Lecks strömt. Am Tag fließen so rund 5000 Barrel (795.000 Liter) ins Meer, fünfmal so viel wie anfangs vermutet. Inzwischen wird es für möglich gehalten, dass das Ausmaß der Tankerkatastrophe der «Exxon Valdez» übertroffen werden könnte. Damals, 1989, flossen im </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Prinz-William-Sund" source="manualAnnotation">Prinz-William-Sund</NamedEntityInText>
@@ -3353,16 +3354,16 @@
       <SimpleTextPart> ein. «Wir werden die ganze Zeit auf Herausforderungen treffen.» Es sei, als lasse man ein Gebäude aus Metall auf den Meeresgrund hinab.<!-- PARAGRAPH --> <!-- SUBTITLE -->Unklar, ob Öl an die Küste gespült wurde.<!-- /SUBTITLE --><!-- PARAGRAPH --> Die Einsatzkräfte begannen indes wieder damit, auf See schweres Öl in der Nähe der Bohrstelle abzufackeln. Zudem wurde der schmierige Teppich weiter mit Hilfe von Schiffen von der Meeresoberfläche abgeschöpft. Beides war über mehrere Tage wegen hoher Wellen und starker Winde nicht möglich gewesen. Laut </SimpleTextPart>
       <NamedEntityInText uri="http://aksw.org/notInWiki/Doug_Suttles" source="manualAnnotation">Suttles</NamedEntityInText>
       <SimpleTextPart> konnte unterdessen zunächst nicht bestätigt werden, dass das Öl irgendwo entlang der amerikanischen Golfküste angelandet sei.<!-- PARAGRAPH --> Gute Nachrichten gibt es indes von der Wetterfront. Zwar werde erwartet, dass der Wind in den nächsten Tagen wieder auf südliche Richtungen drehe, was das Öl Richtung Land treibe, sagte Charlie Henry von der US-Wetterbehörde </SimpleTextPart>
-      <NamedEntityInText uri="http://de.dbpedia.org/resource/National_Oceanic_and_Atmospheric_Administration" source="manualAnnotation">NOAA</NamedEntityInText>. Allerdings sei er eher schwach. Entsprechend werde sich der Ölteppich nicht schnell bewegen. «In dieser Woche wird sich nichts rapide verändern», sagte er.<!-- PARAGRAPH -->  Dem </SimpleTextPart><NamedEntityInText uri="http://de.dbpedia.org/resource/BP">BP</NamedEntityInText><SimpleTextPart>-Konzern gelang es, mit Hilfe eines Unterwasserroboters das kleinste der drei Lecks am Meeresboden zu schließen , aus denen seit nunmehr fast zwei Wochen täglich mindestens 700 Tonnen Rohöl ins Wasser fließen. </SimpleTextPart>
+      <NamedEntityInText uri="http://de.dbpedia.org/resource/National_Oceanic_and_Atmospheric_Administration" source="manualAnnotation">NOAA</NamedEntityInText><SimpleTextPart>. Allerdings sei er eher schwach. Entsprechend werde sich der Ölteppich nicht schnell bewegen. «In dieser Woche wird sich nichts rapide verändern», sagte er.<!-- PARAGRAPH -->  Dem </SimpleTextPart><NamedEntityInText uri="http://de.dbpedia.org/resource/BP">BP</NamedEntityInText><SimpleTextPart>-Konzern gelang es, mit Hilfe eines Unterwasserroboters das kleinste der drei Lecks am Meeresboden zu schließen , aus denen seit nunmehr fast zwei Wochen täglich mindestens 700 Tonnen Rohöl ins Wasser fließen. </SimpleTextPart>
       <NamedEntityInText uri="http://aksw.org/notInWiki/Doug_Suttles" source="manualAnnotation">Suttles</NamedEntityInText>
       <SimpleTextPart> machte abermals deutlich, dass sich dadurch am Ölaustritt praktisch nichts ändere. Der Fortschritt sei allerdings, dass man es nun nur noch mit zwei Lecks zu tun habe.<!-- PARAGRAPH --> Angaben der </SimpleTextPart>
-      <NamedEntityInText uri="http://de.dbpedia.org/resource/National_Oceanic_and_Atmospheric_Administration" source="manualAnnotation">NOAA</NamedEntityInText> zufolge wurden den Behörden seit vorigem Freitag zwischen dem Delta in </SimpleTextPart>
+      <NamedEntityInText uri="http://de.dbpedia.org/resource/National_Oceanic_and_Atmospheric_Administration" source="manualAnnotation">NOAA</NamedEntityInText><SimpleTextPart> zufolge wurden den Behörden seit vorigem Freitag zwischen dem Delta in </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Louisiana" source="manualAnnotation">Louisiana</NamedEntityInText>
       <SimpleTextPart> und </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Alabama" source="manualAnnotation">Alabama</NamedEntityInText>
       <SimpleTextPart> 38 gestrandete Meeresschildkröten gemeldet, die bis auf eine alle tot waren. «Nach sorgfältigen Untersuchungen glauben </SimpleTextPart>
-      <NamedEntityInText uri="http://de.dbpedia.org/resource/National_Oceanic_and_Atmospheric_Administration" source="manualAnnotation">NOAA</NamedEntityInText>-Wissenschaftler nicht, dass die Schildkröten infolge der Ölpest an Land gerieten», sagte </SimpleTextPart>
-      <NamedEntityInText uri="http://de.dbpedia.org/resource/National_Oceanic_and_Atmospheric_Administration" source="manualAnnotation">NOAA</NamedEntityInText>-Koordinatorin Barbara Schroeder. Bei zehn untersuchten Kadavern seien keine Spuren von Öl gefunden worden. An der Golfküste stranden den Angaben zufolge jedes Jahr tausende der Schildkröten.<!-- PARAGRAPH --> <!-- SUBTITLE -->Untergegangene Bohrinsel ist 400 Millionen Dollar wert.<!-- /SUBTITLE --><!-- PARAGRAPH --> Derweil wurde bekannt, dass die Besitzer der untergegangenen Bohrinsel «</SimpleTextPart>
+      <NamedEntityInText uri="http://de.dbpedia.org/resource/National_Oceanic_and_Atmospheric_Administration" source="manualAnnotation">NOAA</NamedEntityInText><SimpleTextPart>-Wissenschaftler nicht, dass die Schildkröten infolge der Ölpest an Land gerieten», sagte </SimpleTextPart>
+      <NamedEntityInText uri="http://de.dbpedia.org/resource/National_Oceanic_and_Atmospheric_Administration" source="manualAnnotation">NOAA</NamedEntityInText><SimpleTextPart>-Koordinatorin Barbara Schroeder. Bei zehn untersuchten Kadavern seien keine Spuren von Öl gefunden worden. An der Golfküste stranden den Angaben zufolge jedes Jahr tausende der Schildkröten.<!-- PARAGRAPH --> <!-- SUBTITLE -->Untergegangene Bohrinsel ist 400 Millionen Dollar wert.<!-- /SUBTITLE --><!-- PARAGRAPH --> Derweil wurde bekannt, dass die Besitzer der untergegangenen Bohrinsel «</SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Deepwater_Horizon" source="manualAnnotation">Deepwater Horizon</NamedEntityInText>
       <SimpleTextPart>» von der Versicherung 401 Millionen Dollar für den Verlust der Anlage erhalten haben. Das teilte die Firma </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Transocean_(Mineralölunternehmen)" source="manualAnnotation">Transocean</NamedEntityInText>
@@ -3587,6 +3588,17 @@
       <SimpleTextPart> Sprecher </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Robert_Gibbs" source="manualAnnotation">Robert Gibbs</NamedEntityInText>
       <SimpleTextPart> kündigte an, dass die US-Regierung die Entscheidung des Gerichtes anfechten wird.
+</SimpleTextPart></TextWithNamedEntities>
+</Document>
+<Document id="855062451">
+    <DocumentSource>news.de</DocumentSource>
+    <DocumentURI>http://www.news.de/schlaglichter/855062451/kappe-faengt-wieder-oel-am-bohrloch-im-golf-von-mexiko-auf/1/</DocumentURI>
+    <DocumentTitleInText>0|56</DocumentTitleInText>
+<TextWithNamedEntities><SimpleTextPart>Kappe fängt wieder Öl am Bohrloch im </SimpleTextPart><SignedNamedEntityInText uri="http://de.dbpedia.org/resource/Golf_von_Mexiko" source="manualAnnotation">Golf von Mexiko</SignedNamedEntityInText><SimpleTextPart> auf.<!-- PARAGRAPH --> </SimpleTextPart><NamedEntityInText uri="http://de.dbpedia.org/resource/Washington,_D.C." source="manualAnnotation">Washington</NamedEntityInText><SimpleTextPart> (</SimpleTextPart>
+      <NamedEntityInText uri="http://de.dbpedia.org/resource/Dpa" source="manualAnnotation">dpa</NamedEntityInText>
+      <SimpleTextPart>) - Im </SimpleTextPart><SignedNamedEntityInText uri="http://de.dbpedia.org/resource/Golf_von_Mexiko" source="manualAnnotation">Golf von Mexiko</SignedNamedEntityInText><SimpleTextPart> kann </SimpleTextPart><NamedEntityInText uri="http://de.dbpedia.org/resource/BP">BP</NamedEntityInText><SimpleTextPart> am Leck auf dem Meeresboden nach einer stundenlangen Panne wieder Öl auffangen. Wie </SimpleTextPart>
+      <NamedEntityInText uri="http://de.dbpedia.org/resource/CNN" source="manualAnnotation">CNN</NamedEntityInText>
+      <SimpleTextPart> berichtet, gelang es den Experten, eine Kappe wieder anzubringen, die das Rohöl über dem Bohrloch sammelt. Ein Unterwasserroboter war gegen die Konstruktion gefahren, so dass die Kappe Stunden vorher hatte entfernt werden müssen. Seit Ende April fließen aus einem Leck in 1500 Metern Tiefe täglich Tonnen von Rohöl ins Meer.
 </SimpleTextPart></TextWithNamedEntities>
 </Document>
 </corpus>
