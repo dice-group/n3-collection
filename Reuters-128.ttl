@@ -75,16 +75,6 @@
       itsrdf:taIdentRef <http://de.dbpedia.org/resource/Cocoa_Producers’_Alliance> ;
       itsrdf:taSource "DBpedia_de_3.9"^^xsd:string .
 
-<http://aksw.org/N3/Reuters-128/49#char=4010,4016>
-      a       nif:RFC5147String ;
-      nif:anchorOf "Heyman"^^xsd:string ;
-      nif:beginIndex "4010"^^xsd:int ;
-      nif:endIndex "4016"^^xsd:int ;
-      nif:referenceContext
-              <http://aksw.org/N3/Reuters-128/49#char=0,5142> ;
-      itsrdf:taIdentRef <http://dbpedia.org/resource/Samuel_J._Heyman> ;
-      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
-
 <http://aksw.org/N3/Reuters-128/117#char=728,751>
       a       nif:RFC5147String ;
       nif:anchorOf "Public Service Colorado"^^xsd:string ;
@@ -115,14 +105,15 @@
       itsrdf:taIdentRef <http://dbpedia.org/resource/CBS_Corporation> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
-<http://aksw.org/N3/Reuters-128/49#char=1861,1869>
+<http://aksw.org/N3/Reuters-128/126#char=271,277>
       a       nif:RFC5147String ;
-      nif:anchorOf "Oreffice"^^xsd:string ;
-      nif:beginIndex "1861"^^xsd:int ;
-      nif:endIndex "1869"^^xsd:int ;
+      nif:anchorOf "Morgan"^^xsd:string ;
+      nif:beginIndex "271"^^xsd:int ;
+      nif:endIndex "277"^^xsd:int ;
       nif:referenceContext
-              <http://aksw.org/N3/Reuters-128/49#char=0,5142> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+              <http://aksw.org/N3/Reuters-128/126#char=0,429> ;
+      itsrdf:taIdentRef <http://dbpedia.org/resource/Morgan_Stanley> ;
+      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
 <http://aksw.org/N3/Reuters-128/36#char=934,945>
       a       nif:RFC5147String ;
@@ -146,6 +137,15 @@ nif:anchorOf
               <http://aksw.org/N3/Reuters-128/76#char=0,764> ;
       itsrdf:taIdentRef <http://dbpedia.org/resource/Investment_Technology_Group> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
+
+<http://aksw.org/N3/Reuters-128/49#char=3754,3760>
+      a       nif:RFC5147String ;
+      nif:anchorOf "Dosher"^^xsd:string ;
+      nif:beginIndex "3754"^^xsd:int ;
+      nif:endIndex "3760"^^xsd:int ;
+      nif:referenceContext
+              <http://aksw.org/N3/Reuters-128/49#char=0,5148> ;
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/John_Dosher> .
 
 <http://aksw.org/N3/Reuters-128/41#char=0,481>
       a       nif:String , nif:Context , nif:RFC5147String ;
@@ -239,7 +239,17 @@ nif:anchorOf
       nif:endIndex "507"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/107#char=0,1190> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Tehran_Radio> .
+
+<http://aksw.org/N3/Reuters-128/49#char=2925,2928>
+      a       nif:RFC5147String ;
+      nif:anchorOf "GAF"^^xsd:string ;
+      nif:beginIndex "2925"^^xsd:int ;
+      nif:endIndex "2928"^^xsd:int ;
+      nif:referenceContext
+              <http://aksw.org/N3/Reuters-128/49#char=0,5148> ;
+      itsrdf:taIdentRef <http://dbpedia.org/resource/GAF_Materials_Corporation> ;
+      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
 <http://aksw.org/N3/Reuters-128/61#char=265,272>
       a       nif:RFC5147String ;
@@ -337,7 +347,7 @@ nif:anchorOf
       nif:endIndex "492"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/22#char=0,787> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Meyer_Detective_Agency_Inc> .
 
 <http://aksw.org/N3/Reuters-128/118#char=1763,1767>
       a       nif:RFC5147String ;
@@ -469,16 +479,6 @@ nif:anchorOf
       itsrdf:taIdentRef <http://dbpedia.org/resource/United_States_Department_of_the_Treasury> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
-<http://aksw.org/N3/Reuters-128/49#char=3591,3602>
-      a       nif:RFC5147String ;
-      nif:anchorOf "Monsanto Co"^^xsd:string ;
-      nif:beginIndex "3591"^^xsd:int ;
-      nif:endIndex "3602"^^xsd:int ;
-      nif:referenceContext
-              <http://aksw.org/N3/Reuters-128/49#char=0,5142> ;
-      itsrdf:taIdentRef <http://dbpedia.org/resource/Monsanto> ;
-      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
-
 <http://aksw.org/N3/Reuters-128/111#char=1467,1483>
       a       nif:RFC5147String ;
       nif:anchorOf "Thomson McKinnon"^^xsd:string ;
@@ -486,7 +486,7 @@ nif:anchorOf
       nif:endIndex "1483"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/111#char=0,3308> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Thomson_McKinnon> .
 
 <http://aksw.org/N3/Reuters-128/31#char=414,421>
       a       nif:RFC5147String ;
@@ -505,7 +505,7 @@ nif:anchorOf
       nif:endIndex "14"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/17#char=0,359> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Southmark_Corp> .
 
 <http://aksw.org/N3/Reuters-128/2#char=67,88>
       a       nif:RFC5147String ;
@@ -514,7 +514,7 @@ nif:anchorOf
       nif:endIndex "88"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/2#char=0,284> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Erskine_Resources_Ltd> .
 
 <http://aksw.org/N3/Reuters-128/54#char=0,35>
       a       nif:RFC5147String ;
@@ -533,7 +533,7 @@ nif:anchorOf
       nif:endIndex "3282"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/111#char=0,3308> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/West_Point-Pepperell_Inc> .
 
 <http://aksw.org/N3/Reuters-128/13#char=0,532>
       a       nif:String , nif:Context , nif:RFC5147String ;
@@ -549,7 +549,7 @@ nif:anchorOf
       nif:endIndex "13"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/59#char=0,333> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Shopsmith_Inc> .
 
 <http://aksw.org/N3/Reuters-128/9#char=0,1676>
       a       nif:String , nif:Context , nif:RFC5147String ;
@@ -565,7 +565,7 @@ nif:anchorOf
       nif:endIndex "116"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/52#char=0,263> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/John_Wineapple> .
 
 <http://aksw.org/N3/Reuters-128/74#char=0,558>
       a       nif:String , nif:Context , nif:RFC5147String ;
@@ -573,6 +573,15 @@ nif:anchorOf
       nif:endIndex "558"^^xsd:int ;
       nif:isString "Ameribanc Inc is raising 15 mln dlrs through an offering of convertible subordinated capital notes due 1995 with an eight pct coupon and par pricing, said lead manager Stifel, Nicolaus and Co Inc. The debentures are convertible into the companys common stock at 18.75 dlrs per share, representing a premium of 27.1 pct over the stock price when terms on the debt were set. The issue is non-callable for two years. It was not rated by Moodys Investors or Standard and Poors at the time of the pricing, Stifel said. Burns, Pauli and Co Inc co-managed the deal."@en ;
       nif:sourceUrl <http://www.research.att.com/~lewis/Reuters-21578/15100> .
+
+<http://aksw.org/N3/Reuters-128/49#char=4191,4224>
+      a       nif:RFC5147String ;
+      nif:anchorOf "Sterling investment banking group"^^xsd:string ;
+      nif:beginIndex "4191"^^xsd:int ;
+      nif:endIndex "4224"^^xsd:int ;
+      nif:referenceContext
+              <http://aksw.org/N3/Reuters-128/49#char=0,5148> ;
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Sterling_investment_banking_group> .
 
 <http://aksw.org/N3/Reuters-128/111#char=1565,1589>
       a       nif:RFC5147String ;
@@ -634,13 +643,6 @@ nif:anchorOf
       itsrdf:taIdentRef <http://dbpedia.org/resource/Paris_Club> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
-<http://aksw.org/N3/Reuters-128/49#char=0,5142>
-      a       nif:String , nif:Context , nif:RFC5147String ;
-      nif:beginIndex "0"^^xsd:int ;
-      nif:endIndex "5142"^^xsd:int ;
-      nif:isString "Cheap oil feedstocks, the weakened U.S. dollar and a plant utilization rate approaching 90 pct will propel the streamlined U.S. petrochemical industry to record profits this year, with growth expected through at least 1990, major company executives predicted. This bullish outlook for chemical manufacturing and an industrywide move to shed unrelated businesses has prompted GAF Corp (GAF), privately-held Cain Chemical Inc, and other firms to aggressively seek acquisitions of petrochemical plants. Oil companies such as Ashland Oil Inc (ASH), the Kentucky-based oil refiner and marketer, are also shopping for money-making petrochemical businesses to buy. I see us poised at the threshold of a golden period, said Paul Oreffice, chairman of giant Dow Chemical Co DOW, adding, Theres no major plant capacity being added around the world now. The whole game is bringing out new products and improving the old ones. Analysts say the chemical industrys biggest customers, automobile manufacturers and home builders that use a lot of paints and plastics, are expected to buy quantities this year. U.S. petrochemical plants are currently operating at about 90 pct capacity, reflecting tighter supply that could hike product prices by 30 to 40 pct this year, said John Dosher, managing director of Pace Consultants Inc of Houston. Demand for some products such as styrene could push profit margins up by as much as 300 pct, he said. Oreffice, speaking at a meeting of chemical engineers in Houston, said Dow would easily top the 741 mln dlrs it earned last year and predicted it would have the best year in its history. In 1985, when oil prices were still above 25 dlrs a barrel and chemical exports were adversely affected by the strong U.S. dollar, Dow had profits of 58 mln dlrs. I believe the entire chemical industry is headed for a record year or close to it, Oreffice said. GAF chairman Samuel Heyman estimated that the U.S. chemical industry would report a 20 pct gain in profits during 1987. Last year, the domestic industry earned a total of 13 billion dlrs, a 54 pct leap from 1985. The turn in the fortunes of the once-sickly chemical industry has been brought about by a combination of luck and planning, said Paces John Dosher. Dosher said last years fall in oil prices made feedstocks dramatically cheaper and at the same time the American dollar was weakening against foreign currencies. That helped boost U.S. chemical exports. Also helping to bring supply and demand into balance has been the gradual market absorption of the extra chemical manufacturing capacity created by Middle Eastern oil producers in the early 1980s. Finally, virtually all major U.S. chemical manufacturers have embarked on an extensive corporate restructuring program to mothball inefficient plants, trim the payroll and eliminate unrelated businesses. The restructuring touched off a flurry of friendly and hostile takeover attempts. GAF, which made an unsuccessful attempt in 1985 to acquire Union Carbide Corp UK, recently offered three billion dlrs for Borg Warner Corp BOR, a Chicago manufacturer of plastics and chemicals. Another industry powerhouse, W.R. Grace GRA has divested its retailing, restaurant and fertilizer businesses to raise cash for chemical acquisitions. But some experts worry that the chemical industry may be headed for trouble if companies continue turning their back on the manufacturing of staple petrochemical commodities, such as ethylene, in favor of more profitable specialty chemicals that are custom-designed for a small group of buyers. Companies like DuPont DD and Monsanto Co MTC spent the past two or three years trying to get out of the commodity chemical business in reaction to how badly the market had deteriorated, Dosher said. But I think they will eventually kill the margins on the profitable chemicals in the niche market. Some top chemical executives share the concern. The challenge for our industry is to keep from getting carried away and repeating past mistakes, GAFs Heyman cautioned. The shift from commodity chemicals may be ill-advised. Specialty businesses do not stay special long. Houston-based Cain Chemical, created this month by the Sterling investment banking group, believes it can generate 700 mln dlrs in annual sales by bucking the industry trend. Chairman Gordon Cain, who previously led a leveraged buyout of Duponts Conoco Incs chemical business, has spent 1.1 billion dlrs since January to buy seven petrochemical plants along the Texas Gulf Coast. The plants produce only basic commodity petrochemicals that are the building blocks of specialty products. This kind of commodity chemical business will never be a glamorous, high-margin business, Cain said, adding that demand is expected to grow by about three pct annually. Garo Armen, an analyst with Dean Witter Reynolds, said chemical makers have also benefitted by increasing demand for plastics as prices become more competitive with aluminum, wood and steel products. Armen estimated the upturn in the chemical business could last as long as four or five years, provided the U.S. economy continues its modest rate of growth."@en ;
-      nif:sourceUrl <http://www.research.att.com/~lewis/Reuters-21578/15063> .
-
 <http://aksw.org/N3/Reuters-128/47#char=100,116>
       a       nif:RFC5147String ;
       nif:anchorOf "Bristol-Myers Co"^^xsd:string ;
@@ -687,6 +689,15 @@ nif:anchorOf
       nif:endIndex "421"^^xsd:int ;
       nif:isString "Asarco Inc said it completed the sale of four mln shares of Asarco common stock to an underwriting group led by First Boston Corp. The underwriters sold the shares to the public at a price of 22.50 dlrs a share, the minerals and energy company said. Proceeds of about 86 mln dlrs will be used to reduce outstanding debt, it said. The offering included 3.5 mln shares announced April 1 and 500,000 to cover overallotments."@en ;
       nif:sourceUrl <http://www.research.att.com/~lewis/Reuters-21578/15035> .
+
+<http://aksw.org/N3/Reuters-128/49#char=1430,1438>
+      a       nif:RFC5147String ;
+      nif:anchorOf "Oreffice"^^xsd:string ;
+      nif:beginIndex "1430"^^xsd:int ;
+      nif:endIndex "1438"^^xsd:int ;
+      nif:referenceContext
+              <http://aksw.org/N3/Reuters-128/49#char=0,5148> ;
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Paul_Oreffice> .
 
 <http://aksw.org/N3/Reuters-128/101#char=0,484>
       a       nif:String , nif:Context , nif:RFC5147String ;
@@ -762,7 +773,7 @@ nif:anchorOf
       nif:endIndex "889"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/79#char=0,1490> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Leonardo_Brito> .
 
 <http://aksw.org/N3/Reuters-128/84#char=432,465>
       a       nif:RFC5147String ;
@@ -781,7 +792,7 @@ nif:anchorOf
       nif:endIndex "153"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/84#char=0,1012> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/French_Federation_of_Non-Ferrous_Metals> .
 
 itsrdf:taIdentRef
       a       owl:DatatypeProperty .
@@ -793,16 +804,6 @@ itsrdf:taIdentRef
       nif:isString "Entourage International Inc said it plans to package solid perfume in a lipstick tube and retail the product, called Amadeus, for 15 dlrs. The company said the product was first test marketed in Feburary after six months of research and development."@en ;
       nif:sourceUrl <http://www.research.att.com/~lewis/Reuters-21578/15131> .
 
-<http://aksw.org/N3/Reuters-128/49#char=1485,1492>
-      a       nif:RFC5147String ;
-      nif:anchorOf "Houston"^^xsd:string ;
-      nif:beginIndex "1485"^^xsd:int ;
-      nif:endIndex "1492"^^xsd:int ;
-      nif:referenceContext
-              <http://aksw.org/N3/Reuters-128/49#char=0,5142> ;
-      itsrdf:taIdentRef <http://dbpedia.org/resource/Houston> ;
-      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
-
 <http://aksw.org/N3/Reuters-128/100#char=54,88>
       a       nif:RFC5147String ;
       nif:anchorOf "Securities and Exchange Commission"^^xsd:string ;
@@ -813,14 +814,15 @@ itsrdf:taIdentRef
       itsrdf:taIdentRef <http://dbpedia.org/resource/U.S._Securities_and_Exchange_Commission> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
-<http://aksw.org/N3/Reuters-128/49#char=2224,2235>
+<http://aksw.org/N3/Reuters-128/49#char=1319,1326>
       a       nif:RFC5147String ;
-      nif:anchorOf "John Dosher"^^xsd:string ;
-      nif:beginIndex "2224"^^xsd:int ;
-      nif:endIndex "2235"^^xsd:int ;
+      nif:anchorOf "Houston"^^xsd:string ;
+      nif:beginIndex "1319"^^xsd:int ;
+      nif:endIndex "1326"^^xsd:int ;
       nif:referenceContext
-              <http://aksw.org/N3/Reuters-128/49#char=0,5142> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+              <http://aksw.org/N3/Reuters-128/49#char=0,5148> ;
+      itsrdf:taIdentRef <http://dbpedia.org/resource/Houston> ;
+      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
 <http://aksw.org/N3/Reuters-128/96#char=17,38>
       a       nif:RFC5147String ;
@@ -829,7 +831,7 @@ itsrdf:taIdentRef
       nif:endIndex "38"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/96#char=0,599> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Interstate_Properties> .
 
 <http://aksw.org/N3/Reuters-128/48#char=267,285>
       a       nif:RFC5147String ;
@@ -838,7 +840,7 @@ itsrdf:taIdentRef
       nif:endIndex "285"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/48#char=0,286> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/IVB_Financial_Corp> .
 
 <http://aksw.org/N3/Reuters-128/33#char=681,688>
       a       nif:RFC5147String ;
@@ -950,7 +952,7 @@ nif:referenceContext
       nif:endIndex "11"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/89#char=0,221> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Madeira_Inc> .
 
 <http://aksw.org/N3/Reuters-128/31#char=1025,1032>
       a       nif:RFC5147String ;
@@ -959,7 +961,7 @@ nif:referenceContext
       nif:endIndex "1032"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/31#char=0,2168> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Robert_W_Scherer> .
 
 <http://aksw.org/N3/Reuters-128/18#char=0,423>
       a       nif:String , nif:Context , nif:RFC5147String ;
@@ -986,6 +988,16 @@ nif:referenceContext
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/66#char=0,1268> ;
       itsrdf:taIdentRef <http://dbpedia.org/resource/Netherlands> ;
+      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
+
+<http://aksw.org/N3/Reuters-128/49#char=3589,3591>
+      a       nif:RFC5147String ;
+      nif:anchorOf "DD"^^xsd:string ;
+      nif:beginIndex "3589"^^xsd:int ;
+      nif:endIndex "3591"^^xsd:int ;
+      nif:referenceContext
+              <http://aksw.org/N3/Reuters-128/49#char=0,5148> ;
+      itsrdf:taIdentRef <http://dbpedia.org/resource/DuPont> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
 <http://aksw.org/N3/Reuters-128/108#char=311,315>
@@ -1038,15 +1050,6 @@ nif:referenceContext
       itsrdf:taIdentRef <http://dbpedia.org/resource/London> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
-<http://aksw.org/N3/Reuters-128/49#char=4185,4218>
-      a       nif:RFC5147String ;
-      nif:anchorOf "Sterling investment banking group"^^xsd:string ;
-      nif:beginIndex "4185"^^xsd:int ;
-      nif:endIndex "4218"^^xsd:int ;
-      nif:referenceContext
-              <http://aksw.org/N3/Reuters-128/49#char=0,5142> ;
-      itsrdf:taIdentRef aksw:notInWiki .
-
 <http://aksw.org/N3/Reuters-128/4#char=0,37>
       a       nif:RFC5147String ;
       nif:anchorOf "Digital Communications Associates Inc"^^xsd:string ;
@@ -1054,7 +1057,7 @@ nif:referenceContext
       nif:endIndex "37"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/4#char=0,266> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Digital_Communications_Associates_Inc> .
 
 <http://aksw.org/N3/Reuters-128/58#char=704,711>
       a       nif:RFC5147String ;
@@ -1083,7 +1086,7 @@ nif:referenceContext
       nif:endIndex "22"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/12#char=0,479> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Pancontinental_Oil_Ltd> .
 
 <http://aksw.org/N3/Reuters-128/119#char=514,520>
       a       nif:RFC5147String ;
@@ -1105,16 +1108,6 @@ nif:referenceContext
       itsrdf:taIdentRef <http://dbpedia.org/resource/Detroit> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
-<http://aksw.org/N3/Reuters-128/49#char=1499,1502>
-      a       nif:RFC5147String ;
-      nif:anchorOf "Dow"^^xsd:string ;
-      nif:beginIndex "1499"^^xsd:int ;
-      nif:endIndex "1502"^^xsd:int ;
-      nif:referenceContext
-              <http://aksw.org/N3/Reuters-128/49#char=0,5142> ;
-      itsrdf:taIdentRef <http://dbpedia.org/resource/Dow_Chemical_Company> ;
-      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
-
 <http://aksw.org/N3/Reuters-128/111#char=1822,1829>
       a       nif:RFC5147String ;
       nif:anchorOf "Gormley"^^xsd:string ;
@@ -1122,7 +1115,7 @@ nif:referenceContext
       nif:endIndex "1829"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/111#char=0,3308> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Eileen_Gormley> .
 
 <http://aksw.org/N3/Reuters-128/22#char=276,279>
       a       nif:RFC5147String ;
@@ -1161,7 +1154,7 @@ nif:referenceContext
       nif:endIndex "133"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/109#char=0,531> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/W.B._Saunders_Co_of_Canada_Ltd> .
 
 <http://aksw.org/N3/Reuters-128/61#char=69,79>
       a       nif:RFC5147String ;
@@ -1210,7 +1203,7 @@ nif:referenceContext
       nif:endIndex "319"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/58#char=0,870> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/G_H_Shintoh> .
 
 <http://aksw.org/N3/Reuters-128/118#char=1120,1124>
       a       nif:RFC5147String ;
@@ -1259,7 +1252,7 @@ nif:referenceContext
       nif:endIndex "80"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/57#char=0,829> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/U.S._District_Court> .
 
 <http://aksw.org/N3/Reuters-128/0#char=53,57>
       a       nif:RFC5147String ;
@@ -1268,7 +1261,8 @@ nif:referenceContext
       nif:endIndex "57"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/0#char=0,128> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://de.dbpedia.org/resource/Lohn_(Eschweiler)> ;
+      itsrdf:taSource "DBpedia_de_3.9"^^xsd:string .
 
 <http://aksw.org/N3/Reuters-128/116#char=362,368>
       a       nif:RFC5147String ;
@@ -1287,7 +1281,7 @@ nif:referenceContext
       nif:endIndex "1133"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/30#char=0,2886> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/William_West> .
 
 <http://aksw.org/N3/Reuters-128/91#char=133,145>
       a       nif:RFC5147String ;
@@ -1296,7 +1290,7 @@ nif:referenceContext
       nif:endIndex "145"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/91#char=0,1329> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/AgrimontSPA> .
 
 <http://aksw.org/N3/Reuters-128/31#char=1209,1222>
       a       nif:RFC5147String ;
@@ -1362,7 +1356,7 @@ nif:referenceContext
       nif:endIndex "1463"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/111#char=0,3308> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Eileen_Gormley> .
 
 <http://aksw.org/N3/Reuters-128/67#char=976,982>
       a       nif:RFC5147String ;
@@ -1371,7 +1365,7 @@ nif:referenceContext
       nif:endIndex "982"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/67#char=0,1627> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Michel_Dufour> .
 
 <http://aksw.org/N3/Reuters-128/9#char=147,164>
       a       nif:RFC5147String ;
@@ -1409,15 +1403,6 @@ nif:referenceContext
       itsrdf:taIdentRef <http://dbpedia.org/resource/Brazil> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
-<http://aksw.org/N3/Reuters-128/49#char=4144,4157>
-      a       nif:RFC5147String ;
-      nif:anchorOf "Cain Chemical"^^xsd:string ;
-      nif:beginIndex "4144"^^xsd:int ;
-      nif:endIndex "4157"^^xsd:int ;
-      nif:referenceContext
-              <http://aksw.org/N3/Reuters-128/49#char=0,5142> ;
-      itsrdf:taIdentRef aksw:notInWiki .
-
 <http://aksw.org/N3/Reuters-128/82#char=1351,1357>
       a       nif:RFC5147String ;
       nif:anchorOf "London"^^xsd:string ;
@@ -1426,6 +1411,16 @@ nif:referenceContext
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/82#char=0,1370> ;
       itsrdf:taIdentRef <http://dbpedia.org/resource/London> ;
+      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
+
+<http://aksw.org/N3/Reuters-128/49#char=4992,4997>
+      a       nif:RFC5147String ;
+      nif:anchorOf "Armen"^^xsd:string ;
+      nif:beginIndex "4992"^^xsd:int ;
+      nif:endIndex "4997"^^xsd:int ;
+      nif:referenceContext
+              <http://aksw.org/N3/Reuters-128/49#char=0,5148> ;
+      itsrdf:taIdentRef <http://dbpedia.org/resource/Garo_H._Armen> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
 <http://aksw.org/N3/Reuters-128/39#char=0,184>
@@ -1452,6 +1447,15 @@ nif:referenceContext
       nif:isString "Federal Paperboard Co Inc said it has entered into an agreement with Ozaki Trading Co Ltd of Osaka, Japan, allowing Ozaki to represent Federal Paperboards bleached paperboard sales in Japan. Federal added it will be opening an office in Japan in the near future."@en ;
       nif:sourceUrl <http://www.research.att.com/~lewis/Reuters-21578/15030> .
 
+<http://aksw.org/N3/Reuters-128/58#char=44,47>
+      a       nif:RFC5147String ;
+      nif:anchorOf "CAC"^^xsd:string ;
+      nif:beginIndex "44"^^xsd:int ;
+      nif:endIndex "47"^^xsd:int ;
+      nif:referenceContext
+              <http://aksw.org/N3/Reuters-128/58#char=0,870> ;
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Victorian_Corporate_Affairs_Commission> .
+
 <http://aksw.org/N3/Reuters-128/27#char=0,21>
       a       nif:RFC5147String ;
       nif:anchorOf "American Midland Corp"^^xsd:string ;
@@ -1459,7 +1463,7 @@ nif:referenceContext
       nif:endIndex "21"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/27#char=0,435> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/American_Midland_Corp> .
 
 <http://aksw.org/N3/Reuters-128/105#char=0,1870>
       a       nif:String , nif:Context , nif:RFC5147String ;
@@ -1505,7 +1509,7 @@ nif:referenceContext
       nif:endIndex "742"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/91#char=0,1329> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/AgrimontSPA> .
 
 <http://aksw.org/N3/Reuters-128/111#char=341,362>
       a       nif:RFC5147String ;
@@ -1544,7 +1548,7 @@ nif:referenceContext
       nif:endIndex "77"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/4#char=0,266> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/James_Ottinger> .
 
 <http://aksw.org/N3/Reuters-128/77#char=0,22>
       a       nif:RFC5147String ;
@@ -1668,7 +1672,7 @@ nif:referenceContext
       nif:endIndex "460"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/92#char=0,745> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Datron_Corp> .
 
 <http://aksw.org/N3/Reuters-128/66#char=447,452>
       a       nif:RFC5147String ;
@@ -1687,7 +1691,7 @@ nif:referenceContext
       nif:endIndex "75"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/91#char=0,1329> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Agrimont_Group> .
 
 <http://aksw.org/N3/Reuters-128/58#char=115,124>
       a       nif:RFC5147String ;
@@ -1698,6 +1702,26 @@ nif:referenceContext
               <http://aksw.org/N3/Reuters-128/58#char=0,870> ;
       itsrdf:taIdentRef <http://dbpedia.org/resource/Australia> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
+
+<http://aksw.org/N3/Reuters-128/49#char=4016,4022>
+      a       nif:RFC5147String ;
+      nif:anchorOf "Heyman"^^xsd:string ;
+      nif:beginIndex "4016"^^xsd:int ;
+      nif:endIndex "4022"^^xsd:int ;
+      nif:referenceContext
+              <http://aksw.org/N3/Reuters-128/49#char=0,5148> ;
+      itsrdf:taIdentRef <http://dbpedia.org/resource/Samuel_J._Heyman> ;
+      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
+
+<http://aksw.org/N3/Reuters-128/69#char=163,166>
+      a       nif:RFC5147String ;
+      nif:anchorOf "CPA"^^xsd:string ;
+      nif:beginIndex "163"^^xsd:int ;
+      nif:endIndex "166"^^xsd:int ;
+      nif:referenceContext
+              <http://aksw.org/N3/Reuters-128/69#char=0,1634> ;
+      itsrdf:taIdentRef <http://de.dbpedia.org/resource/Cocoa_Producers’_Alliance> ;
+      itsrdf:taSource "DBpedia_de_3.9"^^xsd:string .
 
 <http://aksw.org/N3/Reuters-128/100#char=401,418>
       a       nif:RFC5147String ;
@@ -1819,7 +1843,7 @@ nif:referenceContext
       nif:endIndex "839"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/91#char=0,1329> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/AgrimontSPA> .
 
 <http://aksw.org/N3/Reuters-128/106#char=1493,1498>
       a       nif:RFC5147String ;
@@ -1828,7 +1852,7 @@ nif:referenceContext
       nif:endIndex "1498"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/106#char=0,1504> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Jerzy_Urban> .
 
 <http://aksw.org/N3/Reuters-128/72#char=0,33>
       a       nif:RFC5147String ;
@@ -1847,7 +1871,7 @@ nif:referenceContext
       nif:endIndex "433"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/57#char=0,829> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Advanced_Voice_Technologies> .
 
 <http://aksw.org/N3/Reuters-128/109#char=63,101>
       a       nif:RFC5147String ;
@@ -1856,7 +1880,7 @@ nif:referenceContext
       nif:endIndex "101"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/109#char=0,531> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Holt,_Rinehart_and_Winston_Canada_Ltd> .
 
 <http://aksw.org/N3/Reuters-128/53#char=259,267>
       a       nif:RFC5147String ;
@@ -1875,7 +1899,7 @@ nif:referenceContext
       nif:endIndex "194"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/48#char=0,286> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Industrial_Valley_Title_Insurance_Co> .
 
 <http://aksw.org/N3/Reuters-128/59#char=42,62>
       a       nif:RFC5147String ;
@@ -1884,7 +1908,7 @@ nif:referenceContext
       nif:endIndex "62"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/59#char=0,333> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Joseph_DiGaicomo_Jr.> .
 
 <http://aksw.org/N3/Reuters-128/5#char=18,40>
       a       nif:RFC5147String ;
@@ -1960,16 +1984,6 @@ nif:referenceContext
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/122#char=0,281> ;
       itsrdf:taIdentRef <http://aksw.org/notInWiki/Synergen_Inc> .
-
-<http://aksw.org/N3/Reuters-128/49#char=4986,4991>
-      a       nif:RFC5147String ;
-      nif:anchorOf "Armen"^^xsd:string ;
-      nif:beginIndex "4986"^^xsd:int ;
-      nif:endIndex "4991"^^xsd:int ;
-      nif:referenceContext
-              <http://aksw.org/N3/Reuters-128/49#char=0,5142> ;
-      itsrdf:taIdentRef <http://dbpedia.org/resource/Garo_H._Armen> ;
-      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
 <http://aksw.org/N3/Reuters-128/93#char=260,359>
       a       nif:RFC5147String ;
@@ -2055,7 +2069,7 @@ nif:referenceContext
       nif:endIndex "303"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/96#char=0,599> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Interstate_Properties> .
 
 <http://aksw.org/N3/Reuters-128/65#char=305,310>
       a       nif:RFC5147String ;
@@ -2094,7 +2108,7 @@ nif:referenceContext
       nif:endIndex "49"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/0#char=0,128> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Thermo-Print_GmbH> .
 
 <http://aksw.org/N3/Reuters-128/11#char=0,348>
       a       nif:String , nif:Context , nif:RFC5147String ;
@@ -2127,7 +2141,7 @@ nif:referenceContext
       nif:endIndex "33"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/28#char=0,199> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Wedgestone_Realty_Investors_Trust> .
 
 <http://aksw.org/N3/Reuters-128/36#char=215,234>
       a       nif:RFC5147String ;
@@ -2166,7 +2180,7 @@ nif:referenceContext
       nif:endIndex "20"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/51#char=0,578> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/CMS_Enhancements_Inc> .
 
 <http://aksw.org/N3/Reuters-128/91#char=466,476>
       a       nif:RFC5147String ;
@@ -2184,16 +2198,6 @@ nif:referenceContext
       nif:endIndex "908"^^xsd:int ;
       nif:isString "World output of staple foods maintained growth in 1986, following a record harvest the year before, and most of the increase was in developing countries, the director general of the U.N.s Food and Agriculture Organisation (FAO) said. Speaking to FAOs committee on world food security, Edouard Saouma said sub-Saharan Africa registered a cereal production increase of 3.6 pct in 1986 and the Far East also continued to increase production. Despite ample supplies worldwide, many countries face problems in paying for all the food they need, he said. Saouma said many of the developing worlds food problems were the result of chaotic world trade. He said it was vital to promote employment to improve the food-security situation of the poor, with policy reforms in developing countries to remove existing disincentives to production so that agriculture could play a greater role in stimulating economic growth."@en ;
       nif:sourceUrl <http://www.research.att.com/~lewis/Reuters-21578/15058> .
-
-<http://aksw.org/N3/Reuters-128/49#char=3577,3583>
-      a       nif:RFC5147String ;
-      nif:anchorOf "DuPont"^^xsd:string ;
-      nif:beginIndex "3577"^^xsd:int ;
-      nif:endIndex "3583"^^xsd:int ;
-      nif:referenceContext
-              <http://aksw.org/N3/Reuters-128/49#char=0,5142> ;
-      itsrdf:taIdentRef <http://dbpedia.org/resource/DuPont> ;
-      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
 <http://aksw.org/N3/Reuters-128/71#char=0,8>
       a       nif:RFC5147String ;
@@ -2215,17 +2219,7 @@ itsrdf:taSource
       nif:endIndex "160"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/63#char=0,347> ;
-      itsrdf:taIdentRef aksw:notInWiki .
-
-<http://aksw.org/N3/Reuters-128/49#char=1889,1902>
-      a       nif:RFC5147String ;
-      nif:anchorOf "Samuel Heyman"^^xsd:string ;
-      nif:beginIndex "1889"^^xsd:int ;
-      nif:endIndex "1902"^^xsd:int ;
-      nif:referenceContext
-              <http://aksw.org/N3/Reuters-128/49#char=0,5142> ;
-      itsrdf:taIdentRef <http://dbpedia.org/resource/Samuel_J._Heyman> ;
-      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Mosaic_Systems_Inc> .
 
 <http://aksw.org/N3/Reuters-128/99#char=149,176>
       a       nif:RFC5147String ;
@@ -2254,7 +2248,7 @@ itsrdf:taSource
       nif:endIndex "25"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/21#char=0,262> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Federal_Paperboard_Co_Inc> .
 
 <http://aksw.org/N3/Reuters-128/22#char=732,741>
       a       nif:RFC5147String ;
@@ -2283,7 +2277,7 @@ itsrdf:taSource
       nif:endIndex "11"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/92#char=0,745> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Datron_Corp> .
 
 <http://aksw.org/N3/Reuters-128/30#char=1537,1552>
       a       nif:RFC5147String ;
@@ -2292,7 +2286,7 @@ itsrdf:taSource
       nif:endIndex "1552"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/30#char=0,2886> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Stuart_Weisbrod> .
 
 <http://aksw.org/N3/Reuters-128/111#char=588,596>
       a       nif:RFC5147String ;
@@ -2415,7 +2409,7 @@ itsrdf:taSource
       nif:endIndex "440"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/22#char=0,787> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Capital_Investigations_and_Protective_Agency> .
 
 <http://aksw.org/N3/Reuters-128/9#char=1574,1579>
       a       nif:RFC5147String ;
@@ -2451,6 +2445,15 @@ itsrdf:taSource
       itsrdf:taIdentRef <http://dbpedia.org/resource/La_Pampa_Province> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
+<http://aksw.org/N3/Reuters-128/49#char=1261,1272>
+      a       nif:RFC5147String ;
+      nif:anchorOf "John Dosher"^^xsd:string ;
+      nif:beginIndex "1261"^^xsd:int ;
+      nif:endIndex "1272"^^xsd:int ;
+      nif:referenceContext
+              <http://aksw.org/N3/Reuters-128/49#char=0,5148> ;
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/John_Dosher> .
+
 <http://aksw.org/N3/Reuters-128/10#char=116,123>
       a       nif:RFC5147String ;
       nif:anchorOf "Philips"^^xsd:string ;
@@ -2478,7 +2481,16 @@ itsrdf:taSource
       nif:endIndex "1113"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/31#char=0,2168> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Robert_W_Scherer> .
+
+<http://aksw.org/N3/Reuters-128/49#char=4713,4717>
+      a       nif:RFC5147String ;
+      nif:anchorOf "Cain"^^xsd:string ;
+      nif:beginIndex "4713"^^xsd:int ;
+      nif:endIndex "4717"^^xsd:int ;
+      nif:referenceContext
+              <http://aksw.org/N3/Reuters-128/49#char=0,5148> ;
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Gordon_Cain> .
 
 <http://aksw.org/N3/Reuters-128/117#char=1041,1055>
       a       nif:RFC5147String ;
@@ -2517,7 +2529,7 @@ itsrdf:taSource
       nif:endIndex "296"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/3#char=0,507> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Entourage_International_Inc> .
 
 <http://aksw.org/N3/Reuters-128/50#char=0,26>
       a       nif:RFC5147String ;
@@ -2560,7 +2572,7 @@ itsrdf:taSource
       nif:endIndex "209"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/113#char=0,2492> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Makoto_Kuroda> .
 
 <http://aksw.org/N3/Reuters-128/70#char=206,209>
       a       nif:RFC5147String ;
@@ -2579,7 +2591,7 @@ itsrdf:taSource
       nif:endIndex "539"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/58#char=0,870> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Victorian_Corporate_Affairs_Commission> .
 
 <http://aksw.org/N3/Reuters-128/93#char=1043,1049>
       a       nif:RFC5147String ;
@@ -2611,15 +2623,6 @@ itsrdf:taSource
       itsrdf:taIdentRef <http://de.dbpedia.org/resource/Montedison> ;
       itsrdf:taSource "DBpedia_de_3.9"^^xsd:string .
 
-<http://aksw.org/N3/Reuters-128/49#char=4707,4711>
-      a       nif:RFC5147String ;
-      nif:anchorOf "Cain"^^xsd:string ;
-      nif:beginIndex "4707"^^xsd:int ;
-      nif:endIndex "4711"^^xsd:int ;
-      nif:referenceContext
-              <http://aksw.org/N3/Reuters-128/49#char=0,5142> ;
-      itsrdf:taIdentRef aksw:notInWiki .
-
 <http://aksw.org/N3/Reuters-128/56#char=0,31>
       a       nif:RFC5147String ;
       nif:anchorOf "Shared Network Technologies Inc"^^xsd:string ;
@@ -2627,7 +2630,7 @@ itsrdf:taSource
       nif:endIndex "31"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/56#char=0,756> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Shared_Network_Technologies_Inc> .
 
 <http://aksw.org/N3/Reuters-128/2#char=256,263>
       a       nif:RFC5147String ;
@@ -2636,7 +2639,7 @@ itsrdf:taSource
       nif:endIndex "263"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/2#char=0,284> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Erskine_Resources_Ltd> .
 
 <http://aksw.org/N3/Reuters-128/82#char=330,352>
       a       nif:RFC5147String ;
@@ -2722,7 +2725,7 @@ itsrdf:taSource
       nif:endIndex "324"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/47#char=0,506> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Advanced_Cardiovascular_Systems_Inc> .
 
 <http://aksw.org/N3/Reuters-128/10#char=0,488>
       a       nif:String , nif:Context , nif:RFC5147String ;
@@ -2745,6 +2748,16 @@ itsrdf:taSource
       nif:isString "Ford Motor Co said it extended its buyer incentive program on light trucks to April 30 from April 6, the programs previous expiration date. Ford, which saw a 23 pct rise in its March truck sales over the March 1986 level, said the incentives were extended to maintain its truck sales momentum. The program itself was not changed. Customers have a choice of 3.9 to 9.9 annual percentage rate financing or a cash rebate of 300 dlrs or 600 dlrs, depending on the type of transmission chosen. Ford last week extended to April 30 from March 12 its incentive program on its compact trucks and the Ford Taurus and Mercury Sable cars."@en ;
       nif:sourceUrl <http://www.research.att.com/~lewis/Reuters-21578/15057> .
 
+<http://aksw.org/N3/Reuters-128/49#char=1748,1751>
+      a       nif:RFC5147String ;
+      nif:anchorOf "Dow"^^xsd:string ;
+      nif:beginIndex "1748"^^xsd:int ;
+      nif:endIndex "1751"^^xsd:int ;
+      nif:referenceContext
+              <http://aksw.org/N3/Reuters-128/49#char=0,5148> ;
+      itsrdf:taIdentRef <http://dbpedia.org/resource/Dow_Chemical_Company> ;
+      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
+
 <http://aksw.org/N3/Reuters-128/94#char=925,941>
       a       nif:RFC5147String ;
       nif:anchorOf "Amsterdam bourse"^^xsd:string ;
@@ -2765,6 +2778,15 @@ itsrdf:taSource
       itsrdf:taIdentRef <http://dbpedia.org/resource/International_Monetary_Fund> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
+<http://aksw.org/N3/Reuters-128/49#char=1295,1315>
+      a       nif:RFC5147String ;
+      nif:anchorOf "Pace Consultants Inc"^^xsd:string ;
+      nif:beginIndex "1295"^^xsd:int ;
+      nif:endIndex "1315"^^xsd:int ;
+      nif:referenceContext
+              <http://aksw.org/N3/Reuters-128/49#char=0,5148> ;
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Pace_Consultants_Inc> .
+
 <http://aksw.org/N3/Reuters-128/112#char=0,370>
       a       nif:String , nif:Context , nif:RFC5147String ;
       nif:beginIndex "0"^^xsd:int ;
@@ -2779,7 +2801,7 @@ itsrdf:taSource
       nif:endIndex "21"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/95#char=0,322> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/CNA_Income_Shares_Inc> .
 
 <http://aksw.org/N3/Reuters-128/5#char=0,250>
       a       nif:String , nif:Context , nif:RFC5147String ;
@@ -2787,6 +2809,16 @@ itsrdf:taSource
       nif:endIndex "250"^^xsd:int ;
       nif:isString "Teradyne Inc said Digital Equipment Corp signed a multi-license purchase agreement valed at over one mln dlrs for Teradynes Lasar Version Six Simulation System. The company said the agreement includes the option for futrue lasar purchases by Digital."@en ;
       nif:sourceUrl <http://www.research.att.com/~lewis/Reuters-21578/15008> .
+
+<http://aksw.org/N3/Reuters-128/49#char=3160,3163>
+      a       nif:RFC5147String ;
+      nif:anchorOf "GRA"^^xsd:string ;
+      nif:beginIndex "3160"^^xsd:int ;
+      nif:endIndex "3163"^^xsd:int ;
+      nif:referenceContext
+              <http://aksw.org/N3/Reuters-128/49#char=0,5148> ;
+      itsrdf:taIdentRef <http://dbpedia.org/resource/W.R._Grace> ;
+      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
 <http://aksw.org/N3/Reuters-128/107#char=420,427>
       a       nif:RFC5147String ;
@@ -2835,7 +2867,7 @@ itsrdf:taSource
       nif:endIndex "211"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/2#char=0,284> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Bashaw_Leduc_Oil_and_Gas_Ltd> .
 
 <http://aksw.org/N3/Reuters-128/67#char=867,881>
       a       nif:RFC5147String ;
@@ -2844,7 +2876,7 @@ itsrdf:taSource
       nif:endIndex "881"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/67#char=0,1627> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Avondale_Mills> .
 
 <http://aksw.org/N3/Reuters-128/105#char=1321,1324>
       a       nif:RFC5147String ;
@@ -2866,6 +2898,16 @@ itsrdf:taSource
       itsrdf:taIdentRef <http://dbpedia.org/resource/La_Pampa_Province> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
+<http://aksw.org/N3/Reuters-128/49#char=3148,3158>
+      a       nif:RFC5147String ;
+      nif:anchorOf "W.R. Grace"^^xsd:string ;
+      nif:beginIndex "3148"^^xsd:int ;
+      nif:endIndex "3158"^^xsd:int ;
+      nif:referenceContext
+              <http://aksw.org/N3/Reuters-128/49#char=0,5148> ;
+      itsrdf:taIdentRef <http://dbpedia.org/resource/W.R._Grace> ;
+      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
+
 <http://aksw.org/N3/Reuters-128/9#char=1177,1182>
       a       nif:RFC5147String ;
       nif:anchorOf "Rolls"^^xsd:string ;
@@ -2883,7 +2925,7 @@ itsrdf:taSource
       nif:endIndex "1218"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/91#char=0,1329> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Ferruzzi_Groups> .
 
 <http://aksw.org/N3/Reuters-128/77#char=610,616>
       a       nif:RFC5147String ;
@@ -2962,7 +3004,7 @@ itsrdf:taSource
       nif:endIndex "485"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/57#char=0,829> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Advanced_Voice_Technologies> .
 
 <http://aksw.org/N3/Reuters-128/109#char=0,531>
       a       nif:String , nif:Context , nif:RFC5147String ;
@@ -3008,7 +3050,7 @@ itsrdf:taSource
       nif:endIndex "214"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/9#char=0,1676> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Samuel_Montagu_and_Sons_Ltd> .
 
 <http://aksw.org/N3/Reuters-128/0#char=0,10>
       a       nif:RFC5147String ;
@@ -3027,7 +3069,17 @@ itsrdf:taSource
       nif:endIndex "935"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/84#char=0,1012> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/French_Federation_of_Non-Ferrous_Metals> .
+
+<http://aksw.org/N3/Reuters-128/49#char=1891,1904>
+      a       nif:RFC5147String ;
+      nif:anchorOf "Samuel Heyman"^^xsd:string ;
+      nif:beginIndex "1891"^^xsd:int ;
+      nif:endIndex "1904"^^xsd:int ;
+      nif:referenceContext
+              <http://aksw.org/N3/Reuters-128/49#char=0,5148> ;
+      itsrdf:taIdentRef <http://dbpedia.org/resource/Samuel_J._Heyman> ;
+      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
 <http://aksw.org/N3/Reuters-128/107#char=776,783>
       a       nif:RFC5147String ;
@@ -3048,6 +3100,13 @@ itsrdf:taSource
               <http://aksw.org/N3/Reuters-128/118#char=0,2011> ;
       itsrdf:taIdentRef <http://aksw.org/notInWiki/INTEL_Corp_INTC> .
 
+<http://aksw.org/N3/Reuters-128/89#char=0,221>
+      a       nif:String , nif:Context , nif:RFC5147String ;
+      nif:beginIndex "0"^^xsd:int ;
+      nif:endIndex "221"^^xsd:int ;
+      nif:isString "Madeira Inc said it signed a letter of intent to be acquired by Tradevest Inc through a stock-for-stock exchange. After completion of the transaction, Tradevest would own 90 pct of the issued outstanding stock of Madeira."@en ;
+      nif:sourceUrl <http://www.research.att.com/~lewis/Reuters-21578/15119> .
+
 <http://aksw.org/N3/Reuters-128/85#char=32,66>
       a       nif:RFC5147String ;
       nif:anchorOf "Securities and Exchange Commission"^^xsd:string ;
@@ -3058,13 +3117,6 @@ itsrdf:taSource
       itsrdf:taIdentRef <http://dbpedia.org/resource/U.S._Securities_and_Exchange_Commission> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
-<http://aksw.org/N3/Reuters-128/89#char=0,221>
-      a       nif:String , nif:Context , nif:RFC5147String ;
-      nif:beginIndex "0"^^xsd:int ;
-      nif:endIndex "221"^^xsd:int ;
-      nif:isString "Madeira Inc said it signed a letter of intent to be acquired by Tradevest Inc through a stock-for-stock exchange. After completion of the transaction, Tradevest would own 90 pct of the issued outstanding stock of Madeira."@en ;
-      nif:sourceUrl <http://www.research.att.com/~lewis/Reuters-21578/15119> .
-
 <http://aksw.org/N3/Reuters-128/12#char=76,123>
       a       nif:RFC5147String ;
       nif:anchorOf "Pemberton Houston Willoughby Bell Gouinlock Inc"^^xsd:string ;
@@ -3072,7 +3124,7 @@ itsrdf:taSource
       nif:endIndex "123"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/12#char=0,479> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Pemberton_Houston_Willoughby_Bell_Gouinlock_Inc> .
 
 <http://aksw.org/N3/Reuters-128/48#char=0,286>
       a       nif:String , nif:Context , nif:RFC5147String ;
@@ -3128,7 +3180,7 @@ itsrdf:taSource
       nif:endIndex "14"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/104#char=0,130> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Yankee_Cos_Inc> .
 
 <http://aksw.org/N3/Reuters-128/36#char=413,428>
       a       nif:RFC5147String ;
@@ -3275,7 +3327,7 @@ itsrdf:taSource
       nif:endIndex "373"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/58#char=0,870> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Victorian_Corporate_Affairs_Commission> .
 
 <http://aksw.org/N3/Reuters-128/36#char=59,72>
       a       nif:RFC5147String ;
@@ -3304,7 +3356,7 @@ itsrdf:taSource
       nif:endIndex "500"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/109#char=0,531> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Holt,_Rinehart_and_Winston_Canada_Ltd> .
 
 <http://aksw.org/N3/Reuters-128/36#char=973,978>
       a       nif:RFC5147String ;
@@ -3314,16 +3366,6 @@ itsrdf:taSource
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/36#char=0,1146> ;
       itsrdf:taIdentRef <http://dbpedia.org/resource/James_Baker> ;
-      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
-
-<http://aksw.org/N3/Reuters-128/49#char=4814,4834>
-      a       nif:RFC5147String ;
-      nif:anchorOf "Dean Witter Reynolds"^^xsd:string ;
-      nif:beginIndex "4814"^^xsd:int ;
-      nif:endIndex "4834"^^xsd:int ;
-      nif:referenceContext
-              <http://aksw.org/N3/Reuters-128/49#char=0,5142> ;
-      itsrdf:taIdentRef <http://dbpedia.org/resource/Dean_Witter_Reynolds> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
 <http://aksw.org/N3/Reuters-128/46#char=232,260>
@@ -3353,7 +3395,7 @@ itsrdf:taSource
       nif:endIndex "318"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/22#char=0,787> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Cartel_Security_Consultants_Inc> .
 
 <http://aksw.org/N3/Reuters-128/22#char=383,388>
       a       nif:RFC5147String ;
@@ -3433,6 +3475,16 @@ itsrdf:taSource
       itsrdf:taIdentRef <http://dbpedia.org/resource/Rolls-Royce_plc> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
+<http://aksw.org/N3/Reuters-128/126#char=0,16>
+      a       nif:RFC5147String ;
+      nif:anchorOf "Eastman Kodak Co"^^xsd:string ;
+      nif:beginIndex "0"^^xsd:int ;
+      nif:endIndex "16"^^xsd:int ;
+      nif:referenceContext
+              <http://aksw.org/N3/Reuters-128/126#char=0,429> ;
+      itsrdf:taIdentRef <http://dbpedia.org/resource/Eastman_Kodak> ;
+      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
+
 <http://aksw.org/N3/Reuters-128/81#char=0,589>
       a       nif:String , nif:Context , nif:RFC5147String ;
       nif:beginIndex "0"^^xsd:int ;
@@ -3494,7 +3546,7 @@ itsrdf:taSource
       nif:endIndex "370"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/106#char=0,1504> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Jerzy_Urban> .
 
 <http://aksw.org/N3/Reuters-128/113#char=1960,1965>
       a       nif:RFC5147String ;
@@ -3523,7 +3575,7 @@ itsrdf:taSource
       nif:endIndex "114"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/112#char=0,370> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Amplicon_Inc> .
 
 <http://aksw.org/N3/Reuters-128/67#char=697,713>
       a       nif:RFC5147String ;
@@ -3542,7 +3594,7 @@ itsrdf:taSource
       nif:endIndex "753"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/31#char=0,2168> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Robert_W_Scherer> .
 
 <http://aksw.org/N3/Reuters-128/31#char=0,2168>
       a       nif:String , nif:Context , nif:RFC5147String ;
@@ -3558,7 +3610,7 @@ itsrdf:taSource
       nif:endIndex "190"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/51#char=0,578> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/CMS_Enhancements_Inc> .
 
 <http://aksw.org/N3/Reuters-128/118#char=913,927>
       a       nif:RFC5147String ;
@@ -3616,7 +3668,7 @@ itsrdf:taSource
       nif:endIndex "322"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/59#char=0,333> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/John_R._Folkerth> .
 
 <http://aksw.org/N3/Reuters-128/50#char=69,74>
       a       nif:RFC5147String ;
@@ -3695,7 +3747,7 @@ itsrdf:taSource
       nif:endIndex "241"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/53#char=0,418> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Freeport-McMoRan_Oil_and_Gas_Royalty_Trust> .
 
 <http://aksw.org/N3/Reuters-128/124#char=1624,1630>
       a       nif:RFC5147String ;
@@ -3751,7 +3803,17 @@ itsrdf:taSource
       nif:endIndex "87"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/48#char=0,286> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Industrial_Valley_Title_Insurance_Co> .
+
+<http://aksw.org/N3/Reuters-128/49#char=4498,4514>
+      a       nif:RFC5147String ;
+      nif:anchorOf "Texas Gulf Coast"^^xsd:string ;
+      nif:beginIndex "4498"^^xsd:int ;
+      nif:endIndex "4514"^^xsd:int ;
+      nif:referenceContext
+              <http://aksw.org/N3/Reuters-128/49#char=0,5148> ;
+      itsrdf:taIdentRef <http://dbpedia.org/resource/Gulf_Coast_of_the_United_States> ;
+      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
 <http://aksw.org/N3/Reuters-128/35#char=179,193>
       a       nif:RFC5147String ;
@@ -3770,7 +3832,7 @@ itsrdf:taSource
       nif:endIndex "327"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/106#char=0,1504> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Jerzy_Urban> .
 
 <http://aksw.org/N3/Reuters-128/25#char=156,180>
       a       nif:RFC5147String ;
@@ -3789,7 +3851,7 @@ itsrdf:taSource
       nif:endIndex "666"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/57#char=0,829> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Advanced_Voice_Technologies> .
 
 <http://aksw.org/N3/Reuters-128/71#char=156,164>
       a       nif:RFC5147String ;
@@ -3863,11 +3925,21 @@ Preston corp said it expects to report a loss of about 300,000 dlrs or five cts 
       nif:endIndex "599"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/22#char=0,787> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Certified_Security_Services_Inc> .
 
 <http://aksw.org/N3/Reuters-128>
       a       nif:ContextCollection ;
-      nif:hasContext <http://aksw.org/N3/Reuters-128/6#char=0,106> , <http://aksw.org/N3/Reuters-128/50#char=0,209> , <http://aksw.org/N3/Reuters-128/22#char=0,787> , <http://aksw.org/N3/Reuters-128/19#char=0,427> , <http://aksw.org/N3/Reuters-128/60#char=0,497> , <http://aksw.org/N3/Reuters-128/67#char=0,1627> , <http://aksw.org/N3/Reuters-128/27#char=0,435> , <http://aksw.org/N3/Reuters-128/2#char=0,284> , <http://aksw.org/N3/Reuters-128/52#char=0,263> , <http://aksw.org/N3/Reuters-128/81#char=0,589> , <http://aksw.org/N3/Reuters-128/110#char=0,204> , <http://aksw.org/N3/Reuters-128/24#char=0,922> , <http://aksw.org/N3/Reuters-128/0#char=0,128> , <http://aksw.org/N3/Reuters-128/102#char=0,588> , <http://aksw.org/N3/Reuters-128/111#char=0,3308> , <http://aksw.org/N3/Reuters-128/117#char=0,1104> , <http://aksw.org/N3/Reuters-128/38#char=0,310> , <http://aksw.org/N3/Reuters-128/85#char=0,234> , <http://aksw.org/N3/Reuters-128/3#char=0,507> , <http://aksw.org/N3/Reuters-128/41#char=0,481> , <http://aksw.org/N3/Reuters-128/31#char=0,2168> , <http://aksw.org/N3/Reuters-128/20#char=0,360> , <http://aksw.org/N3/Reuters-128/42#char=0,961> , <http://aksw.org/N3/Reuters-128/57#char=0,829> , <http://aksw.org/N3/Reuters-128/75#char=0,165> , <http://aksw.org/N3/Reuters-128/35#char=0,560> , <http://aksw.org/N3/Reuters-128/123#char=0,645> , <http://aksw.org/N3/Reuters-128/59#char=0,333> , <http://aksw.org/N3/Reuters-128/87#char=0,439> , <http://aksw.org/N3/Reuters-128/82#char=0,1370> , <http://aksw.org/N3/Reuters-128/69#char=0,1634> , <http://aksw.org/N3/Reuters-128/65#char=0,429> , <http://aksw.org/N3/Reuters-128/21#char=0,262> , <http://aksw.org/N3/Reuters-128/119#char=0,520> , <http://aksw.org/N3/Reuters-128/39#char=0,184> , <http://aksw.org/N3/Reuters-128/105#char=0,1870> , <http://aksw.org/N3/Reuters-128/40#char=0,339> , <http://aksw.org/N3/Reuters-128/107#char=0,1190> , <http://aksw.org/N3/Reuters-128/34#char=0,912> , <http://aksw.org/N3/Reuters-128/83#char=0,226> , <http://aksw.org/N3/Reuters-128/118#char=0,2011> , <http://aksw.org/N3/Reuters-128/120#char=0,556> , <http://aksw.org/N3/Reuters-128/106#char=0,1504> , <http://aksw.org/N3/Reuters-128/36#char=0,1146> , <http://aksw.org/N3/Reuters-128/58#char=0,870> , <http://aksw.org/N3/Reuters-128/76#char=0,764> , <http://aksw.org/N3/Reuters-128/55#char=0,1157> , <http://aksw.org/N3/Reuters-128/13#char=0,532> , <http://aksw.org/N3/Reuters-128/9#char=0,1676> , <http://aksw.org/N3/Reuters-128/10#char=0,488> , <http://aksw.org/N3/Reuters-128/54#char=0,544> , <http://aksw.org/N3/Reuters-128/44#char=0,626> , <http://aksw.org/N3/Reuters-128/74#char=0,558> , <http://aksw.org/N3/Reuters-128/53#char=0,418> , <http://aksw.org/N3/Reuters-128/127#char=0,457> , <http://aksw.org/N3/Reuters-128/92#char=0,745> , <http://aksw.org/N3/Reuters-128/112#char=0,370> , <http://aksw.org/N3/Reuters-128/84#char=0,1012> , <http://aksw.org/N3/Reuters-128/14#char=0,1163> , <http://aksw.org/N3/Reuters-128/86#char=0,1233> , <http://aksw.org/N3/Reuters-128/49#char=0,5142> , <http://aksw.org/N3/Reuters-128/93#char=0,1055> , <http://aksw.org/N3/Reuters-128/108#char=0,453> , <http://aksw.org/N3/Reuters-128/116#char=0,1015> , <http://aksw.org/N3/Reuters-128/99#char=0,517> , <http://aksw.org/N3/Reuters-128/33#char=0,3486> , <http://aksw.org/N3/Reuters-128/66#char=0,1268> , <http://aksw.org/N3/Reuters-128/61#char=0,1091> , <http://aksw.org/N3/Reuters-128/125#char=0,177> , <http://aksw.org/N3/Reuters-128/5#char=0,250> , <http://aksw.org/N3/Reuters-128/114#char=0,271> , <http://aksw.org/N3/Reuters-128/26#char=0,421> , <http://aksw.org/N3/Reuters-128/101#char=0,484> , <http://aksw.org/N3/Reuters-128/103#char=0,560> , <http://aksw.org/N3/Reuters-128/113#char=0,2492> , <http://aksw.org/N3/Reuters-128/43#char=0,369> , <http://aksw.org/N3/Reuters-128/124#char=0,1630> , <http://aksw.org/N3/Reuters-128/71#char=0,763> , <http://aksw.org/N3/Reuters-128/37#char=0,584> , <http://aksw.org/N3/Reuters-128/70#char=0,282> , <http://aksw.org/N3/Reuters-128/98#char=0,249> , <http://aksw.org/N3/Reuters-128/91#char=0,1329> , <http://aksw.org/N3/Reuters-128/100#char=0,468> , <http://aksw.org/N3/Reuters-128/104#char=0,130> , <http://aksw.org/N3/Reuters-128/109#char=0,531> , <http://aksw.org/N3/Reuters-128/8#char=0,1157> , <http://aksw.org/N3/Reuters-128/47#char=0,506> , <http://aksw.org/N3/Reuters-128/89#char=0,221> , <http://aksw.org/N3/Reuters-128/90#char=0,176> , <http://aksw.org/N3/Reuters-128/17#char=0,359> , <http://aksw.org/N3/Reuters-128/64#char=0,256> , <http://aksw.org/N3/Reuters-128/88#char=0,244> , <http://aksw.org/N3/Reuters-128/48#char=0,286> , <http://aksw.org/N3/Reuters-128/97#char=0,144> , <http://aksw.org/N3/Reuters-128/15#char=0,409> , <http://aksw.org/N3/Reuters-128/95#char=0,322> , <http://aksw.org/N3/Reuters-128/4#char=0,266> , <http://aksw.org/N3/Reuters-128/1#char=0,337> , <http://aksw.org/N3/Reuters-128/72#char=0,515> , <http://aksw.org/N3/Reuters-128/23#char=0,157> , <http://aksw.org/N3/Reuters-128/94#char=0,1058> , <http://aksw.org/N3/Reuters-128/18#char=0,423> , <http://aksw.org/N3/Reuters-128/78#char=0,375> , <http://aksw.org/N3/Reuters-128/62#char=0,533> , <http://aksw.org/N3/Reuters-128/73#char=0,426> , <http://aksw.org/N3/Reuters-128/11#char=0,348> , <http://aksw.org/N3/Reuters-128/63#char=0,347> , <http://aksw.org/N3/Reuters-128/77#char=0,2444> , <http://aksw.org/N3/Reuters-128/16#char=0,409> , <http://aksw.org/N3/Reuters-128/80#char=0,750> , <http://aksw.org/N3/Reuters-128/25#char=0,315> , <http://aksw.org/N3/Reuters-128/115#char=0,935> , <http://aksw.org/N3/Reuters-128/96#char=0,599> , <http://aksw.org/N3/Reuters-128/28#char=0,199> , <http://aksw.org/N3/Reuters-128/45#char=0,908> , <http://aksw.org/N3/Reuters-128/51#char=0,578> , <http://aksw.org/N3/Reuters-128/12#char=0,479> , <http://aksw.org/N3/Reuters-128/46#char=0,290> , <http://aksw.org/N3/Reuters-128/32#char=0,325> , <http://aksw.org/N3/Reuters-128/30#char=0,2886> , <http://aksw.org/N3/Reuters-128/79#char=0,1490> , <http://aksw.org/N3/Reuters-128/121#char=0,637> , <http://aksw.org/N3/Reuters-128/68#char=0,563> , <http://aksw.org/N3/Reuters-128/7#char=0,598> , <http://aksw.org/N3/Reuters-128/122#char=0,281> , <http://aksw.org/N3/Reuters-128/29#char=0,308> , <http://aksw.org/N3/Reuters-128/56#char=0,756> .
+      nif:hasContext <http://aksw.org/N3/Reuters-128/6#char=0,106> , <http://aksw.org/N3/Reuters-128/50#char=0,209> , <http://aksw.org/N3/Reuters-128/22#char=0,787> , <http://aksw.org/N3/Reuters-128/19#char=0,427> , <http://aksw.org/N3/Reuters-128/60#char=0,497> , <http://aksw.org/N3/Reuters-128/67#char=0,1627> , <http://aksw.org/N3/Reuters-128/27#char=0,435> , <http://aksw.org/N3/Reuters-128/2#char=0,284> , <http://aksw.org/N3/Reuters-128/52#char=0,263> , <http://aksw.org/N3/Reuters-128/81#char=0,589> , <http://aksw.org/N3/Reuters-128/110#char=0,204> , <http://aksw.org/N3/Reuters-128/24#char=0,922> , <http://aksw.org/N3/Reuters-128/0#char=0,128> , <http://aksw.org/N3/Reuters-128/102#char=0,588> , <http://aksw.org/N3/Reuters-128/111#char=0,3308> , <http://aksw.org/N3/Reuters-128/117#char=0,1104> , <http://aksw.org/N3/Reuters-128/38#char=0,310> , <http://aksw.org/N3/Reuters-128/85#char=0,234> , <http://aksw.org/N3/Reuters-128/3#char=0,507> , <http://aksw.org/N3/Reuters-128/41#char=0,481> , <http://aksw.org/N3/Reuters-128/31#char=0,2168> , <http://aksw.org/N3/Reuters-128/20#char=0,360> , <http://aksw.org/N3/Reuters-128/42#char=0,961> , <http://aksw.org/N3/Reuters-128/57#char=0,829> , <http://aksw.org/N3/Reuters-128/75#char=0,165> , <http://aksw.org/N3/Reuters-128/35#char=0,560> , <http://aksw.org/N3/Reuters-128/123#char=0,645> , <http://aksw.org/N3/Reuters-128/49#char=0,5148> , <http://aksw.org/N3/Reuters-128/59#char=0,333> , <http://aksw.org/N3/Reuters-128/87#char=0,439> , <http://aksw.org/N3/Reuters-128/82#char=0,1370> , <http://aksw.org/N3/Reuters-128/69#char=0,1634> , <http://aksw.org/N3/Reuters-128/65#char=0,429> , <http://aksw.org/N3/Reuters-128/21#char=0,262> , <http://aksw.org/N3/Reuters-128/119#char=0,520> , <http://aksw.org/N3/Reuters-128/39#char=0,184> , <http://aksw.org/N3/Reuters-128/105#char=0,1870> , <http://aksw.org/N3/Reuters-128/40#char=0,339> , <http://aksw.org/N3/Reuters-128/107#char=0,1190> , <http://aksw.org/N3/Reuters-128/34#char=0,912> , <http://aksw.org/N3/Reuters-128/83#char=0,226> , <http://aksw.org/N3/Reuters-128/118#char=0,2011> , <http://aksw.org/N3/Reuters-128/120#char=0,556> , <http://aksw.org/N3/Reuters-128/106#char=0,1504> , <http://aksw.org/N3/Reuters-128/36#char=0,1146> , <http://aksw.org/N3/Reuters-128/58#char=0,870> , <http://aksw.org/N3/Reuters-128/76#char=0,764> , <http://aksw.org/N3/Reuters-128/55#char=0,1157> , <http://aksw.org/N3/Reuters-128/13#char=0,532> , <http://aksw.org/N3/Reuters-128/9#char=0,1676> , <http://aksw.org/N3/Reuters-128/10#char=0,488> , <http://aksw.org/N3/Reuters-128/54#char=0,544> , <http://aksw.org/N3/Reuters-128/44#char=0,626> , <http://aksw.org/N3/Reuters-128/74#char=0,558> , <http://aksw.org/N3/Reuters-128/53#char=0,418> , <http://aksw.org/N3/Reuters-128/127#char=0,457> , <http://aksw.org/N3/Reuters-128/92#char=0,745> , <http://aksw.org/N3/Reuters-128/112#char=0,370> , <http://aksw.org/N3/Reuters-128/84#char=0,1012> , <http://aksw.org/N3/Reuters-128/14#char=0,1163> , <http://aksw.org/N3/Reuters-128/86#char=0,1233> , <http://aksw.org/N3/Reuters-128/93#char=0,1055> , <http://aksw.org/N3/Reuters-128/108#char=0,453> , <http://aksw.org/N3/Reuters-128/116#char=0,1015> , <http://aksw.org/N3/Reuters-128/99#char=0,517> , <http://aksw.org/N3/Reuters-128/33#char=0,3486> , <http://aksw.org/N3/Reuters-128/66#char=0,1268> , <http://aksw.org/N3/Reuters-128/61#char=0,1091> , <http://aksw.org/N3/Reuters-128/125#char=0,177> , <http://aksw.org/N3/Reuters-128/5#char=0,250> , <http://aksw.org/N3/Reuters-128/114#char=0,271> , <http://aksw.org/N3/Reuters-128/26#char=0,421> , <http://aksw.org/N3/Reuters-128/101#char=0,484> , <http://aksw.org/N3/Reuters-128/103#char=0,560> , <http://aksw.org/N3/Reuters-128/113#char=0,2492> , <http://aksw.org/N3/Reuters-128/43#char=0,369> , <http://aksw.org/N3/Reuters-128/124#char=0,1630> , <http://aksw.org/N3/Reuters-128/71#char=0,763> , <http://aksw.org/N3/Reuters-128/37#char=0,584> , <http://aksw.org/N3/Reuters-128/70#char=0,282> , <http://aksw.org/N3/Reuters-128/98#char=0,249> , <http://aksw.org/N3/Reuters-128/91#char=0,1329> , <http://aksw.org/N3/Reuters-128/100#char=0,468> , <http://aksw.org/N3/Reuters-128/104#char=0,130> , <http://aksw.org/N3/Reuters-128/109#char=0,531> , <http://aksw.org/N3/Reuters-128/8#char=0,1157> , <http://aksw.org/N3/Reuters-128/47#char=0,506> , <http://aksw.org/N3/Reuters-128/89#char=0,221> , <http://aksw.org/N3/Reuters-128/90#char=0,176> , <http://aksw.org/N3/Reuters-128/17#char=0,359> , <http://aksw.org/N3/Reuters-128/64#char=0,256> , <http://aksw.org/N3/Reuters-128/88#char=0,244> , <http://aksw.org/N3/Reuters-128/48#char=0,286> , <http://aksw.org/N3/Reuters-128/97#char=0,144> , <http://aksw.org/N3/Reuters-128/15#char=0,409> , <http://aksw.org/N3/Reuters-128/95#char=0,322> , <http://aksw.org/N3/Reuters-128/4#char=0,266> , <http://aksw.org/N3/Reuters-128/1#char=0,337> , <http://aksw.org/N3/Reuters-128/72#char=0,515> , <http://aksw.org/N3/Reuters-128/23#char=0,157> , <http://aksw.org/N3/Reuters-128/94#char=0,1058> , <http://aksw.org/N3/Reuters-128/18#char=0,423> , <http://aksw.org/N3/Reuters-128/78#char=0,375> , <http://aksw.org/N3/Reuters-128/62#char=0,533> , <http://aksw.org/N3/Reuters-128/73#char=0,426> , <http://aksw.org/N3/Reuters-128/11#char=0,348> , <http://aksw.org/N3/Reuters-128/63#char=0,347> , <http://aksw.org/N3/Reuters-128/77#char=0,2444> , <http://aksw.org/N3/Reuters-128/16#char=0,409> , <http://aksw.org/N3/Reuters-128/80#char=0,750> , <http://aksw.org/N3/Reuters-128/25#char=0,315> , <http://aksw.org/N3/Reuters-128/115#char=0,935> , <http://aksw.org/N3/Reuters-128/96#char=0,599> , <http://aksw.org/N3/Reuters-128/28#char=0,199> , <http://aksw.org/N3/Reuters-128/45#char=0,908> , <http://aksw.org/N3/Reuters-128/51#char=0,578> , <http://aksw.org/N3/Reuters-128/12#char=0,479> , <http://aksw.org/N3/Reuters-128/126#char=0,429> , <http://aksw.org/N3/Reuters-128/46#char=0,290> , <http://aksw.org/N3/Reuters-128/32#char=0,325> , <http://aksw.org/N3/Reuters-128/30#char=0,2886> , <http://aksw.org/N3/Reuters-128/79#char=0,1490> , <http://aksw.org/N3/Reuters-128/121#char=0,637> , <http://aksw.org/N3/Reuters-128/68#char=0,563> , <http://aksw.org/N3/Reuters-128/7#char=0,598> , <http://aksw.org/N3/Reuters-128/122#char=0,281> , <http://aksw.org/N3/Reuters-128/29#char=0,308> , <http://aksw.org/N3/Reuters-128/56#char=0,756> .
+
+<http://aksw.org/N3/Reuters-128/49#char=1878,1881>
+      a       nif:RFC5147String ;
+      nif:anchorOf "GAF"^^xsd:string ;
+      nif:beginIndex "1878"^^xsd:int ;
+      nif:endIndex "1881"^^xsd:int ;
+      nif:referenceContext
+              <http://aksw.org/N3/Reuters-128/49#char=0,5148> ;
+      itsrdf:taIdentRef <http://dbpedia.org/resource/GAF_Materials_Corporation> ;
+      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
 <http://aksw.org/N3/Reuters-128/30#char=1160,1168>
       a       nif:RFC5147String ;
@@ -3887,6 +3959,16 @@ Preston corp said it expects to report a loss of about 300,000 dlrs or five cts 
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/92#char=0,745> ;
       itsrdf:taIdentRef <http://dbpedia.org/resource/Florida> ;
+      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
+
+<http://aksw.org/N3/Reuters-128/49#char=4820,4840>
+      a       nif:RFC5147String ;
+      nif:anchorOf "Dean Witter Reynolds"^^xsd:string ;
+      nif:beginIndex "4820"^^xsd:int ;
+      nif:endIndex "4840"^^xsd:int ;
+      nif:referenceContext
+              <http://aksw.org/N3/Reuters-128/49#char=0,5148> ;
+      itsrdf:taIdentRef <http://dbpedia.org/resource/Dean_Witter_Reynolds> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
 <http://aksw.org/N3/Reuters-128/61#char=350,363>
@@ -3944,7 +4026,7 @@ Preston corp said it expects to report a loss of about 300,000 dlrs or five cts 
       nif:endIndex "392"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/109#char=0,531> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Harcourt_Brace_Jovanovich_Canada_Inc> .
 
 <http://aksw.org/N3/Reuters-128/69#char=1516,1527>
       a       nif:RFC5147String ;
@@ -3953,7 +4035,8 @@ Preston corp said it expects to report a loss of about 300,000 dlrs or five cts 
       nif:endIndex "1527"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/69#char=0,1634> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://dbpedia.org/resource/Ivory_Coast> ;
+      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
 <http://aksw.org/N3/Reuters-128/125#char=0,177>
       a       nif:String , nif:Context , nif:RFC5147String ;
@@ -4009,7 +4092,7 @@ Preston corp said it expects to report a loss of about 300,000 dlrs or five cts 
       nif:endIndex "151"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/105#char=0,1870> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Paul_OKelly> .
 
 <http://aksw.org/N3/Reuters-128/91#char=171,198>
       a       nif:RFC5147String ;
@@ -4018,7 +4101,7 @@ Preston corp said it expects to report a loss of about 300,000 dlrs or five cts 
       nif:endIndex "198"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/91#char=0,1329> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Montedisons_Agro-Industrial> .
 
 <http://aksw.org/N3/Reuters-128/113#char=0,2492>
       a       nif:String , nif:Context , nif:RFC5147String ;
@@ -4077,16 +4160,6 @@ Preston corp said it expects to report a loss of about 300,000 dlrs or five cts 
       itsrdf:taIdentRef <http://dbpedia.org/resource/Philips> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
-<http://aksw.org/N3/Reuters-128/22#char=613,616>
-      a       nif:RFC5147String ;
-      nif:anchorOf "Fla"^^xsd:string ;
-      nif:beginIndex "613"^^xsd:int ;
-      nif:endIndex "616"^^xsd:int ;
-      nif:referenceContext
-              <http://aksw.org/N3/Reuters-128/22#char=0,787> ;
-      itsrdf:taIdentRef <http://dbpedia.org/resource/Florida> ;
-      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
-
 <http://aksw.org/N3/Reuters-128/91#char=1105,1122>
       a       nif:RFC5147String ;
       nif:anchorOf "Gianfranco Ceroni"^^xsd:string ;
@@ -4094,7 +4167,7 @@ Preston corp said it expects to report a loss of about 300,000 dlrs or five cts 
       nif:endIndex "1122"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/91#char=0,1329> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Gianfranco_Ceroni> .
 
 <http://aksw.org/N3/Reuters-128/70#char=0,282>
       a       nif:String , nif:Context , nif:RFC5147String ;
@@ -4110,7 +4183,7 @@ Preston corp said it expects to report a loss of about 300,000 dlrs or five cts 
       nif:endIndex "2414"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/30#char=0,2886> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/John_Durant> .
 
 <http://aksw.org/N3/Reuters-128/83#char=114,119>
       a       nif:RFC5147String ;
@@ -4139,7 +4212,7 @@ Preston corp said it expects to report a loss of about 300,000 dlrs or five cts 
       nif:endIndex "1065"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/91#char=0,1329> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Renato_Picco> .
 
 <http://aksw.org/N3/Reuters-128/92#char=41,49>
       a       nif:RFC5147String ;
@@ -4148,7 +4221,7 @@ Preston corp said it expects to report a loss of about 300,000 dlrs or five cts 
       nif:endIndex "49"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/92#char=0,745> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/GGFH_Inc> .
 
 <http://aksw.org/N3/Reuters-128/123#char=4,32>
       a       nif:RFC5147String ;
@@ -4187,7 +4260,7 @@ Preston corp said it expects to report a loss of about 300,000 dlrs or five cts 
       nif:endIndex "41"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/52#char=0,263> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/James_Adams> .
 
 <http://aksw.org/N3/Reuters-128/111#char=760,767>
       a       nif:RFC5147String ;
@@ -4206,7 +4279,7 @@ Preston corp said it expects to report a loss of about 300,000 dlrs or five cts 
       nif:endIndex "285"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/47#char=0,506> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Sci-Med_Life_Systems_Inc> .
 
 <http://aksw.org/N3/Reuters-128/58#char=527,530>
       a       nif:RFC5147String ;
@@ -4225,7 +4298,7 @@ Preston corp said it expects to report a loss of about 300,000 dlrs or five cts 
       nif:endIndex "1918"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/111#char=0,3308> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/C.H._Masland> .
 
 <http://aksw.org/N3/Reuters-128/14#char=1022,1024>
       a       nif:RFC5147String ;
@@ -4276,6 +4349,16 @@ Preston corp said it expects to report a loss of about 300,000 dlrs or five cts 
               <http://aksw.org/N3/Reuters-128/118#char=0,2011> ;
       itsrdf:taIdentRef <http://aksw.org/notInWiki/Northern_Telecom_LTd> .
 
+<http://aksw.org/N3/Reuters-128/49#char=3071,3078>
+      a       nif:RFC5147String ;
+      nif:anchorOf "Chicago"^^xsd:string ;
+      nif:beginIndex "3071"^^xsd:int ;
+      nif:endIndex "3078"^^xsd:int ;
+      nif:referenceContext
+              <http://aksw.org/N3/Reuters-128/49#char=0,5148> ;
+      itsrdf:taIdentRef <http://dbpedia.org/resource/Chicago> ;
+      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
+
 <http://aksw.org/N3/Reuters-128/29#char=0,8>
       a       nif:RFC5147String ;
       nif:anchorOf "Sun Co's"^^xsd:string ;
@@ -4292,13 +4375,22 @@ Preston corp said it expects to report a loss of about 300,000 dlrs or five cts 
       nif:isString "Key Tronic corp said it has received contracts to provide seven original equipment manufacturers with which it has not done business recently with over 300,000 computer keyboards for delivery within the next 12 months. The company said The new contracts represent an annual increase of approximately 25 pct in unit volume over last year."@en ;
       nif:sourceUrl <http://www.research.att.com/~lewis/Reuters-21578/15003> .
 
+<http://aksw.org/N3/Reuters-128/49#char=2226,2237>
+      a       nif:RFC5147String ;
+      nif:anchorOf "John Dosher"^^xsd:string ;
+      nif:beginIndex "2226"^^xsd:int ;
+      nif:endIndex "2237"^^xsd:int ;
+      nif:referenceContext
+              <http://aksw.org/N3/Reuters-128/49#char=0,5148> ;
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/John_Dosher> .
+
 <http://aksw.org/N3/Reuters-128/49#char=522,537>
       a       nif:RFC5147String ;
       nif:anchorOf "Ashland Oil Inc"^^xsd:string ;
       nif:beginIndex "522"^^xsd:int ;
       nif:endIndex "537"^^xsd:int ;
       nif:referenceContext
-              <http://aksw.org/N3/Reuters-128/49#char=0,5142> ;
+              <http://aksw.org/N3/Reuters-128/49#char=0,5148> ;
       itsrdf:taIdentRef <http://dbpedia.org/resource/Ashland_Inc.> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
@@ -4336,7 +4428,7 @@ Preston corp said it expects to report a loss of about 300,000 dlrs or five cts 
       nif:endIndex "365"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/92#char=0,745> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Datron_Corp> .
 
 nif:Context
       a       owl:Class .
@@ -4348,7 +4440,7 @@ nif:Context
       nif:endIndex "595"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/92#char=0,745> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Datron_Corp> .
 
 <http://aksw.org/N3/Reuters-128/16#char=0,409>
       a       nif:String , nif:Context , nif:RFC5147String ;
@@ -4364,7 +4456,7 @@ nif:Context
       nif:endIndex "123"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/28#char=0,199> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Wedgestone_Advisory_Corp> .
 
 <http://aksw.org/N3/Reuters-128/86#char=35,44>
       a       nif:RFC5147String ;
@@ -4453,7 +4545,7 @@ nif:Context
       nif:endIndex "225"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/82#char=0,1370> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Christopher_Hogg> .
 
 <http://aksw.org/N3/Reuters-128/56#char=92,115>
       a       nif:RFC5147String ;
@@ -4518,7 +4610,17 @@ nif:Context
       nif:endIndex "804"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/61#char=0,1091> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/William_Randol> .
+
+<http://aksw.org/N3/Reuters-128/22#char=613,617>
+      a       nif:RFC5147String ;
+      nif:anchorOf "Fla."^^xsd:string ;
+      nif:beginIndex "613"^^xsd:int ;
+      nif:endIndex "617"^^xsd:int ;
+      nif:referenceContext
+              <http://aksw.org/N3/Reuters-128/22#char=0,787> ;
+      itsrdf:taIdentRef <http://dbpedia.org/resource/Florida> ;
+      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
 <http://aksw.org/N3/Reuters-128/56#char=0,756>
       a       nif:String , nif:Context , nif:RFC5147String ;
@@ -4670,7 +4772,7 @@ nif:Context
       nif:beginIndex "385"^^xsd:int ;
       nif:endIndex "388"^^xsd:int ;
       nif:referenceContext
-              <http://aksw.org/N3/Reuters-128/49#char=0,5142> ;
+              <http://aksw.org/N3/Reuters-128/49#char=0,5148> ;
       itsrdf:taIdentRef <http://dbpedia.org/resource/GAF_Materials_Corporation> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
@@ -4681,7 +4783,7 @@ nif:Context
       nif:endIndex "158"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/109#char=0,531> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Les_Editions_HRW_Ltd> .
 
 <http://aksw.org/N3/Reuters-128/20#char=105,112>
       a       nif:RFC5147String ;
@@ -4691,16 +4793,6 @@ nif:Context
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/20#char=0,360> ;
       itsrdf:taIdentRef <http://dbpedia.org/resource/Hanover_Insurance> ;
-      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
-
-<http://aksw.org/N3/Reuters-128/49#char=2982,3000>
-      a       nif:RFC5147String ;
-      nif:anchorOf "Union Carbide Corp"^^xsd:string ;
-      nif:beginIndex "2982"^^xsd:int ;
-      nif:endIndex "3000"^^xsd:int ;
-      nif:referenceContext
-              <http://aksw.org/N3/Reuters-128/49#char=0,5142> ;
-      itsrdf:taIdentRef <http://dbpedia.org/resource/Union_Carbide> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
 <http://aksw.org/N3/Reuters-128/99#char=345,352>
@@ -4776,14 +4868,15 @@ nif:Context
       itsrdf:taIdentRef <http://dbpedia.org/resource/Columbus,_Ohio> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
-<http://aksw.org/N3/Reuters-128/49#char=4314,4325>
+<http://aksw.org/N3/Reuters-128/49#char=766,769>
       a       nif:RFC5147String ;
-      nif:anchorOf "Gordon Cain"^^xsd:string ;
-      nif:beginIndex "4314"^^xsd:int ;
-      nif:endIndex "4325"^^xsd:int ;
+      nif:anchorOf "DOW"^^xsd:string ;
+      nif:beginIndex "766"^^xsd:int ;
+      nif:endIndex "769"^^xsd:int ;
       nif:referenceContext
-              <http://aksw.org/N3/Reuters-128/49#char=0,5142> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+              <http://aksw.org/N3/Reuters-128/49#char=0,5148> ;
+      itsrdf:taIdentRef <http://dbpedia.org/resource/Dow_Chemical_Company> ;
+      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
 <http://aksw.org/N3/Reuters-128/42#char=219,254>
       a       nif:RFC5147String ;
@@ -4812,7 +4905,7 @@ nif:Context
       nif:endIndex "1165"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/91#char=0,1329> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Italiana_Olii_e_Sifi> .
 
 <http://aksw.org/N3/Reuters-128/78#char=312,317>
       a       nif:RFC5147String ;
@@ -4876,7 +4969,7 @@ nif:Context
       nif:endIndex "2392"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/111#char=0,3308> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Edward_Johnson> .
 
 <http://aksw.org/N3/Reuters-128/75#char=0,24>
       a       nif:RFC5147String ;
@@ -4885,7 +4978,7 @@ nif:Context
       nif:endIndex "24"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/75#char=0,165> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Highland_Superstores_Inc> .
 
 <http://aksw.org/N3/Reuters-128/33#char=2281,2289>
       a       nif:RFC5147String ;
@@ -4905,6 +4998,16 @@ nif:Context
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/22#char=0,787> ;
       itsrdf:taIdentRef <http://dbpedia.org/resource/Houston> ;
+      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
+
+<http://aksw.org/N3/Reuters-128/49#char=2984,3002>
+      a       nif:RFC5147String ;
+      nif:anchorOf "Union Carbide Corp"^^xsd:string ;
+      nif:beginIndex "2984"^^xsd:int ;
+      nif:endIndex "3002"^^xsd:int ;
+      nif:referenceContext
+              <http://aksw.org/N3/Reuters-128/49#char=0,5148> ;
+      itsrdf:taIdentRef <http://dbpedia.org/resource/Union_Carbide> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
 <http://aksw.org/N3/Reuters-128/105#char=4,31>
@@ -4933,7 +5036,7 @@ nif:Context
       nif:beginIndex "539"^^xsd:int ;
       nif:endIndex "542"^^xsd:int ;
       nif:referenceContext
-              <http://aksw.org/N3/Reuters-128/49#char=0,5142> ;
+              <http://aksw.org/N3/Reuters-128/49#char=0,5148> ;
       itsrdf:taIdentRef <http://dbpedia.org/resource/Ashland_Inc.> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
@@ -5043,7 +5146,7 @@ nif:Context
       nif:endIndex "2502"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/30#char=0,2886> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/William_West> .
 
 <http://aksw.org/N3/Reuters-128/127#char=0,457>
       a       nif:String , nif:Context , nif:RFC5147String ;
@@ -5062,13 +5165,6 @@ nif:Context
       itsrdf:taIdentRef <http://dbpedia.org/resource/Reuters> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
-<http://aksw.org/N3/Reuters-128/92#char=0,745>
-      a       nif:String , nif:Context , nif:RFC5147String ;
-      nif:beginIndex "0"^^xsd:int ;
-      nif:endIndex "745"^^xsd:int ;
-      nif:isString "Datron Corp said it agreed to merge with GGFH Inc, a Florida-based company formed by the four top officers of the company. According to terms of the proposed transaction, each share of Datron common stock, excluding those shares owned by the four officers, will be bought for six dlrs a share, it said. Datrons officers hold about 73 pct of the total 896,000 Datron common shares outstanding. Upon completion of the proposed transaction, the officers of Datron would own 100 pct of the company. The merger is subject to GGHFs receiving financing for the plan, Datron said. Shareholders of Datron will be asked to approve the plan at their annual meeting to be held in June or July, and the merger is expected to be completed by July 31, it said."@en ;
-      nif:sourceUrl <http://www.research.att.com/~lewis/Reuters-21578/15122> .
-
 <http://aksw.org/N3/Reuters-128/60#char=298,323>
       a       nif:RFC5147String ;
       nif:anchorOf "Luxembourg Stock Exchange"^^xsd:string ;
@@ -5078,6 +5174,13 @@ nif:Context
               <http://aksw.org/N3/Reuters-128/60#char=0,497> ;
       itsrdf:taIdentRef <http://dbpedia.org/resource/Luxembourg_Stock_Exchange> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
+
+<http://aksw.org/N3/Reuters-128/92#char=0,745>
+      a       nif:String , nif:Context , nif:RFC5147String ;
+      nif:beginIndex "0"^^xsd:int ;
+      nif:endIndex "745"^^xsd:int ;
+      nif:isString "Datron Corp said it agreed to merge with GGFH Inc, a Florida-based company formed by the four top officers of the company. According to terms of the proposed transaction, each share of Datron common stock, excluding those shares owned by the four officers, will be bought for six dlrs a share, it said. Datrons officers hold about 73 pct of the total 896,000 Datron common shares outstanding. Upon completion of the proposed transaction, the officers of Datron would own 100 pct of the company. The merger is subject to GGHFs receiving financing for the plan, Datron said. Shareholders of Datron will be asked to approve the plan at their annual meeting to be held in June or July, and the merger is expected to be completed by July 31, it said."@en ;
+      nif:sourceUrl <http://www.research.att.com/~lewis/Reuters-21578/15122> .
 
 <http://aksw.org/N3/Reuters-128/55#char=738,744>
       a       nif:RFC5147String ;
@@ -5136,7 +5239,7 @@ nif:Context
       nif:endIndex "22"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/22#char=0,787> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/National_Guardian_Corp> .
 
 <http://aksw.org/N3/Reuters-128/80#char=0,21>
       a       nif:RFC5147String ;
@@ -5179,7 +5282,7 @@ nif:Context
       nif:endIndex "178"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/79#char=0,1490> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Leonardo_Brito> .
 
 <http://aksw.org/N3/Reuters-128/4#char=180,186>
       a       nif:RFC5147String ;
@@ -5188,7 +5291,7 @@ nif:Context
       nif:endIndex "186"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/4#char=0,266> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Bertil_Nordin> .
 
 <http://aksw.org/N3/Reuters-128/45#char=182,221>
       a       nif:RFC5147String ;
@@ -5247,7 +5350,7 @@ nif:Context
       nif:endIndex "330"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/67#char=0,1627> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Michel_Dufour> .
 
 <http://aksw.org/N3/Reuters-128/41#char=0,9>
       a       nif:RFC5147String ;
@@ -5266,7 +5369,7 @@ nif:Context
       nif:endIndex "594"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/56#char=0,756> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Shared_Network_Technologies_Inc> .
 
 <http://aksw.org/N3/Reuters-128/8#char=0,1157>
       a       nif:String , nif:Context , nif:RFC5147String ;
@@ -5341,8 +5444,8 @@ nif:Context
       nif:beginIndex "716"^^xsd:int ;
       nif:endIndex "729"^^xsd:int ;
       nif:referenceContext
-              <http://aksw.org/N3/Reuters-128/49#char=0,5142> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+              <http://aksw.org/N3/Reuters-128/49#char=0,5148> ;
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Paul_Oreffice> .
 
 <http://aksw.org/N3/Reuters-128/97#char=0,144>
       a       nif:String , nif:Context , nif:RFC5147String ;
@@ -5394,7 +5497,7 @@ nif:Context
       nif:endIndex "47"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/27#char=0,435> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Braodway_Casinos_Inc> .
 
 <http://aksw.org/N3/Reuters-128/110#char=4,35>
       a       nif:RFC5147String ;
@@ -5403,7 +5506,7 @@ nif:Context
       nif:endIndex "35"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/110#char=0,204> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/New_Jersey_Hospital_Association> .
 
 <http://aksw.org/N3/Reuters-128/94#char=0,1058>
       a       nif:String , nif:Context , nif:RFC5147String ;
@@ -5419,7 +5522,7 @@ nif:Context
       nif:endIndex "382"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/27#char=0,435> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/American_Midland_Corp> .
 
 <http://aksw.org/N3/Reuters-128/18#char=0,18>
       a       nif:RFC5147String ;
@@ -5448,7 +5551,7 @@ nif:Context
       nif:endIndex "748"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/67#char=0,1627> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Thomas_Bell> .
 
 <http://aksw.org/N3/Reuters-128/21#char=69,89>
       a       nif:RFC5147String ;
@@ -5457,17 +5560,7 @@ nif:Context
       nif:endIndex "89"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/21#char=0,262> ;
-      itsrdf:taIdentRef aksw:notInWiki .
-
-<http://aksw.org/N3/Reuters-128/49#char=1746,1749>
-      a       nif:RFC5147String ;
-      nif:anchorOf "Dow"^^xsd:string ;
-      nif:beginIndex "1746"^^xsd:int ;
-      nif:endIndex "1749"^^xsd:int ;
-      nif:referenceContext
-              <http://aksw.org/N3/Reuters-128/49#char=0,5142> ;
-      itsrdf:taIdentRef <http://dbpedia.org/resource/Dow_Chemical_Company> ;
-      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Ozaki_Trading_Co_Ltd> .
 
 <http://aksw.org/N3/Reuters-128/55#char=298,303>
       a       nif:RFC5147String ;
@@ -5526,7 +5619,7 @@ nif:Context
       nif:endIndex "70"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/13#char=0,532> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Federal_Realty_Investment_Trust> .
 
 nif:sourceUrl
       a       owl:DatatypeProperty .
@@ -5568,7 +5661,7 @@ nif:sourceUrl
       nif:endIndex "263"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/22#char=0,787> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/C.S.C._Security_Gaurd_Service> .
 
 <http://aksw.org/N3/Reuters-128/119#char=138,142>
       a       nif:RFC5147String ;
@@ -5643,7 +5736,7 @@ nif:sourceUrl
       nif:endIndex "139"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/107#char=0,1190> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Tehran_Radio> .
 
 <http://aksw.org/N3/Reuters-128/79#char=0,1490>
       a       nif:String , nif:Context , nif:RFC5147String ;
@@ -5651,16 +5744,6 @@ nif:sourceUrl
       nif:endIndex "1490"^^xsd:int ;
       nif:isString "Storage problems with Brazils record grain crop are likely to result in losses of about five mln tonnes, an Agriculture Ministry spokesman said. Ministry spokesman Leonardo Brito, speaking from Brasilia, told Reuters he believed that about five mln tonnes of this years estimated crop of 65 mln tonnes would be lost. He said part of this would be the normal loss inevitable in harvesting, but that most of it would stem from storage problems. Brazil has a storage capacity of 66 mln tonnes, theoretically sufficient for the crop. But Brito said that the storage capacity was badly distributed. The states of Sao Paulo, Parana and Rio Grande do Sul had between them 70 pct of the nations capacity, but were responsible for only 50 to 60 pct of production. The biggest problems are concentrated in the Centre-West growing regions, where rising production has outpaced storage capacity. Brito said the Centre-West, whose crops include soya and maize, had between 30 and 40 pct of the nations grains production but only 20 pct of its storage space. In addition to the poor distribution of storage units, there is the problem that too much of the capacity is geared to storing grain in sacks, while not enough is suitable for storing loose grain, Brito said. Finally, there is a shortage of lorries to transport the crops. The sheer scale of the task in transporting the record crop has been evident from television reports, which have shown enormous queues of lorries waiting outside granaries."@en ;
       nif:sourceUrl <http://www.research.att.com/~lewis/Reuters-21578/15106> .
-
-<http://aksw.org/N3/Reuters-128/49#char=1317,1324>
-      a       nif:RFC5147String ;
-      nif:anchorOf "Houston"^^xsd:string ;
-      nif:beginIndex "1317"^^xsd:int ;
-      nif:endIndex "1324"^^xsd:int ;
-      nif:referenceContext
-              <http://aksw.org/N3/Reuters-128/49#char=0,5142> ;
-      itsrdf:taIdentRef <http://dbpedia.org/resource/Houston> ;
-      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
 <http://aksw.org/N3/Reuters-128/118#char=346,381>
       a       nif:RFC5147String ;
@@ -5688,7 +5771,7 @@ nif:sourceUrl
       nif:endIndex "492"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/82#char=0,1370> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Christopher_Hogg> .
 
 <http://aksw.org/N3/Reuters-128/91#char=1270,1278>
       a       nif:RFC5147String ;
@@ -5697,7 +5780,7 @@ nif:sourceUrl
       nif:endIndex "1278"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/91#char=0,1329> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Ferruzzi_Groups> .
 
 <http://aksw.org/N3/Reuters-128/112#char=0,22>
       a       nif:RFC5147String ;
@@ -5743,7 +5826,7 @@ nif:sourceUrl
       nif:endIndex "65"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/50#char=0,209> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Ozaki_Trading_Co_Ltd> .
 
 <http://aksw.org/N3/Reuters-128/15#char=156,172>
       a       nif:RFC5147String ;
@@ -5798,7 +5881,7 @@ nif:sourceUrl
       nif:endIndex "539"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/79#char=0,1490> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Leonardo_Brito> .
 
 <http://aksw.org/N3/Reuters-128/16#char=278,284>
       a       nif:RFC5147String ;
@@ -5906,7 +5989,7 @@ nif:isString
       nif:endIndex "498"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/58#char=0,870> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/G_H_Shintoh> .
 
 <http://aksw.org/N3/Reuters-128/44#char=489,493>
       a       nif:RFC5147String ;
@@ -5925,7 +6008,7 @@ nif:isString
       nif:endIndex "525"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/92#char=0,745> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/GGFH_Inc> .
 
 <http://aksw.org/N3/Reuters-128/21#char=116,121>
       a       nif:RFC5147String ;
@@ -5934,26 +6017,7 @@ nif:isString
       nif:endIndex "121"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/21#char=0,262> ;
-      itsrdf:taIdentRef aksw:notInWiki .
-
-<http://aksw.org/N3/Reuters-128/49#char=4786,4796>
-      a       nif:RFC5147String ;
-      nif:anchorOf "Garo Armen"^^xsd:string ;
-      nif:beginIndex "4786"^^xsd:int ;
-      nif:endIndex "4796"^^xsd:int ;
-      nif:referenceContext
-              <http://aksw.org/N3/Reuters-128/49#char=0,5142> ;
-      itsrdf:taIdentRef <http://dbpedia.org/resource/Garo_H._Armen> ;
-      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
-
-<http://aksw.org/N3/Reuters-128/49#char=1259,1270>
-      a       nif:RFC5147String ;
-      nif:anchorOf "John Dosher"^^xsd:string ;
-      nif:beginIndex "1259"^^xsd:int ;
-      nif:endIndex "1270"^^xsd:int ;
-      nif:referenceContext
-              <http://aksw.org/N3/Reuters-128/49#char=0,5142> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Ozaki_Trading_Co_Ltd> .
 
 <http://aksw.org/N3/Reuters-128/58#char=776,783>
       a       nif:RFC5147String ;
@@ -5962,7 +6026,7 @@ nif:isString
       nif:endIndex "783"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/58#char=0,870> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/G_H_Shintoh> .
 
 <http://aksw.org/N3/Reuters-128/57#char=100,127>
       a       nif:RFC5147String ;
@@ -5971,7 +6035,7 @@ nif:isString
       nif:endIndex "127"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/57#char=0,829> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Advanced_Voice_Technologies> .
 
 <http://aksw.org/N3/Reuters-128/117#char=368,385>
       a       nif:RFC5147String ;
@@ -5990,7 +6054,7 @@ nif:isString
       nif:endIndex "113"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/58#char=0,870> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/G_H_Shintoh> .
 
 <http://aksw.org/N3/Reuters-128/123#char=0,645>
       a       nif:String , nif:Context , nif:RFC5147String ;
@@ -6079,6 +6143,16 @@ nif:isString
       itsrdf:taIdentRef <http://dbpedia.org/resource/West_Germany> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
+<http://aksw.org/N3/Reuters-128/126#char=322,363>
+      a       nif:RFC5147String ;
+      nif:anchorOf "Standard and PoorStandard and Poor's Corp"^^xsd:string ;
+      nif:beginIndex "322"^^xsd:int ;
+      nif:endIndex "363"^^xsd:int ;
+      nif:referenceContext
+              <http://aksw.org/N3/Reuters-128/126#char=0,429> ;
+      itsrdf:taIdentRef <http://dbpedia.org/resource/Standard_%26_Poor%27s> ;
+      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
+
 <http://aksw.org/N3/Reuters-128/78#char=33,67>
       a       nif:RFC5147String ;
       nif:anchorOf "Securities and Exchange Commission"^^xsd:string ;
@@ -6095,6 +6169,16 @@ nif:isString
       nif:endIndex "520"^^xsd:int ;
       nif:isString "General Electric Co Plc (GECL.L) (GEC) declined comment on rumours on the London stock market that it is planning another purchase in the U.S. Medical equipment field, in addition to its existing U.S. Subsidiary Picker International Inc. A GEC spokesman said that it is company policy not to comment on acquisition rumours. Stock Exchange traders said the rumour helped GECGEC's share price to rise 5p, to a final 206p from yesterday share price to rise 5p, to a final 206p from yesterday's closing price of 201p. Reuter"@en ;
       nif:sourceUrl <http://www.research.att.com/~lewis/Reuters-21578/15161> .
+
+<http://aksw.org/N3/Reuters-128/49#char=3597,3608>
+      a       nif:RFC5147String ;
+      nif:anchorOf "Monsanto Co"^^xsd:string ;
+      nif:beginIndex "3597"^^xsd:int ;
+      nif:endIndex "3608"^^xsd:int ;
+      nif:referenceContext
+              <http://aksw.org/N3/Reuters-128/49#char=0,5148> ;
+      itsrdf:taIdentRef <http://dbpedia.org/resource/Monsanto> ;
+      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
 <http://aksw.org/N3/Reuters-128/30#char=335,345>
       a       nif:RFC5147String ;
@@ -6133,7 +6217,7 @@ nif:isString
       nif:endIndex "1247"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/79#char=0,1490> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Leonardo_Brito> .
 
 <http://aksw.org/N3/Reuters-128/80#char=427,444>
       a       nif:RFC5147String ;
@@ -6142,7 +6226,7 @@ nif:isString
       nif:endIndex "444"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/80#char=0,750> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/J._Terence_Murray> .
 
 <http://aksw.org/N3/Reuters-128/107#char=1028,1033>
       a       nif:RFC5147String ;
@@ -6161,7 +6245,7 @@ nif:isString
       nif:endIndex "27"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/3#char=0,507> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Entourage_International_Inc> .
 
 <http://aksw.org/N3/Reuters-128/89#char=64,77>
       a       nif:RFC5147String ;
@@ -6170,7 +6254,7 @@ nif:isString
       nif:endIndex "77"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/89#char=0,221> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Tradevest_Inc> .
 
 <http://aksw.org/N3/Reuters-128/55#char=799,805>
       a       nif:RFC5147String ;
@@ -6202,6 +6286,15 @@ nif:isString
       itsrdf:taIdentRef <http://dbpedia.org/resource/Ronald_Reagan> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
+<http://aksw.org/N3/Reuters-128/49#char=2239,2245>
+      a       nif:RFC5147String ;
+      nif:anchorOf "Dosher"^^xsd:string ;
+      nif:beginIndex "2239"^^xsd:int ;
+      nif:endIndex "2245"^^xsd:int ;
+      nif:referenceContext
+              <http://aksw.org/N3/Reuters-128/49#char=0,5148> ;
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/John_Dosher> .
+
 <http://aksw.org/N3/Reuters-128/61#char=26,40>
       a       nif:RFC5147String ;
       nif:anchorOf "William Randol"^^xsd:string ;
@@ -6209,7 +6302,7 @@ nif:isString
       nif:endIndex "40"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/61#char=0,1091> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/William_Randol> .
 
 <http://aksw.org/N3/Reuters-128/87#char=352,360>
       a       nif:RFC5147String ;
@@ -6326,7 +6419,7 @@ nif:isString
       nif:endIndex "537"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/74#char=0,558> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Burns,_Pauli_and_Co_Inc> .
 
 <http://aksw.org/N3/Reuters-128/98#char=0,27>
       a       nif:RFC5147String ;
@@ -6335,7 +6428,7 @@ nif:isString
       nif:endIndex "27"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/98#char=0,249> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Entourage_International_Inc> .
 
 <http://aksw.org/N3/Reuters-128/9#char=915,928>
       a       nif:RFC5147String ;
@@ -6358,6 +6451,16 @@ nif:String
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/115#char=0,935> ;
       itsrdf:taIdentRef <http://dbpedia.org/resource/Darlington_County,_South_Carolina> ;
+      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
+
+<http://aksw.org/N3/Reuters-128/49#char=4374,4393>
+      a       nif:RFC5147String ;
+      nif:anchorOf "Duponts Conoco Incs"^^xsd:string ;
+      nif:beginIndex "4374"^^xsd:int ;
+      nif:endIndex "4393"^^xsd:int ;
+      nif:referenceContext
+              <http://aksw.org/N3/Reuters-128/49#char=0,5148> ;
+      itsrdf:taIdentRef <http://dbpedia.org/resource/Conoco> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
 <http://aksw.org/N3/Reuters-128/121#char=32,47>
@@ -6413,7 +6516,7 @@ nif:String
       nif:endIndex "376"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/113#char=0,2492> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Michael_Smith> .
 
 <http://aksw.org/N3/Reuters-128/91#char=0,1329>
       a       nif:String , nif:Context , nif:RFC5147String ;
@@ -6439,7 +6542,7 @@ nif:String
       nif:endIndex "244"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/43#char=0,369> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Atlas_Consolidated_Mining_and_Development_Corp> .
 
 <http://aksw.org/N3/Reuters-128/94#char=40,47>
       a       nif:RFC5147String ;
@@ -6458,7 +6561,7 @@ nif:String
       nif:endIndex "1021"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/91#char=0,1329> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/AgrimontSPA> .
 
 <http://aksw.org/N3/Reuters-128/21#char=135,154>
       a       nif:RFC5147String ;
@@ -6467,7 +6570,7 @@ nif:String
       nif:endIndex "154"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/21#char=0,262> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Federal_Paperboard_Co_Inc> .
 
 <http://aksw.org/N3/Reuters-128/81#char=42,61>
       a       nif:RFC5147String ;
@@ -6489,6 +6592,15 @@ nif:String
       itsrdf:taIdentRef <http://dbpedia.org/resource/Philadelphia> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
+<http://aksw.org/N3/Reuters-128/49#char=1863,1871>
+      a       nif:RFC5147String ;
+      nif:anchorOf "Oreffice"^^xsd:string ;
+      nif:beginIndex "1863"^^xsd:int ;
+      nif:endIndex "1871"^^xsd:int ;
+      nif:referenceContext
+              <http://aksw.org/N3/Reuters-128/49#char=0,5148> ;
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Paul_Oreffice> .
+
 <http://aksw.org/N3/Reuters-128/99#char=178,184>
       a       nif:RFC5147String ;
       nif:anchorOf "COFACE"^^xsd:string ;
@@ -6506,7 +6618,7 @@ nif:String
       nif:endIndex "225"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/52#char=0,263> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Howard_Fromkin> .
 
 <http://aksw.org/N3/Reuters-128/58#char=667,670>
       a       nif:RFC5147String ;
@@ -6516,16 +6628,6 @@ nif:String
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/58#char=0,870> ;
       itsrdf:taIdentRef <http://dbpedia.org/resource/Australian_Securities_Exchange> ;
-      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
-
-<http://aksw.org/N3/Reuters-128/49#char=4130,4137>
-      a       nif:RFC5147String ;
-      nif:anchorOf "Houston"^^xsd:string ;
-      nif:beginIndex "4130"^^xsd:int ;
-      nif:endIndex "4137"^^xsd:int ;
-      nif:referenceContext
-              <http://aksw.org/N3/Reuters-128/49#char=0,5142> ;
-      itsrdf:taIdentRef <http://dbpedia.org/resource/Houston> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
 <http://aksw.org/N3/Reuters-128/8#char=116,127>
@@ -6585,7 +6687,7 @@ nif:String
       nif:endIndex "118"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/76#char=0,764> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Spear_Securities_Inc> .
 
 <http://aksw.org/N3/Reuters-128/72#char=0,515>
       a       nif:String , nif:Context , nif:RFC5147String ;
@@ -6600,8 +6702,8 @@ nif:String
       nif:beginIndex "406"^^xsd:int ;
       nif:endIndex "423"^^xsd:int ;
       nif:referenceContext
-              <http://aksw.org/N3/Reuters-128/49#char=0,5142> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+              <http://aksw.org/N3/Reuters-128/49#char=0,5148> ;
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Cain_Chemical_Inc> .
 
 <http://aksw.org/N3/Reuters-128/111#char=628,638>
       a       nif:RFC5147String ;
@@ -6627,7 +6729,7 @@ nif:String
       nif:endIndex "584"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/31#char=0,2168> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/OBrien-Kreitzberg> .
 
 <http://aksw.org/N3/Reuters-128/65#char=0,17>
       a       nif:RFC5147String ;
@@ -6646,7 +6748,7 @@ nif:String
       nif:endIndex "31"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/84#char=0,1012> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Association_of_White_Metals> .
 
 <http://aksw.org/N3/Reuters-128/33#char=833,841>
       a       nif:RFC5147String ;
@@ -6729,7 +6831,7 @@ nif:String
       nif:endIndex "1156"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/30#char=0,2886> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Biotherapeutics_Inc> .
 
 <http://aksw.org/N3/Reuters-128/120#char=550,556>
       a       nif:RFC5147String ;
@@ -6758,7 +6860,7 @@ nif:String
       nif:endIndex "42"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/58#char=0,870> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Victorian_Corporate_Affairs_Commission> .
 
 <http://aksw.org/N3/Reuters-128/118#char=204,208>
       a       nif:RFC5147String ;
@@ -6871,7 +6973,7 @@ nif:String
       nif:endIndex "698"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/58#char=0,870> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Les_Hosking> .
 
 <http://aksw.org/N3/Reuters-128/4#char=152,165>
       a       nif:RFC5147String ;
@@ -6880,7 +6982,7 @@ nif:String
       nif:endIndex "165"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/4#char=0,266> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Bertil_Nordin> .
 
 <http://aksw.org/N3/Reuters-128/121#char=0,637>
       a       nif:String , nif:Context , nif:RFC5147String ;
@@ -6903,7 +7005,17 @@ nif:String
       nif:endIndex "37"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/2#char=0,284> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Bashaw_Leduc_Oil_and_Gas_Ltd> .
+
+<http://aksw.org/N3/Reuters-128/49#char=1487,1494>
+      a       nif:RFC5147String ;
+      nif:anchorOf "Houston"^^xsd:string ;
+      nif:beginIndex "1487"^^xsd:int ;
+      nif:endIndex "1494"^^xsd:int ;
+      nif:referenceContext
+              <http://aksw.org/N3/Reuters-128/49#char=0,5148> ;
+      itsrdf:taIdentRef <http://dbpedia.org/resource/Houston> ;
+      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
 <http://aksw.org/N3/Reuters-128/87#char=4,45>
       a       nif:RFC5147String ;
@@ -7079,7 +7191,7 @@ nif:String
       nif:endIndex "1100"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/91#char=0,1329> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Eridania_SPA> .
 
 <http://aksw.org/N3/Reuters-128/5#char=0,12>
       a       nif:RFC5147String ;
@@ -7098,7 +7210,7 @@ nif:String
       nif:endIndex "370"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/76#char=0,764> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Spear_Securities_Inc> .
 
 <http://aksw.org/N3/Reuters-128/22#char=661,665>
       a       nif:RFC5147String ;
@@ -7108,6 +7220,16 @@ nif:String
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/22#char=0,787> ;
       itsrdf:taIdentRef <http://dbpedia.org/resource/South_Carolina> ;
+      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
+
+<http://aksw.org/N3/Reuters-128/49#char=3047,3063>
+      a       nif:RFC5147String ;
+      nif:anchorOf "Borg Warner Corp"^^xsd:string ;
+      nif:beginIndex "3047"^^xsd:int ;
+      nif:endIndex "3063"^^xsd:int ;
+      nif:referenceContext
+              <http://aksw.org/N3/Reuters-128/49#char=0,5148> ;
+      itsrdf:taIdentRef <http://dbpedia.org/resource/BorgWarner> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
 <http://aksw.org/N3/Reuters-128/93#char=246,252>
@@ -7167,7 +7289,7 @@ nif:String
       nif:endIndex "410"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/30#char=0,2886> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Immunex_Corp> .
 
 <http://aksw.org/N3/Reuters-128/117#char=0,29>
       a       nif:RFC5147String ;
@@ -7186,7 +7308,7 @@ nif:String
       nif:endIndex "142"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/4#char=0,266> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/James_Ottinger> .
 
 <http://aksw.org/N3/Reuters-128/11#char=327,334>
       a       nif:RFC5147String ;
@@ -7238,15 +7360,14 @@ nif:String
       itsrdf:taIdentRef <http://dbpedia.org/resource/Denver> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
-<http://aksw.org/N3/Reuters-128/49#char=4492,4508>
+<http://aksw.org/N3/Reuters-128/49#char=4320,4331>
       a       nif:RFC5147String ;
-      nif:anchorOf "Texas Gulf Coast"^^xsd:string ;
-      nif:beginIndex "4492"^^xsd:int ;
-      nif:endIndex "4508"^^xsd:int ;
+      nif:anchorOf "Gordon Cain"^^xsd:string ;
+      nif:beginIndex "4320"^^xsd:int ;
+      nif:endIndex "4331"^^xsd:int ;
       nif:referenceContext
-              <http://aksw.org/N3/Reuters-128/49#char=0,5142> ;
-      itsrdf:taIdentRef <http://dbpedia.org/resource/Gulf_Coast_of_the_United_States> ;
-      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
+              <http://aksw.org/N3/Reuters-128/49#char=0,5148> ;
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Gordon_Cain> .
 
 <http://aksw.org/N3/Reuters-128/77#char=1208,1214>
       a       nif:RFC5147String ;
@@ -7328,6 +7449,16 @@ nif:String
       itsrdf:taIdentRef <http://dbpedia.org/resource/United_States> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
+<http://aksw.org/N3/Reuters-128/49#char=4011,4015>
+      a       nif:RFC5147String ;
+      nif:anchorOf "GAFs"^^xsd:string ;
+      nif:beginIndex "4011"^^xsd:int ;
+      nif:endIndex "4015"^^xsd:int ;
+      nif:referenceContext
+              <http://aksw.org/N3/Reuters-128/49#char=0,5148> ;
+      itsrdf:taIdentRef <http://dbpedia.org/resource/GAF_Materials_Corporation> ;
+      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
+
 <http://aksw.org/N3/Reuters-128/81#char=570,588>
       a       nif:RFC5147String ;
       nif:anchorOf "Standard and Poors"^^xsd:string ;
@@ -7355,7 +7486,7 @@ nif:String
       nif:endIndex "198"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/21#char=0,262> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Federal_Paperboard_Co_Inc> .
 
 <http://aksw.org/N3/Reuters-128/111#char=2344,2354>
       a       nif:RFC5147String ;
@@ -7381,7 +7512,7 @@ nif:String
       nif:endIndex "2208"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/111#char=0,3308> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Eileen_Gormley> .
 
 <http://aksw.org/N3/Reuters-128/33#char=1771,1783>
       a       nif:RFC5147String ;
@@ -7460,6 +7591,16 @@ nif:String
       itsrdf:taIdentRef <http://dbpedia.org/resource/Netherlands> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
+<http://aksw.org/N3/Reuters-128/126#char=101,126>
+      a       nif:RFC5147String ;
+      nif:anchorOf "Morgan Stanley and Co Inc"^^xsd:string ;
+      nif:beginIndex "101"^^xsd:int ;
+      nif:endIndex "126"^^xsd:int ;
+      nif:referenceContext
+              <http://aksw.org/N3/Reuters-128/126#char=0,429> ;
+      itsrdf:taIdentRef <http://dbpedia.org/resource/Morgan_Stanley> ;
+      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
+
 <http://aksw.org/N3/Reuters-128/93#char=670,676>
       a       nif:RFC5147String ;
       nif:anchorOf "Miller"^^xsd:string ;
@@ -7500,15 +7641,6 @@ nif:String
 nif:RFC5147String
       a       owl:Class .
 
-<http://aksw.org/N3/Reuters-128/49#char=3748,3754>
-      a       nif:RFC5147String ;
-      nif:anchorOf "Dosher"^^xsd:string ;
-      nif:beginIndex "3748"^^xsd:int ;
-      nif:endIndex "3754"^^xsd:int ;
-      nif:referenceContext
-              <http://aksw.org/N3/Reuters-128/49#char=0,5142> ;
-      itsrdf:taIdentRef aksw:notInWiki .
-
 <http://aksw.org/N3/Reuters-128/33#char=2336,2348>
       a       nif:RFC5147String ;
       nif:anchorOf "Buenos Aires"^^xsd:string ;
@@ -7537,6 +7669,16 @@ nif:RFC5147String
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/45#char=0,908> ;
       itsrdf:taIdentRef <http://dbpedia.org/resource/Edouard_Saouma> ;
+      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
+
+<http://aksw.org/N3/Reuters-128/126#char=277,311>
+      a       nif:RFC5147String ;
+      nif:anchorOf "MoodyMoody's Investors Service Inc"^^xsd:string ;
+      nif:beginIndex "277"^^xsd:int ;
+      nif:endIndex "311"^^xsd:int ;
+      nif:referenceContext
+              <http://aksw.org/N3/Reuters-128/126#char=0,429> ;
+      itsrdf:taIdentRef <http://dbpedia.org/resource/Moody%27s_Investors_Service> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
 <http://aksw.org/N3/Reuters-128/66#char=267,290>
@@ -7609,25 +7751,6 @@ nif:RFC5147String
       itsrdf:taIdentRef <http://dbpedia.org/resource/Dominion_Textile> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
-<http://aksw.org/N3/Reuters-128/49#char=1293,1313>
-      a       nif:RFC5147String ;
-      nif:anchorOf "Pace Consultants Inc"^^xsd:string ;
-      nif:beginIndex "1293"^^xsd:int ;
-      nif:endIndex "1313"^^xsd:int ;
-      nif:referenceContext
-              <http://aksw.org/N3/Reuters-128/49#char=0,5142> ;
-      itsrdf:taIdentRef aksw:notInWiki .
-
-<http://aksw.org/N3/Reuters-128/49#char=2923,2926>
-      a       nif:RFC5147String ;
-      nif:anchorOf "GAF"^^xsd:string ;
-      nif:beginIndex "2923"^^xsd:int ;
-      nif:endIndex "2926"^^xsd:int ;
-      nif:referenceContext
-              <http://aksw.org/N3/Reuters-128/49#char=0,5142> ;
-      itsrdf:taIdentRef <http://dbpedia.org/resource/GAF_Materials_Corporation> ;
-      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
-
 <http://aksw.org/N3/Reuters-128/55#char=989,995>
       a       nif:RFC5147String ;
       nif:anchorOf "Boeing"^^xsd:string ;
@@ -7674,7 +7797,7 @@ nif:RFC5147String
       nif:endIndex "729"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/58#char=0,870> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Asiavest_Pty_Ltd> .
 
 <http://aksw.org/N3/Reuters-128/111#char=109,134>
       a       nif:RFC5147String ;
@@ -7693,6 +7816,9 @@ nif:RFC5147String
       nif:isString "Great Lakes Chemical Corp said it registered with the Securities and Exchange Commission a proposed public offering of two mln shares of its common stock. Proceeds from the offering will be used to repay debt incurred in the acquisition of two chemical companies, to increase Great Lakes equity investment in Huntsman Chemical Corp and for general corporate purposes, it said. Underwriters are led by First Boston Corp, Goldman, Sachs and Co and Eberstadt Fleming Inc."@en ;
       nif:sourceUrl <http://www.research.att.com/~lewis/Reuters-21578/15133> .
 
+nif:ContextCollection
+      a       owl:Class .
+
 <http://aksw.org/N3/Reuters-128/69#char=581,587>
       a       nif:RFC5147String ;
       nif:anchorOf "London"^^xsd:string ;
@@ -7703,9 +7829,6 @@ nif:RFC5147String
       itsrdf:taIdentRef <http://dbpedia.org/resource/London> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
-nif:ContextCollection
-      a       owl:Class .
-
 <http://aksw.org/N3/Reuters-128/92#char=185,191>
       a       nif:RFC5147String ;
       nif:anchorOf "Datron"^^xsd:string ;
@@ -7713,7 +7836,7 @@ nif:ContextCollection
       nif:endIndex "191"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/92#char=0,745> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Datron_Corp> .
 
 <http://aksw.org/N3/Reuters-128/100#char=420,442>
       a       nif:RFC5147String ;
@@ -7766,7 +7889,7 @@ nif:ContextCollection
       nif:endIndex "75"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/83#char=0,226> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Monobloc_U.S.A.> .
 
 <http://aksw.org/N3/Reuters-128/17#char=0,359>
       a       nif:String , nif:Context , nif:RFC5147String ;
@@ -7829,7 +7952,7 @@ nif:ContextCollection
       nif:endIndex "220"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/89#char=0,221> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Madeira_Inc> .
 
 <http://aksw.org/N3/Reuters-128/15#char=0,21>
       a       nif:RFC5147String ;
@@ -7888,7 +8011,7 @@ nif:ContextCollection
       nif:endIndex "24"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/47#char=0,506> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Sci-Med_Life_Systems_Inc> .
 
 <http://aksw.org/N3/Reuters-128/45#char=391,399>
       a       nif:RFC5147String ;
@@ -7907,7 +8030,7 @@ nif:ContextCollection
       nif:endIndex "691"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/22#char=0,787> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/A-T-E_Security_Group_Inc> .
 
 <http://aksw.org/N3/Reuters-128/111#char=772,780>
       a       nif:RFC5147String ;
@@ -7919,16 +8042,6 @@ nif:ContextCollection
       itsrdf:taIdentRef <http://dbpedia.org/resource/Dominion_Textile> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
-<http://aksw.org/N3/Reuters-128/49#char=4368,4387>
-      a       nif:RFC5147String ;
-      nif:anchorOf "Duponts Conoco Incs"^^xsd:string ;
-      nif:beginIndex "4368"^^xsd:int ;
-      nif:endIndex "4387"^^xsd:int ;
-      nif:referenceContext
-              <http://aksw.org/N3/Reuters-128/49#char=0,5142> ;
-      itsrdf:taIdentRef <http://dbpedia.org/resource/Conoco> ;
-      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
-
 <http://aksw.org/N3/Reuters-128/3#char=452,477>
       a       nif:RFC5147String ;
       nif:anchorOf "North Country Media Group"^^xsd:string ;
@@ -7936,7 +8049,7 @@ nif:ContextCollection
       nif:endIndex "477"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/3#char=0,507> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/North_Country_Media_Group> .
 
 <http://aksw.org/N3/Reuters-128/44#char=0,13>
       a       nif:RFC5147String ;
@@ -8025,7 +8138,7 @@ nif:ContextCollection
       nif:endIndex "404"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/58#char=0,870> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Victorian_Corporate_Affairs_Commission> .
 
 <http://aksw.org/N3/Reuters-128/10#char=0,31>
       a       nif:RFC5147String ;
@@ -8083,6 +8196,16 @@ nif:ContextCollection
       itsrdf:taIdentRef <http://dbpedia.org/resource/Celanese> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
+<http://aksw.org/N3/Reuters-128/49#char=4136,4143>
+      a       nif:RFC5147String ;
+      nif:anchorOf "Houston"^^xsd:string ;
+      nif:beginIndex "4136"^^xsd:int ;
+      nif:endIndex "4143"^^xsd:int ;
+      nif:referenceContext
+              <http://aksw.org/N3/Reuters-128/49#char=0,5148> ;
+      itsrdf:taIdentRef <http://dbpedia.org/resource/Houston> ;
+      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
+
 <http://aksw.org/N3/Reuters-128/66#char=795,798>
       a       nif:RFC5147String ;
       nif:anchorOf "U.K"^^xsd:string ;
@@ -8091,6 +8214,16 @@ nif:ContextCollection
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/66#char=0,1268> ;
       itsrdf:taIdentRef <http://dbpedia.org/resource/United_Kingdom> ;
+      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
+
+<http://aksw.org/N3/Reuters-128/49#char=3581,3587>
+      a       nif:RFC5147String ;
+      nif:anchorOf "DuPont"^^xsd:string ;
+      nif:beginIndex "3581"^^xsd:int ;
+      nif:endIndex "3587"^^xsd:int ;
+      nif:referenceContext
+              <http://aksw.org/N3/Reuters-128/49#char=0,5148> ;
+      itsrdf:taIdentRef <http://dbpedia.org/resource/DuPont> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
 <http://aksw.org/N3/Reuters-128/14#char=599,601>
@@ -8129,16 +8262,6 @@ nif:ContextCollection
       nif:endIndex "787"^^xsd:int ;
       nif:isString "National Guardian Corp said it has acquired a number of security services companies recently, with aggregate revenues of about 3,500,000 dlrs, for an aggregate cost of about 2,700,000 dlrs. It said it acquired guard service companies C.S.C. Security Gaurd Service of Paramus, N.J., from Cartel Security Consultants Inc, the Guard Services Division of Security Services of America of Wayne, N.J., Capital Investigations and Protective Agency of Hackensack, N.J., and Meyer Detective Agency Inc of National Park, N.J. The company said it bought alarm service operations Certified Security Services Inc of Key West, Fla., Custom Security Services of Myrtle Beach, S.C., A-T-E Security Group Inc of Houston and the Louisville, Kent and Nashville, Tenn, offices of Wells Fargo Alarm Services."@en ;
       nif:sourceUrl <http://www.research.att.com/~lewis/Reuters-21578/15031> .
-
-<http://aksw.org/N3/Reuters-128/49#char=1876,1879>
-      a       nif:RFC5147String ;
-      nif:anchorOf "GAF"^^xsd:string ;
-      nif:beginIndex "1876"^^xsd:int ;
-      nif:endIndex "1879"^^xsd:int ;
-      nif:referenceContext
-              <http://aksw.org/N3/Reuters-128/49#char=0,5142> ;
-      itsrdf:taIdentRef <http://dbpedia.org/resource/GAF_Materials_Corporation> ;
-      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
 <http://aksw.org/N3/Reuters-128/86#char=380,399>
       a       nif:RFC5147String ;
@@ -8223,7 +8346,7 @@ nif:ContextCollection
       nif:endIndex "199"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/109#char=0,531> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Harcourt_Brace_Jovanovich_Canada_Inc> .
 
 <http://aksw.org/N3/Reuters-128/111#char=2977,2993>
       a       nif:RFC5147String ;
@@ -8241,15 +8364,6 @@ nif:ContextCollection
       nif:endIndex "234"^^xsd:int ;
       nif:isString "AVX Corp said it filed with the Securities and Exchange Commission a registration statement covering a 75 mln dlr issue of convertible subordinated debentures. The company named Shearson Lehman Brothers Inc as manager of the offering."@en ;
       nif:sourceUrl <http://www.research.att.com/~lewis/Reuters-21578/15113> .
-
-<http://aksw.org/N3/Reuters-128/111#char=2396,2412>
-      a       nif:RFC5147String ;
-      nif:anchorOf "Johnson Redbook "^^xsd:string ;
-      nif:beginIndex "2396"^^xsd:int ;
-      nif:endIndex "2412"^^xsd:int ;
-      nif:referenceContext
-              <http://aksw.org/N3/Reuters-128/111#char=0,3308> ;
-      itsrdf:taIdentRef aksw:notInWiki .
 
 <http://aksw.org/N3/Reuters-128/62#char=0,31>
       a       nif:RFC5147String ;
@@ -8278,7 +8392,7 @@ nif:ContextCollection
       nif:endIndex "1753"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/111#char=0,3308> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Eileen_Gormley> .
 
 <http://aksw.org/N3/Reuters-128/111#char=1039,1053>
       a       nif:RFC5147String ;
@@ -8287,7 +8401,7 @@ nif:ContextCollection
       nif:endIndex "1053"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/111#char=0,3308> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Avondale_Mills> .
 
 <http://aksw.org/N3/Reuters-128/123#char=639,645>
       a       nif:RFC5147String ;
@@ -8296,6 +8410,16 @@ nif:ContextCollection
       nif:endIndex "645"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/123#char=0,645> ;
+      itsrdf:taIdentRef <http://dbpedia.org/resource/Reuter> ;
+      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
+
+<http://aksw.org/N3/Reuters-128/126#char=423,429>
+      a       nif:RFC5147String ;
+      nif:anchorOf "Reuter"^^xsd:string ;
+      nif:beginIndex "423"^^xsd:int ;
+      nif:endIndex "429"^^xsd:int ;
+      nif:referenceContext
+              <http://aksw.org/N3/Reuters-128/126#char=0,429> ;
       itsrdf:taIdentRef <http://dbpedia.org/resource/Reuter> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
@@ -8332,6 +8456,13 @@ nif:ContextCollection
       itsrdf:taIdentRef <http://dbpedia.org/resource/Steven_Rosenberg> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
+<http://aksw.org/N3/Reuters-128/49#char=0,5148>
+      a       nif:String , nif:Context , nif:RFC5147String ;
+      nif:beginIndex "0"^^xsd:int ;
+      nif:endIndex "5148"^^xsd:int ;
+      nif:isString "Cheap oil feedstocks, the weakened U.S. dollar and a plant utilization rate approaching 90 pct will propel the streamlined U.S. petrochemical industry to record profits this year, with growth expected through at least 1990, major company executives predicted. This bullish outlook for chemical manufacturing and an industrywide move to shed unrelated businesses has prompted GAF Corp (GAF), privately-held Cain Chemical Inc, and other firms to aggressively seek acquisitions of petrochemical plants. Oil companies such as Ashland Oil Inc (ASH), the Kentucky-based oil refiner and marketer, are also shopping for money-making petrochemical businesses to buy. I see us poised at the threshold of a golden period, said Paul Oreffice, chairman of giant Dow Chemical Co (DOW), adding, Theres no major plant capacity being added around the world now. The whole game is bringing out new products and improving the old ones. Analysts say the chemical industrys biggest customers, automobile manufacturers and home builders that use a lot of paints and plastics, are expected to buy quantities this year. U.S. petrochemical plants are currently operating at about 90 pct capacity, reflecting tighter supply that could hike product prices by 30 to 40 pct this year, said John Dosher, managing director of Pace Consultants Inc of Houston. Demand for some products such as styrene could push profit margins up by as much as 300 pct, he said. Oreffice, speaking at a meeting of chemical engineers in Houston, said Dow would easily top the 741 mln dlrs it earned last year and predicted it would have the best year in its history. In 1985, when oil prices were still above 25 dlrs a barrel and chemical exports were adversely affected by the strong U.S. dollar, Dow had profits of 58 mln dlrs. I believe the entire chemical industry is headed for a record year or close to it, Oreffice said. GAF chairman Samuel Heyman estimated that the U.S. chemical industry would report a 20 pct gain in profits during 1987. Last year, the domestic industry earned a total of 13 billion dlrs, a 54 pct leap from 1985. The turn in the fortunes of the once-sickly chemical industry has been brought about by a combination of luck and planning, said Paces John Dosher. Dosher said last years fall in oil prices made feedstocks dramatically cheaper and at the same time the American dollar was weakening against foreign currencies. That helped boost U.S. chemical exports. Also helping to bring supply and demand into balance has been the gradual market absorption of the extra chemical manufacturing capacity created by Middle Eastern oil producers in the early 1980s. Finally, virtually all major U.S. chemical manufacturers have embarked on an extensive corporate restructuring program to mothball inefficient plants, trim the payroll and eliminate unrelated businesses. The restructuring touched off a flurry of friendly and hostile takeover attempts. GAF, which made an unsuccessful attempt in 1985 to acquire Union Carbide Corp UK, recently offered three billion dlrs for Borg Warner Corp BOR, a Chicago manufacturer of plastics and chemicals. Another industry powerhouse, W.R. Grace (GRA) has divested its retailing, restaurant and fertilizer businesses to raise cash for chemical acquisitions. But some experts worry that the chemical industry may be headed for trouble if companies continue turning their back on the manufacturing of staple petrochemical commodities, such as ethylene, in favor of more profitable specialty chemicals that are custom-designed for a small group of buyers. Companies like DuPont (DD) and Monsanto Co MTC spent the past two or three years trying to get out of the commodity chemical business in reaction to how badly the market had deteriorated, Dosher said. But I think they will eventually kill the margins on the profitable chemicals in the niche market. Some top chemical executives share the concern. The challenge for our industry is to keep from getting carried away and repeating past mistakes, GAFs Heyman cautioned. The shift from commodity chemicals may be ill-advised. Specialty businesses do not stay special long. Houston-based Cain Chemical, created this month by the Sterling investment banking group, believes it can generate 700 mln dlrs in annual sales by bucking the industry trend. Chairman Gordon Cain, who previously led a leveraged buyout of Duponts Conoco Incs chemical business, has spent 1.1 billion dlrs since January to buy seven petrochemical plants along the Texas Gulf Coast. The plants produce only basic commodity petrochemicals that are the building blocks of specialty products. This kind of commodity chemical business will never be a glamorous, high-margin business, Cain said, adding that demand is expected to grow by about three pct annually. Garo Armen, an analyst with Dean Witter Reynolds, said chemical makers have also benefitted by increasing demand for plastics as prices become more competitive with aluminum, wood and steel products. Armen estimated the upturn in the chemical business could last as long as four or five years, provided the U.S. economy continues its modest rate of growth."@en ;
+      nif:sourceUrl <http://www.research.att.com/~lewis/Reuters-21578/15063> .
+
 <http://aksw.org/N3/Reuters-128/69#char=1540,1545>
       a       nif:RFC5147String ;
       nif:anchorOf "Ghana"^^xsd:string ;
@@ -8349,7 +8480,7 @@ nif:ContextCollection
       nif:endIndex "12"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/39#char=0,184> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/AutoSpa_corp> .
 
 <http://aksw.org/N3/Reuters-128/100#char=446,467>
       a       nif:RFC5147String ;
@@ -8358,7 +8489,7 @@ nif:ContextCollection
       nif:endIndex "467"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/100#char=0,468> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Eberstadt_Fleming_Inc> .
 
 <http://aksw.org/N3/Reuters-128/52#char=0,24>
       a       nif:RFC5147String ;
@@ -8367,7 +8498,7 @@ nif:ContextCollection
       nif:endIndex "24"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/52#char=0,263> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Nantucket_Industries_Inc> .
 
 <http://aksw.org/N3/Reuters-128/31#char=1574,1581>
       a       nif:RFC5147String ;
@@ -8376,7 +8507,7 @@ nif:ContextCollection
       nif:endIndex "1581"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/31#char=0,2168> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Robert_W_Scherer> .
 
 <http://aksw.org/N3/Reuters-128/87#char=0,439>
       a       nif:String , nif:Context , nif:RFC5147String ;
@@ -8399,7 +8530,7 @@ nif:ContextCollection
       nif:endIndex "379"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/22#char=0,787> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Security_Services_of_America> .
 
 <http://aksw.org/N3/Reuters-128/22#char=619,643>
       a       nif:RFC5147String ;
@@ -8408,7 +8539,7 @@ nif:ContextCollection
       nif:endIndex "643"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/22#char=0,787> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Custom_Security_Services> .
 
 <http://aksw.org/N3/Reuters-128/36#char=1088,1093>
       a       nif:RFC5147String ;
@@ -8420,6 +8551,15 @@ nif:ContextCollection
       itsrdf:taIdentRef <http://dbpedia.org/resource/Italy> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
+<http://aksw.org/N3/Reuters-128/111#char=2396,2411>
+      a       nif:RFC5147String ;
+      nif:anchorOf "Johnson Redbook"^^xsd:string ;
+      nif:beginIndex "2396"^^xsd:int ;
+      nif:endIndex "2411"^^xsd:int ;
+      nif:referenceContext
+              <http://aksw.org/N3/Reuters-128/111#char=0,3308> ;
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Johnson_Redbook> .
+
 <http://aksw.org/N3/Reuters-128/107#char=789,801>
       a       nif:RFC5147String ;
       nif:anchorOf "Tehran radio"^^xsd:string ;
@@ -8427,7 +8567,7 @@ nif:ContextCollection
       nif:endIndex "801"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/107#char=0,1190> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Tehran_Radio> .
 
 <http://aksw.org/N3/Reuters-128/8#char=164,175>
       a       nif:RFC5147String ;
@@ -8438,15 +8578,6 @@ nif:ContextCollection
               <http://aksw.org/N3/Reuters-128/8#char=0,1157> ;
       itsrdf:taIdentRef <http://dbpedia.org/resource/Netherlands> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
-
-<http://aksw.org/N3/Reuters-128/49#char=2237,2243>
-      a       nif:RFC5147String ;
-      nif:anchorOf "Dosher"^^xsd:string ;
-      nif:beginIndex "2237"^^xsd:int ;
-      nif:endIndex "2243"^^xsd:int ;
-      nif:referenceContext
-              <http://aksw.org/N3/Reuters-128/49#char=0,5142> ;
-      itsrdf:taIdentRef aksw:notInWiki .
 
 <http://aksw.org/N3/Reuters-128/65#char=0,429>
       a       nif:String , nif:Context , nif:RFC5147String ;
@@ -8495,7 +8626,7 @@ nif:endIndex
       nif:endIndex "12"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/48#char=0,286> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Fidelcor_Inc> .
 
 <http://aksw.org/N3/Reuters-128/92#char=560,566>
       a       nif:RFC5147String ;
@@ -8504,7 +8635,7 @@ nif:endIndex
       nif:endIndex "566"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/92#char=0,745> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Datron_Corp> .
 
 <http://aksw.org/N3/Reuters-128/124#char=313,333>
       a       nif:RFC5147String ;
@@ -8580,7 +8711,7 @@ nif:endIndex
       nif:endIndex "135"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/52#char=0,263> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Terry_Hampton> .
 
 <http://aksw.org/N3/Reuters-128/114#char=0,18>
       a       nif:RFC5147String ;
@@ -8629,7 +8760,7 @@ nif:endIndex
       nif:endIndex "443"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/47#char=0,506> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Sci-Med_Life_Systems_Inc> .
 
 <http://aksw.org/N3/Reuters-128/111#char=3038,3051>
       a       nif:RFC5147String ;
@@ -8638,7 +8769,7 @@ nif:endIndex
       nif:endIndex "3051"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/111#char=0,3308> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Ponderosa_Inc> .
 
 <http://aksw.org/N3/Reuters-128/73#char=0,14>
       a       nif:RFC5147String ;
@@ -8659,6 +8790,15 @@ nif:endIndex
               <http://aksw.org/N3/Reuters-128/116#char=0,1015> ;
       itsrdf:taIdentRef <http://dbpedia.org/resource/United_States_Department_of_the_Treasury> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
+
+<http://aksw.org/N3/Reuters-128/49#char=4150,4163>
+      a       nif:RFC5147String ;
+      nif:anchorOf "Cain Chemical"^^xsd:string ;
+      nif:beginIndex "4150"^^xsd:int ;
+      nif:endIndex "4163"^^xsd:int ;
+      nif:referenceContext
+              <http://aksw.org/N3/Reuters-128/49#char=0,5148> ;
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Cain_Chemical_Inc> .
 
 <http://aksw.org/N3/Reuters-128/115#char=0,21>
       a       nif:RFC5147String ;
@@ -8686,7 +8826,7 @@ nif:endIndex
       nif:beginIndex "749"^^xsd:int ;
       nif:endIndex "764"^^xsd:int ;
       nif:referenceContext
-              <http://aksw.org/N3/Reuters-128/49#char=0,5142> ;
+              <http://aksw.org/N3/Reuters-128/49#char=0,5148> ;
       itsrdf:taIdentRef <http://dbpedia.org/resource/Dow_Chemical_Company> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
@@ -8697,17 +8837,7 @@ nif:endIndex
       nif:endIndex "270"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/27#char=0,435> ;
-      itsrdf:taIdentRef aksw:notInWiki .
-
-<http://aksw.org/N3/Reuters-128/49#char=3045,3061>
-      a       nif:RFC5147String ;
-      nif:anchorOf "Borg Warner Corp"^^xsd:string ;
-      nif:beginIndex "3045"^^xsd:int ;
-      nif:endIndex "3061"^^xsd:int ;
-      nif:referenceContext
-              <http://aksw.org/N3/Reuters-128/49#char=0,5142> ;
-      itsrdf:taIdentRef <http://dbpedia.org/resource/BorgWarner> ;
-      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/American_Midland_Corp> .
 
 <http://aksw.org/N3/Reuters-128/83#char=81,110>
       a       nif:RFC5147String ;
@@ -8776,16 +8906,6 @@ nif:endIndex
       itsrdf:taIdentRef <http://dbpedia.org/resource/Donald_Trump> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
-<http://aksw.org/N3/Reuters-128/49#char=3069,3076>
-      a       nif:RFC5147String ;
-      nif:anchorOf "Chicago"^^xsd:string ;
-      nif:beginIndex "3069"^^xsd:int ;
-      nif:endIndex "3076"^^xsd:int ;
-      nif:referenceContext
-              <http://aksw.org/N3/Reuters-128/49#char=0,5142> ;
-      itsrdf:taIdentRef <http://dbpedia.org/resource/Chicago> ;
-      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
-
 <http://aksw.org/N3/Reuters-128/93#char=0,1055>
       a       nif:String , nif:Context , nif:RFC5147String ;
       nif:beginIndex "0"^^xsd:int ;
@@ -8800,7 +8920,7 @@ nif:endIndex
       nif:endIndex "594"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/57#char=0,829> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Advanced_Voice_Technologies> .
 
 <http://aksw.org/N3/Reuters-128/61#char=677,685>
       a       nif:RFC5147String ;
@@ -8848,7 +8968,7 @@ nif:endIndex
       nif:endIndex "426"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/113#char=0,2492> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Bruce_Smart> .
 
 <http://aksw.org/N3/Reuters-128/26#char=112,129>
       a       nif:RFC5147String ;
@@ -8894,7 +9014,7 @@ nif:endIndex
       nif:endIndex "581"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/67#char=0,1627> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Michel_Dufour> .
 
 <http://aksw.org/N3/Reuters-128/94#char=667,676>
       a       nif:RFC5147String ;
@@ -8903,7 +9023,7 @@ nif:endIndex
       nif:endIndex "676"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/94#char=0,1058> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Hans_van_Liemt> .
 
 <http://aksw.org/N3/Reuters-128/24#char=434,461>
       a       nif:RFC5147String ;
@@ -8922,7 +9042,7 @@ nif:endIndex
       nif:endIndex "623"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/80#char=0,750> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/J._Terence_Murray> .
 
 <http://aksw.org/N3/Reuters-128/18#char=322,335>
       a       nif:RFC5147String ;
@@ -8941,7 +9061,7 @@ nif:endIndex
       nif:endIndex "442"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/91#char=0,1329> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/AgrimontSPA> .
 
 <http://aksw.org/N3/Reuters-128/121#char=4,19>
       a       nif:RFC5147String ;
@@ -8990,7 +9110,7 @@ nif:endIndex
       nif:endIndex "786"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/22#char=0,787> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Wells_Fargo_Alarm_Services> .
 
 <http://aksw.org/N3/Reuters-128/69#char=302,305>
       a       nif:RFC5147String ;
@@ -8999,7 +9119,8 @@ nif:endIndex
       nif:endIndex "305"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/69#char=0,1634> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://de.dbpedia.org/resource/Cocoa_Producers’_Alliance> ;
+      itsrdf:taSource "DBpedia_de_3.9"^^xsd:string .
 
 <http://aksw.org/N3/Reuters-128/90#char=0,15>
       a       nif:RFC5147String ;
@@ -9008,7 +9129,7 @@ nif:endIndex
       nif:endIndex "15"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/90#char=0,176> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Celltronics_Inc> .
 
 <http://aksw.org/N3/Reuters-128/95#char=244,251>
       a       nif:RFC5147String ;
@@ -9017,7 +9138,7 @@ nif:endIndex
       nif:endIndex "251"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/95#char=0,322> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/CNA_Income_Shares_Inc> .
 
 <http://aksw.org/N3/Reuters-128/25#char=0,19>
       a       nif:RFC5147String ;
@@ -9026,7 +9147,7 @@ nif:endIndex
       nif:endIndex "19"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/25#char=0,315> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Blocker_Energy_corp> .
 
 <http://aksw.org/N3/Reuters-128/17#char=245,250>
       a       nif:RFC5147String ;
@@ -9072,7 +9193,7 @@ nif:endIndex
       nif:endIndex "240"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/17#char=0,359> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Don_Bybee_and_Associates> .
 
 <http://aksw.org/N3/Reuters-128/69#char=1023,1026>
       a       nif:RFC5147String ;
@@ -9114,6 +9235,16 @@ nif:endIndex
       itsrdf:taIdentRef <http://dbpedia.org/resource/Hanover_Insurance> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
+<http://aksw.org/N3/Reuters-128/49#char=1501,1504>
+      a       nif:RFC5147String ;
+      nif:anchorOf "Dow"^^xsd:string ;
+      nif:beginIndex "1501"^^xsd:int ;
+      nif:endIndex "1504"^^xsd:int ;
+      nif:referenceContext
+              <http://aksw.org/N3/Reuters-128/49#char=0,5148> ;
+      itsrdf:taIdentRef <http://dbpedia.org/resource/Dow_Chemical_Company> ;
+      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
+
 <http://aksw.org/N3/Reuters-128/35#char=255,261>
       a       nif:RFC5147String ;
       nif:anchorOf "Moodys"^^xsd:string ;
@@ -9130,18 +9261,9 @@ nif:endIndex
       nif:beginIndex "375"^^xsd:int ;
       nif:endIndex "383"^^xsd:int ;
       nif:referenceContext
-              <http://aksw.org/N3/Reuters-128/49#char=0,5142> ;
+              <http://aksw.org/N3/Reuters-128/49#char=0,5148> ;
       itsrdf:taIdentRef <http://dbpedia.org/resource/GAF_Materials_Corporation> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
-
-<http://aksw.org/N3/Reuters-128/49#char=1428,1436>
-      a       nif:RFC5147String ;
-      nif:anchorOf "Oreffice"^^xsd:string ;
-      nif:beginIndex "1428"^^xsd:int ;
-      nif:endIndex "1436"^^xsd:int ;
-      nif:referenceContext
-              <http://aksw.org/N3/Reuters-128/49#char=0,5142> ;
-      itsrdf:taIdentRef aksw:notInWiki .
 
 <http://aksw.org/N3/Reuters-128/111#char=877,885>
       a       nif:RFC5147String ;
@@ -9180,7 +9302,7 @@ nif:endIndex
       nif:endIndex "966"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/91#char=0,1329> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Ettore_dellIsola> .
 
 <http://aksw.org/N3/Reuters-128/55#char=76,98>
       a       nif:RFC5147String ;
@@ -9252,7 +9374,7 @@ nif:hasContext
       nif:endIndex "453"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/106#char=0,1504> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Foreign_Policy_Institute> .
 
 <http://aksw.org/N3/Reuters-128/27#char=307,320>
       a       nif:RFC5147String ;
@@ -9271,7 +9393,7 @@ nif:hasContext
       nif:endIndex "23"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/6#char=0,106> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Home_Intensive_Care_Inc> .
 
 <http://aksw.org/N3/Reuters-128/36#char=341,361>
       a       nif:RFC5147String ;
@@ -9281,6 +9403,16 @@ nif:hasContext
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/36#char=0,1146> ;
       itsrdf:taIdentRef <http://dbpedia.org/resource/Jacques_de_Larosière> ;
+      itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
+
+<http://aksw.org/N3/Reuters-128/49#char=4792,4802>
+      a       nif:RFC5147String ;
+      nif:anchorOf "Garo Armen"^^xsd:string ;
+      nif:beginIndex "4792"^^xsd:int ;
+      nif:endIndex "4802"^^xsd:int ;
+      nif:referenceContext
+              <http://aksw.org/N3/Reuters-128/49#char=0,5148> ;
+      itsrdf:taIdentRef <http://dbpedia.org/resource/Garo_H._Armen> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
 <http://aksw.org/N3/Reuters-128/42#char=0,26>
@@ -9300,7 +9432,7 @@ nif:hasContext
       nif:endIndex "244"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/94#char=0,1058> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Hans_van_Liemt> .
 
 <http://aksw.org/N3/Reuters-128/14#char=22,24>
       a       nif:RFC5147String ;
@@ -9318,7 +9450,7 @@ nif:hasContext
       nif:beginIndex "549"^^xsd:int ;
       nif:endIndex "557"^^xsd:int ;
       nif:referenceContext
-              <http://aksw.org/N3/Reuters-128/49#char=0,5142> ;
+              <http://aksw.org/N3/Reuters-128/49#char=0,5148> ;
       itsrdf:taIdentRef <http://dbpedia.org/resource/Kentucky> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
@@ -9342,6 +9474,12 @@ nif:hasContext
       itsrdf:taIdentRef <http://dbpedia.org/resource/Continental_Bank_of_Canada> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
+<http://aksw.org/N3/Reuters-128/126#char=0,429>
+      a       nif:String , nif:Context , nif:RFC5147String ;
+      nif:beginIndex "0"^^xsd:int ;
+      nif:endIndex "429"^^xsd:int ;
+      nif:isString "Eastman Kodak Co is raising 25 mln dlrs through an offering of notes due 1997, said sole underwriter Morgan Stanley and Co Inc. The notes have a 7-1/2 pct coupon and an initial offering price of 99.625 to yield 7.34 pct, or 20 basis points over five-year Treasury notes. MorganMoodyMoody's Investors Service Inc and AA by Standard and PoorStandard and Poor's Corp. Investors can sell the notes back to the company in 1992. Reuter"@en .
+
 <http://aksw.org/N3/Reuters-128/84#char=984,1011>
       a       nif:RFC5147String ;
       nif:anchorOf "Association of White Metals"^^xsd:string ;
@@ -9349,7 +9487,7 @@ nif:hasContext
       nif:endIndex "1011"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/84#char=0,1012> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Association_of_White_Metals> .
 
 <http://aksw.org/N3/Reuters-128/46#char=0,290>
       a       nif:String , nif:Context , nif:RFC5147String ;
@@ -9375,4 +9513,4 @@ nif:hasContext
       nif:endIndex "142"^^xsd:int ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/96#char=0,599> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Alexanders_Inc> .
