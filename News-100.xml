@@ -2040,13 +2040,13 @@
       <SimpleTextPart>» wurde um 2.30 Uhr heute Nacht nach ersten Informationen von sieben Piraten geentert, wie das in </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Hamburg" source="manualAnnotation">Hamburg</NamedEntityInText>
       <SimpleTextPart> ansässige Unternehmen «</SimpleTextPart>
-      <NamedEntityInText uri="http://aksw.org/notInWiki/Bernhard_Schulte_Management" source="manualAnnotation">Bernhard Schulte Shipmanagement</NamedEntityInText>
+      <NamedEntityInText uri="http://aksw.org/notInWiki/Bernhard_Schulte_Shipmanagement" source="manualAnnotation">Bernhard Schulte Shipmanagement</NamedEntityInText>
       <SimpleTextPart>» mitteilte. Die Piraten hätten die Besatzung gezwungen, Kurs auf </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Somalia" source="manualAnnotation">Somalia</NamedEntityInText>
       <SimpleTextPart> zu nehmen. An Bord des Gastankers, der unter der Flagge der </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Bahamas" source="manualAnnotation">Bahamas</NamedEntityInText>
       <SimpleTextPart> fährt, seien 13 Personen, darunter zwölf Philippiner und ein Indonesier. «Nach unseren Informationen ist keiner verletzt», sagte ein Sprecher von «</SimpleTextPart>
-      <NamedEntityInText uri="http://aksw.org/notInWiki/Bernhard_Schulte_Management" source="manualAnnotation">Bernhard Schulte Shipmanagement</NamedEntityInText>
+      <NamedEntityInText uri="http://aksw.org/notInWiki/Bernhard_Schulte_Shipmanagement" source="manualAnnotation">Bernhard Schulte Shipmanagement</NamedEntityInText>
       <SimpleTextPart>».Derzeit besteht dem Unternehmen zufolge kein Kontakt zu dem Tanker. Aber dem Kapitän sei kurzzeitig erlaubt worden, den Schiffsmanager zu kontaktieren und zu sagen, dass kein Crew-Mitglied in direkter Gefahr sei. Die Piraten hätten noch keine Forderungen gestellt. Im vergangenen Jahr haben Piraten vor der Küste </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Somalia" source="manualAnnotation">Somalias</NamedEntityInText>
       <SimpleTextPart> mehr als 40 Schiffe gekapert und geschätzte 30 Millionen Dollar an Lösegeld erpresst.</SimpleTextPart>
