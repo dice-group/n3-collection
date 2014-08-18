@@ -374,13 +374,13 @@
       <SimpleTextPart> angeblich bei </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Ebay" source="manualAnnotation">Ebay</NamedEntityInText>
       <SimpleTextPart>. Wieder einmal glaubt ein Brite, aus früherem Besitz von </SimpleTextPart>
-      <NamedEntityInText uri="http://de.dbpedia.org/resource/Catherine_Mountbatten-Windsor,_Duchess_of_Cambridge" source="manualAnnotation">Catherine</NamedEntityInText>
+      <NamedEntityInText uri="http://de.dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" source="manualAnnotation">Catherine</NamedEntityInText>
       <SimpleTextPart>, der Frau von </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/William_Mountbatten-Windsor,_Duke_of_Cambridge" source="manualAnnotation">Prinz William</NamedEntityInText>
       <SimpleTextPart> , Profit schlagen zu können: Ein alter </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/VW_Golf" source="manualAnnotation">VW Golf</NamedEntityInText>
       <SimpleTextPart> , den </SimpleTextPart>
-      <NamedEntityInText uri="http://de.dbpedia.org/resource/Catherine_Mountbatten-Windsor,_Duchess_of_Cambridge" source="manualAnnotation">Kate Middleton</NamedEntityInText>
+      <NamedEntityInText uri="http://de.dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" source="manualAnnotation">Kate Middleton</NamedEntityInText>
       <SimpleTextPart> mal gefahren haben soll, ist bei </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Ebay" source="manualAnnotation">Ebay</NamedEntityInText>
       <SimpleTextPart> zu ersteigern.  </SimpleTextPart>
@@ -388,7 +388,7 @@
       <SimpleTextPart> (</SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Dpa" source="manualAnnotation">dpa</NamedEntityInText>
       <SimpleTextPart>) - Wieder einmal glaubt ein Brite, aus früherem Besitz von </SimpleTextPart>
-      <NamedEntityInText uri="http://de.dbpedia.org/resource/Catherine_Mountbatten-Windsor,_Duchess_of_Cambridge" source="manualAnnotation">Catherine</NamedEntityInText>
+      <NamedEntityInText uri="http://de.dbpedia.org/resource/Catherine,_Duchess_of_Cambridge" source="manualAnnotation">Catherine</NamedEntityInText>
       <SimpleTextPart> , der Frau von </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/William_Mountbatten-Windsor,_Duke_of_Cambridge" source="manualAnnotation">Prinz William</NamedEntityInText>
       <SimpleTextPart> , Profit schlagen zu können: Ein alter </SimpleTextPart>
