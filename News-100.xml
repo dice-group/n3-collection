@@ -1971,7 +1971,7 @@
       <SimpleTextPart> bestätigte gegenüber  </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Spiegel_Online" source="manualAnnotation">Spiegel Online</NamedEntityInText>
       <SimpleTextPart> , dass der Frachter bereits von der somalischen Küste weggefahren sei und Kontakt zur deutschen </SimpleTextPart>
-      <NamedEntityInText uri="http://de.dbpedia.org/resource/Fregatte_Brandenburg" source="manualAnnotation">Fregatte «Brandenburg»</NamedEntityInText>
+      <NamedEntityInText uri="http://de.dbpedia.org/resource/Brandenburg_(F_215)" source="manualAnnotation">Fregatte «Brandenburg»</NamedEntityInText>
       <SimpleTextPart> aufgenommen habe. Nach den Informationen der Nachrichtenseite befinden sich die elf rumänischen Besatzungsmitglieder an Bord der «</SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Victoria_(2003)" source="manualAnnotation">MS Victoria</NamedEntityInText>
       <SimpleTextPart>». Sicherheitskreise in </SimpleTextPart>
@@ -2004,7 +2004,7 @@
       <SimpleTextPart>» im </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Golf_von_Oman" source="manualAnnotation">Golf von Oman</NamedEntityInText>
       <SimpleTextPart> vereitelt. Die </SimpleTextPart>
-      <NamedEntityInText uri="http://de.dbpedia.org/resource/Fregatte_Mecklenburg-Vorpommern" source="manualAnnotation">Fregatte «Mecklenburg-Vorpommern»</NamedEntityInText>
+      <NamedEntityInText uri="http://de.dbpedia.org/resource/Mecklenburg-Vorpommern_(F_218)" source="manualAnnotation">Fregatte «Mecklenburg-Vorpommern»</NamedEntityInText>
       <SimpleTextPart> habe am vergangenen Freitag mit Warnschüssen zwei Schnellboote von Angreifern vertrieben. Dies bestätigte ein Sprecher des Einsatzführungskommandos in </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Potsdam" source="manualAnnotation">Potsdam</NamedEntityInText>
       <SimpleTextPart> heute Abend nach einem Bericht von  </SimpleTextPart>
