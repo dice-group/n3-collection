@@ -321,7 +321,7 @@
       <SimpleTextPart> hat das neue </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/VW_Golf_Cabriolet" source="manualAnnotation">Golf Cabrio</NamedEntityInText>
       <SimpleTextPart> aufgemotzt: Die Studie mit dem Beinamen R Concept leistet 199 kW/270 PS, teilte der Hersteller mit. Premiere feierte das Konzeptfahrzeug beim </SimpleTextPart>
-      <NamedEntityInText uri="http://de.dbpedia.org/resource/Golf_GTI" source="manualAnnotation">GTI</NamedEntityInText>
+      <NamedEntityInText uri="http://de.dbpedia.org/page/VW_Golf" source="manualAnnotation">GTI</NamedEntityInText>
       <SimpleTextPart> -Treffen in </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Reifnitz_(Gemeinde_Maria_Wörth)" source="manualAnnotation">Reifnitz</NamedEntityInText>
       <SimpleTextPart>am </SimpleTextPart>
@@ -335,7 +335,7 @@
       <SimpleTextPart> hat das neue </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/VW_Golf_Cabriolet" source="manualAnnotation">Golf Cabrio</NamedEntityInText>
       <SimpleTextPart> aufgemotzt: Die Studie mit dem Beinamen R Concept leistet 199 kW/270 PS, teilte der Hersteller mit. Premiere feierte das Konzeptfahrzeug beim </SimpleTextPart>
-      <NamedEntityInText uri="http://de.dbpedia.org/resource/Golf_GTI" source="manualAnnotation">GTI</NamedEntityInText>
+      <NamedEntityInText uri="http://de.dbpedia.org/page/VW_Golf" source="manualAnnotation">GTI</NamedEntityInText>
       <SimpleTextPart> -Treffen in </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Reifnitz_(Gemeinde_Maria_Wörth)" source="manualAnnotation">Reifnitz</NamedEntityInText>
       <SimpleTextPart>am </SimpleTextPart>
@@ -353,13 +353,13 @@
       <SimpleTextPart>-Tochter </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Skoda" source="manualAnnotation">Skoda</NamedEntityInText>
       <SimpleTextPart> hat für das </SimpleTextPart>
-      <NamedEntityInText uri="http://de.dbpedia.org/resource/Golf_GTI" source="manualAnnotation">GTI</NamedEntityInText>
+      <NamedEntityInText uri="http://de.dbpedia.org/page/VW_Golf" source="manualAnnotation">GTI</NamedEntityInText>
       <SimpleTextPart> -Treffen in </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Reifnitz_(Gemeinde_Maria_Wörth)" source="manualAnnotation">Reifnitz</NamedEntityInText>
       <SimpleTextPart>den Rallyesportwagen Fabia Super 2000 zum Roadster umgebaut. Das Konzeptauto Fabia RS 2000 bietet vier luftige Sitzplätze und als besonderen Hingucker eine tief umlaufende Scheibe. Zum Antrieb des Roadsters machte </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Skoda" source="manualAnnotation">Skoda</NamedEntityInText>
       <SimpleTextPart> keine Angaben. In der Rallye-Version steckt ein Saugmotor, der 199 kW/270 PS entwickelt. Webseite des </SimpleTextPart>
-      <NamedEntityInText uri="http://de.dbpedia.org/resource/Golf_GTI" source="manualAnnotation">GTI</NamedEntityInText>
+      <NamedEntityInText uri="http://de.dbpedia.org/page/VW_Golf" source="manualAnnotation">GTI</NamedEntityInText>
       <SimpleTextPart>-Treffens </SimpleTextPart>
     </TextWithNamedEntities>
   </Document>
@@ -540,7 +540,7 @@
       <SimpleTextPart>Viel </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/VW_Golf" source="manualAnnotation">Golf</NamedEntityInText>
       <SimpleTextPart>, wenig </SimpleTextPart>
-      <NamedEntityInText uri="http://de.dbpedia.org/resource/Golf_GTI" source="manualAnnotation">GTI</NamedEntityInText>
+      <NamedEntityInText uri="http://de.dbpedia.org/page/VW_Golf" source="manualAnnotation">GTI</NamedEntityInText>
       <SimpleTextPart>.  Mein erster Eindruck: Dank den Sportsitzen und einem eher kompakten Innenraum zieht an sich den schnellen </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/page/VW_Golf_II" source="manualAnnotation">Diesel-Golf</NamedEntityInText>
       <SimpleTextPart> mehr an, als dass man einsteigt. Ob er auch so schnell fährt und wer das braucht - die andere Sicht.  Zusammen mit einer auffälliger gestalteten Front, einem Sportlenkrad und auf Wunsch knackiger Abstimmung verspricht der </SimpleTextPart>
@@ -2146,7 +2146,7 @@
       <SimpleTextPart>  die Konsequenz aus einer geplatzten Befreiungsaktion vor knapp einer Woche, als Seeräuber das deutsche Containerschiff «</SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Hansa_Stavanger" source="manualAnnotation">Hansa Stavanger</NamedEntityInText>
       <SimpleTextPart>» in ihre Gewalt brachten. Eine Einheit der </SimpleTextPart>
-      <NamedEntityInText uri="http://de.dbpedia.org/resource/GSG_9" source="manualAnnotation">GSG 9</NamedEntityInText>
+      <NamedEntityInText uri="http://de.dbpedia.org/resource/GSG_9_der_Bundespolizei" source="manualAnnotation">GSG 9</NamedEntityInText>
       <SimpleTextPart> sei schon nach </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Kenia" source="manualAnnotation">Kenia</NamedEntityInText>
       <SimpleTextPart> unterwegs gewesen. Die Piraten hätten sich und ihre Beute aber zu schnell in Sicherheit bringen können. Das </SimpleTextPart>
@@ -2449,7 +2449,7 @@
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Volkswagen" source="manualAnnotation">VW</NamedEntityInText>
       <SimpleTextPart> kann`s nicht: Deswegen muss die Abteilung Attacke aus </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Kempten_(Allgäu)" source="manualAnnotation">Kempten</NamedEntityInText>
-      <SimpleTextPart> ran. Die Allgäuer pushen den </SimpleTextPart><NamedEntityInText uri="http://de.dbpedia.org/resource/Golf_GTI" source="manualAnnotation">GTI</NamedEntityInText><SimpleTextPart> auf 300 PS. Damit kann der endlich dem Senkrechtstarter Ford Focus RS Paroli bieten. Im zweiten Teil des Vergleichs stehen heute Leistung und Handling im Vordergrund.<!-- PARAGRAPH --> Gerade auf kurvigen Rennpisten oder Passstraßen ist es eine wahre Freude, den einen wie den anderen zu bewegen. Dass der Focus in allen Bereich einen etwas ausgewogeneren Eindruck macht, ist dabei kein Zeichen einer Schwäche beim </SimpleTextPart><NamedEntityInText uri="http://de.dbpedia.org/resource/Abt_Sportsline" source="manualAnnotation">Abt</NamedEntityInText><SimpleTextPart>-</SimpleTextPart><NamedEntityInText uri="http://de.dbpedia.org/resource/Golf_GTI" source="manualAnnotation">GTI</NamedEntityInText><SimpleTextPart>, sondern schlicht die Stärke des exzellenten RS-Pakets.<!-- PARAGRAPH --> Fahrwerk, Lenkung, Handling und Bremsen sind beim </SimpleTextPart><NamedEntityInText uri="http://de.dbpedia.org/resource/Abt_Sportsline" source="manualAnnotation">Abt</NamedEntityInText><SimpleTextPart> </SimpleTextPart><NamedEntityInText uri="http://de.dbpedia.org/resource/Golf_GTI" source="manualAnnotation">GTI</NamedEntityInText><SimpleTextPart> gut und klasse beim Focus RS abgestimmt. Die manuellen sechs Ford-Gänge zu schalten ist eine wahre Wonne. Dass Kupplung und Getriebe bei schneller Gangart Höchstleistungen zu vollbringen haben, merkt man allenfalls am Rande.<!-- PARAGRAPH --> Ausgewogen und kompromisslos sportlich dabei auch das Gesamtbild des </SimpleTextPart><NamedEntityInText uri="http://de.dbpedia.org/resource/Abt_Sportsline" source="manualAnnotation">Abt</NamedEntityInText><SimpleTextPart> </SimpleTextPart><NamedEntityInText uri="http://de.dbpedia.org/resource/Golf_GTI" source="manualAnnotation">GTI</NamedEntityInText><SimpleTextPart>. Er wirkt härter und ambitionierterer, aber ruppiger und im Grenzbereich weniger ausgewogen.<!-- PARAGRAPH --> Unter dem Strich gewinnt der Ford Focus RS diesen Vergleich jedoch deutlicher als erwartet. Der Grund ist nicht nur das exzellente Sportpaket an sich, sondern ein mit 33.900 Euro nahezu unschlagbarer Preis. Dadurch kann er auch die Schwächen beim veralteten Fünfzylinder-Motor nahezu vergessen machen. Nie war es dynamischer, einen Fronttriebler zu fahren. Ein </SimpleTextPart><NamedEntityInText uri="http://de.dbpedia.org/resource/Golf_GTI" source="manualAnnotation">Golf GTI</NamedEntityInText><SimpleTextPart> beißt sich selbst dann an ihm die Zähne aus, wenn Tuningspezialist </SimpleTextPart><NamedEntityInText uri="http://de.dbpedia.org/resource/Abt_Sportsline" source="manualAnnotation">Abt</NamedEntityInText><SimpleTextPart> ihm Flügel verliehen hat.<!-- PARAGRAPH --> Sehen und lesen Sie mehr über die Kompaktsportler in unserer Bilderstrecke.
+      <SimpleTextPart> ran. Die Allgäuer pushen den </SimpleTextPart><NamedEntityInText uri="http://de.dbpedia.org/page/VW_Golf" source="manualAnnotation">GTI</NamedEntityInText><SimpleTextPart> auf 300 PS. Damit kann der endlich dem Senkrechtstarter Ford Focus RS Paroli bieten. Im zweiten Teil des Vergleichs stehen heute Leistung und Handling im Vordergrund.<!-- PARAGRAPH --> Gerade auf kurvigen Rennpisten oder Passstraßen ist es eine wahre Freude, den einen wie den anderen zu bewegen. Dass der Focus in allen Bereich einen etwas ausgewogeneren Eindruck macht, ist dabei kein Zeichen einer Schwäche beim </SimpleTextPart><NamedEntityInText uri="http://de.dbpedia.org/resource/Abt_Sportsline" source="manualAnnotation">Abt</NamedEntityInText><SimpleTextPart>-</SimpleTextPart><NamedEntityInText uri="http://de.dbpedia.org/page/VW_Golf" source="manualAnnotation">GTI</NamedEntityInText><SimpleTextPart>, sondern schlicht die Stärke des exzellenten RS-Pakets.<!-- PARAGRAPH --> Fahrwerk, Lenkung, Handling und Bremsen sind beim </SimpleTextPart><NamedEntityInText uri="http://de.dbpedia.org/resource/Abt_Sportsline" source="manualAnnotation">Abt</NamedEntityInText><SimpleTextPart> </SimpleTextPart><NamedEntityInText uri="http://de.dbpedia.org/page/VW_Golf" source="manualAnnotation">GTI</NamedEntityInText><SimpleTextPart> gut und klasse beim Focus RS abgestimmt. Die manuellen sechs Ford-Gänge zu schalten ist eine wahre Wonne. Dass Kupplung und Getriebe bei schneller Gangart Höchstleistungen zu vollbringen haben, merkt man allenfalls am Rande.<!-- PARAGRAPH --> Ausgewogen und kompromisslos sportlich dabei auch das Gesamtbild des </SimpleTextPart><NamedEntityInText uri="http://de.dbpedia.org/resource/Abt_Sportsline" source="manualAnnotation">Abt</NamedEntityInText><SimpleTextPart> </SimpleTextPart><NamedEntityInText uri="http://de.dbpedia.org/page/VW_Golf" source="manualAnnotation">GTI</NamedEntityInText><SimpleTextPart>. Er wirkt härter und ambitionierterer, aber ruppiger und im Grenzbereich weniger ausgewogen.<!-- PARAGRAPH --> Unter dem Strich gewinnt der Ford Focus RS diesen Vergleich jedoch deutlicher als erwartet. Der Grund ist nicht nur das exzellente Sportpaket an sich, sondern ein mit 33.900 Euro nahezu unschlagbarer Preis. Dadurch kann er auch die Schwächen beim veralteten Fünfzylinder-Motor nahezu vergessen machen. Nie war es dynamischer, einen Fronttriebler zu fahren. Ein </SimpleTextPart><NamedEntityInText uri="http://de.dbpedia.org/page/VW_Golf" source="manualAnnotation">Golf GTI</NamedEntityInText><SimpleTextPart> beißt sich selbst dann an ihm die Zähne aus, wenn Tuningspezialist </SimpleTextPart><NamedEntityInText uri="http://de.dbpedia.org/resource/Abt_Sportsline" source="manualAnnotation">Abt</NamedEntityInText><SimpleTextPart> ihm Flügel verliehen hat.<!-- PARAGRAPH --> Sehen und lesen Sie mehr über die Kompaktsportler in unserer Bilderstrecke.
 </SimpleTextPart></TextWithNamedEntities>
 </Document>
 
