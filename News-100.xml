@@ -522,7 +522,7 @@
       <SimpleTextPart> einen deutschen Getreidefrachter geentert. Die Besatzung des Containerschiffes ist offensichtlich unverletzt.  Nach übereinstimmenden Medienberichten griffen die Piraten das deutsche Schiff am frühen Morgen im </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Golf_von_Aden" source="manualAnnotation">Golf von Aden</NamedEntityInText>
       <SimpleTextPart> an. Die Besatzung habe der </SimpleTextPart>
-      <NamedEntityInText uri="http://de.dbpedia.org/resource/EU" source="manualAnnotation">EU</NamedEntityInText>
+      <NamedEntityInText uri="http://de.dbpedia.org/resource/Europäische_Union" source="manualAnnotation">EU</NamedEntityInText>
       <SimpleTextPart>-Mission «Atlanta» gemeldet, dass ihr Schiff angegriffen worden sei, bestätigte ein Bundeswehrsprecher.  Nachdem die Besatzung den Angriff gemeldet habe, sei der Kontakt abgebrochen, sagte der Sprecher weiter. Nach dem Frachter werde gesucht. Er sei das Schiff einer deutschen Reederei - Herkunft und Stärke der Besatzung seien unbekannt. Die Männer sollen aber nach Informationen von </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Spiegel_Online" source="manualAnnotation">Spiegel Online</NamedEntityInText>
       <SimpleTextPart> nicht aus </SimpleTextPart>
