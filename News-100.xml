@@ -3198,9 +3198,9 @@
       <SimpleTextPart> (alle 138).<!-- PARAGRAPH --> Nur zehn der 144 gestarteten Konkurrenten waren überhaupt schlechter platziert als </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Tiger_Woods" source="manualAnnotation">Woods</NamedEntityInText>
       <SimpleTextPart>. Selbst </SimpleTextPart>
-      <NamedEntityInText uri="http://de.dbpedia.org/resource/Tiger_Woods" source="manualAnnotation">Alexander Cejka</NamedEntityInText>
+      <NamedEntityInText uri="http://de.dbpedia.org/resource/Alexander_Cejka" source="manualAnnotation">Alexander Cejka</NamedEntityInText>
       <SimpleTextPart> hatte sich mit 146 Schlägen vor dem Kalifornier eingereiht, aber um einen Zähler den Cut verpasst. Bis zum 16. Grün lag der gebürtige Tscheche mit deutschem Pass bei eins unter Par voll auf Kurs für die Finalrunden. Aber mit der Serie Triple-Bogey (drei über Par), Bogey, Bogey machte sich </SimpleTextPart>
-      <NamedEntityInText uri="http://de.dbpedia.org/resource/Tiger_Woods" source="manualAnnotation">Cejka</NamedEntityInText>
+      <NamedEntityInText uri="http://de.dbpedia.org/resource/Alexander_Cejka" source="manualAnnotation">Cejka</NamedEntityInText>
       <SimpleTextPart> die Chance auf eine Top-Ten-Platzierung auf den letzten drei Löchern zunichte.
 </SimpleTextPart></TextWithNamedEntities>
 </Document>
