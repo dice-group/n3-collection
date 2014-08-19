@@ -2411,7 +2411,7 @@
 	  <SimpleTextPart>-Vollversammlung in </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Singapur" source="manualAnnotation">Singapur</NamedEntityInText>
       <SimpleTextPart> genügend Stimmen erhielt, werden in </SimpleTextPart>
-      <NamedEntityInText uri="http://de.dbpedia.org/resource/Singapur" source="manualAnnotation">London</NamedEntityInText>
+      <NamedEntityInText uri="http://de.dbpedia.org/resource/London" source="manualAnnotation">London</NamedEntityInText>
       <SimpleTextPart> 2012 nur in 26 statt 28 Sportarten um Medaillen gekämpft.<!-- PARAGRAPH --> Die </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Internationales_Olympisches_Komitee" source="manualAnnotation">IOC</NamedEntityInText>
 	  <SimpleTextPart>-Programmkommission hat alle sieben Kandidaten auf Stärken und Schwächen geprüft und alles in einem Report zusammengefasst. Dabei sollen </SimpleTextPart><NamedEntityInText uri="http://de.dbpedia.org/resource/Golf_(Sport)" source="manualAnnotation">Golf</NamedEntityInText><SimpleTextPart> und Rugby die besten Beurteilungen erhalten haben, wie aus </SimpleTextPart>
