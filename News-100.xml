@@ -1760,7 +1760,7 @@
       <SimpleTextPart>, das ich jemals gespielt habe.» Völlig überraschend hatte </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Keegan_Bradley" source="manualAnnotation">Bradley</NamedEntityInText>
       <SimpleTextPart> am Sonntagabend gleich bei seinem ersten Grand Slam-Turnier als Nachfolger von </SimpleTextPart>
-      <NamedEntityInText uri="http://de.dbpedia.org/resource/Keegan_Bradley" source="manualAnnotation">Deutschlands</NamedEntityInText>
+      <NamedEntityInText uri="http://de.dbpedia.org/resource/Deutschland" source="manualAnnotation">Deutschlands</NamedEntityInText>
       <SimpleTextPart> Golfstar </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Martin_Kaymer" source="manualAnnotation">Martin Kaymer</NamedEntityInText>
       <SimpleTextPart> das letzte Major des Jahres gegen die gesamte Weltelite gewonnen. Der 25-jährige Sohn eines Golflehrers setzte sich dabei in </SimpleTextPart>
