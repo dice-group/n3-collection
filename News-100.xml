@@ -2166,7 +2166,7 @@
       <SimpleTextPart> zu stationieren, um künftig schneller eingreifen zu können. Die «</SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Hansa_Stavanger" source="manualAnnotation">Hansa Stavanger</NamedEntityInText>
       <SimpleTextPart>» war am vergangenen Samstag von fünf Piraten gekapert und zu ihrem Stützpunkt in der Bucht von </SimpleTextPart>
-      <NamedEntityInText uri="http://de.dbpedia.org/resource/Eldheere" source="manualAnnotation">Harardere</NamedEntityInText>
+      <NamedEntityInText uri="http://de.dbpedia.org/resource/Harardheere" source="manualAnnotation">Harardere</NamedEntityInText>
       <SimpleTextPart> in </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Somalia" source="manualAnnotation">Somalia</NamedEntityInText>
       <SimpleTextPart> gebracht worden. Mittlerweile soll das Schiff der </SimpleTextPart>
