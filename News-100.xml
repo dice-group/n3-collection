@@ -2185,7 +2185,7 @@
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Federal_Bureau_of_Investigation" source="manualAnnotation">FBI</NamedEntityInText>
       <SimpleTextPart> mit den Piraten in Kontakt treten. Zugleich hieß es, das Containerschiff «</SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Maersk_Alabama" source="manualAnnotation">Maersk Alabama</NamedEntityInText>
-      <SimpleTextPart>-->» sei von der somalischen Küste auf dem Weg nach </SimpleTextPart>
+      <SimpleTextPart>» sei von der somalischen Küste auf dem Weg nach </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Kenia" source="manualAnnotation">Kenia</NamedEntityInText>
       <SimpleTextPart>. Es werde in etwa 15 Stunden im Hafen von </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Mombasa" source="manualAnnotation">Mombasa</NamedEntityInText>
