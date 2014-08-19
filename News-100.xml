@@ -1320,7 +1320,7 @@
       <SimpleTextPart> durch.</SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Tiger_Woods" source="manualAnnotation">Woods</NamedEntityInText>
       <SimpleTextPart> kassierte hingegen eine bittere Auftaktniederlage am ersten Extra-Loch gegen den Dänen </SimpleTextPart>
-      <NamedEntityInText uri="http://de.dbpedia.org/resource/Thomas_Björn" source="manualAnnotation">Thomas Björn</NamedEntityInText>
+      <NamedEntityInText uri="http://de.dbpedia.org/resource/Thomas_Bjørn" source="manualAnnotation">Thomas Björn</NamedEntityInText>
       <SimpleTextPart>. «Enttäuschend, sehr enttäuschend», meinte der frühere Weltranglisten-Erste aus den </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Vereinigte_Staaten" source="manualAnnotation">USA</NamedEntityInText>
       <SimpleTextPart>, der das Turnier dreimal gewonnen hatte. Auch der Engländer </SimpleTextPart>
@@ -1662,11 +1662,11 @@
     <DocumentTitleInText>0|45</DocumentTitleInText>
     <TextWithNamedEntities>
       <SimpleTextPart>British Open: </SimpleTextPart>
-      <NamedEntityInText uri="http://de.dbpedia.org/resource/Thomas_Björn" source="manualAnnotation">Björn</NamedEntityInText>
+      <NamedEntityInText uri="http://de.dbpedia.org/resource/Thomas_Bjørn" source="manualAnnotation">Björn</NamedEntityInText>
       <SimpleTextPart> fordert Superstar </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Rory_McIlroy" source="manualAnnotation">McIlroy</NamedEntityInText>
       <SimpleTextPart>. Der dänische Oldie </SimpleTextPart>
-      <NamedEntityInText uri="http://de.dbpedia.org/resource/Thomas_Björn" source="manualAnnotation">Thomas Björn</NamedEntityInText>
+      <NamedEntityInText uri="http://de.dbpedia.org/resource/Thomas_Bjørn" source="manualAnnotation">Thomas Björn</NamedEntityInText>
       <SimpleTextPart> hat dem nordirischen </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Golf_(Sport)" source="manualAnnotation">Golf</NamedEntityInText>
       <SimpleTextPart>-Superstar </SimpleTextPart>
@@ -1676,7 +1676,7 @@
       <SimpleTextPart> (</SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Dpa" source="manualAnnotation">dpa</NamedEntityInText>
       <SimpleTextPart>) - Der dänische Oldie </SimpleTextPart>
-      <NamedEntityInText uri="http://de.dbpedia.org/resource/Thomas_Björn" source="manualAnnotation">Thomas Björn</NamedEntityInText>
+      <NamedEntityInText uri="http://de.dbpedia.org/resource/Thomas_Bjørn" source="manualAnnotation">Thomas Björn</NamedEntityInText>
       <SimpleTextPart> hat dem nordirischen </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Golf_(Sport)" source="manualAnnotation">Golf</NamedEntityInText>
       <SimpleTextPart>-Superstar </SimpleTextPart>
@@ -1688,7 +1688,7 @@
       <SimpleTextPart> an die Spitze der Konkurrenz im noblen </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Royal_St_George’s_Golf_Club" source="manualAnnotation">Royal St. Georges Golfclub</NamedEntityInText>
       <SimpleTextPart>. «Ich habe schwere Wochen hinter mir und hatte über Monate die Richtung und den Schwung verloren. Aber es ist einer meiner Lieblingsplätze und ich weiß, wie ich hier den Ball spielen muss», sagte der Skandinavier. «Heute habe ich mich sehr wohlgefühlt, obwohl ich schon um kurz vor halb acht starten musste.» Erst vor wenigen Wochen war </SimpleTextPart>
-      <NamedEntityInText uri="http://de.dbpedia.org/resource/Thomas_Björn" source="manualAnnotation">Björns</NamedEntityInText>
+      <NamedEntityInText uri="http://de.dbpedia.org/resource/Thomas_Bjørn" source="manualAnnotation">Björns</NamedEntityInText>
       <SimpleTextPart> Vater gestorben. In der Weltrangliste lag er vor dem Start nur an Nummer 80 - obwohl er Anfang des Jahres bei der Katar Open seinen elften Tour-Titel in </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Europa" source="manualAnnotation">Europa</NamedEntityInText>
       <SimpleTextPart> gewonnen hatte. Aber als der 22-jährige </SimpleTextPart>
@@ -1696,25 +1696,25 @@
       <SimpleTextPart> als zweitjüngster US-Opensieger aller Zeiten noch mit den Widrigkeiten im Regen und auffrischenden Winden an der </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Nordsee" source="manualAnnotation">Nordsee</NamedEntityInText>
       <SimpleTextPart> um seine Form kämpfte, stand der coole Däne zumindest bis zum Mittag auf Platz eins und genoss still seinen Triumph. Am Montag erst war </SimpleTextPart>
-      <NamedEntityInText uri="http://de.dbpedia.org/resource/Thomas_Björn" source="manualAnnotation">Björn</NamedEntityInText>
+      <NamedEntityInText uri="http://de.dbpedia.org/resource/Thomas_Bjørn" source="manualAnnotation">Björn</NamedEntityInText>
       <SimpleTextPart> - ursprünglich als Nummer sechs der Ersatzliste beim dritten Major des Jahres - für den indisponierten Major-Sieger </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Vijay_Singh" source="manualAnnotation">Vijay Singh</NamedEntityInText>
       <SimpleTextPart> von den </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Fidschi" source="manualAnnotation">Fidschi-Inseln</NamedEntityInText>
       <SimpleTextPart> in das illustre Feld gerutscht. Eine einzige Trainingsrunde hatte er absolviert, nachdem er am Sonntag angereist war und nicht «wusste, wo, wie und was auf mich zukommt». Aber in Erinnerung an 2003 spielte </SimpleTextPart>
-      <NamedEntityInText uri="http://de.dbpedia.org/resource/Thomas_Björn" source="manualAnnotation">Björn</NamedEntityInText>
+      <NamedEntityInText uri="http://de.dbpedia.org/resource/Thomas_Bjørn" source="manualAnnotation">Björn</NamedEntityInText>
       <SimpleTextPart> völlig losgelöst: Fast auf den Tag genau vor acht Jahren war er bei den British Open in </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Sandwich_(Kent)" source="manualAnnotation">Sandwich</NamedEntityInText>
       <SimpleTextPart> auf dem Par 70-Dünenkurs an sich selbst und seinen Nerven gescheitert: Mit drei Schlägen Vorsprung war der ehemalige Ryder Cup-Vizekapitän von 2004 - hinter dem deutschen Captain </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Bernhard_Langer_(Golfer)" source="manualAnnotation">Bernhard Langer</NamedEntityInText>
       <SimpleTextPart> - auf die letzten vier Löcher der finalen Runde gegangen. Aber in einem desaströsen Finish brach der von seinen Konkurrenten liebevoll «Major Tom» gerufene dänische Kauz auf den letzten vier Löchern völlig ein. Ein Bogey an der 15, ein Doppelbogey nach zwei Bunkerschlägen an der 16 - einem Par drei über 149 Meter - sowie ein Bogey an der 17 kosteten ihm den sicher geglaubten Sieg. «Damals hatte ich die größte Chance, ein Major zu gewinnen», sagte </SimpleTextPart>
-      <NamedEntityInText uri="http://de.dbpedia.org/resource/Thomas_Björn" source="manualAnnotation">Björn</NamedEntityInText>
+      <NamedEntityInText uri="http://de.dbpedia.org/resource/Thomas_Bjørn" source="manualAnnotation">Björn</NamedEntityInText>
       <SimpleTextPart>. Am Donnerstag machte er es besser: Am 16. gelang ein Birdie, ehe er mit einem Bogey am 18. Grün noch einen Schlag verlor. «Das ist </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Golf_(Sport)" source="manualAnnotation">Golf</NamedEntityInText>
       <SimpleTextPart>, heute hat fast alles gepasst. Ich habe hart mit meinem Caddie </SimpleTextPart>
       <NamedEntityInText uri="http://aksw.org/notInWiki/Pete_Cowen" source="manualAnnotation">Pete Cowen</NamedEntityInText>
       <SimpleTextPart> gearbeitet. Ihm verdanke ich ganz viel, weil er mich immer antreibt», sagte </SimpleTextPart>
-      <NamedEntityInText uri="http://de.dbpedia.org/resource/Thomas_Björn" source="manualAnnotation">Björn</NamedEntityInText>
+      <NamedEntityInText uri="http://de.dbpedia.org/resource/Thomas_Bjørn" source="manualAnnotation">Björn</NamedEntityInText>
       <SimpleTextPart>, der schon mehr als 14 Millionen Euro an Preisgeldern eingespielt hat.</SimpleTextPart>
     </TextWithNamedEntities>
   </Document>
