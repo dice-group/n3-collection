@@ -2183,15 +2183,15 @@
       <NamedEntityInText uri="http://de.dbpedia.org/resource/CNN" source="manualAnnotation">CNN</NamedEntityInText>
       <SimpleTextPart> berichtete, solle der </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Federal_Bureau_of_Investigation" source="manualAnnotation">FBI</NamedEntityInText>
-      <SimpleTextPart> mit den Piraten in Kontakt treten. Zugleich hieß es, das Containerschiff «<!--</SimpleTextPart>
-      <NamedEntityInText uri="http://de.dbpedia.org/resource/Maersk_Alabama" source="manualAnnotation">-->Maersk Alabama<!--</NamedEntityInText>
+      <SimpleTextPart> mit den Piraten in Kontakt treten. Zugleich hieß es, das Containerschiff «</SimpleTextPart>
+      <NamedEntityInText uri="http://de.dbpedia.org/resource/Maersk_Alabama" source="manualAnnotation">Maersk Alabama</NamedEntityInText>
       <SimpleTextPart>-->» sei von der somalischen Küste auf dem Weg nach </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Kenia" source="manualAnnotation">Kenia</NamedEntityInText>
       <SimpleTextPart>. Es werde in etwa 15 Stunden im Hafen von </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Mombasa" source="manualAnnotation">Mombasa</NamedEntityInText>
-      <SimpleTextPart> erwartet. Die Piraten hatten gestern zunächst die «<!--</SimpleTextPart>
-      <NamedEntityInText uri="http://de.dbpedia.org/resource/Maersk_Alabama" source="manualAnnotation">-->Maersk Alabama<!--</NamedEntityInText>
-      <SimpleTextPart>-->» in ihre Gewalt gebracht. Sie waren dann aber von der amerikanischen Besatzung von Bord vertrieben worden. Dabei gelang es den Piraten allerdings, den Kapitän in einem Rettungsboot zu verschleppen. Die US-Reederei erklärte, die Sicherheit des Kapitäns habe Vorrang.</SimpleTextPart>
+      <SimpleTextPart> erwartet. Die Piraten hatten gestern zunächst die «</SimpleTextPart>
+      <NamedEntityInText uri="http://de.dbpedia.org/resource/Maersk_Alabama" source="manualAnnotation">Maersk Alabama</NamedEntityInText>
+      <SimpleTextPart>» in ihre Gewalt gebracht. Sie waren dann aber von der amerikanischen Besatzung von Bord vertrieben worden. Dabei gelang es den Piraten allerdings, den Kapitän in einem Rettungsboot zu verschleppen. Die US-Reederei erklärte, die Sicherheit des Kapitäns habe Vorrang.</SimpleTextPart>
     </TextWithNamedEntities>
   </Document>
   <!-- START ADDITIONAL DOCUMENTS -->
@@ -2294,13 +2294,13 @@
       <NamedEntityInText uri="http://de.dbpedia.org/resource/British_Broadcasting_Corporation" source="manualAnnotation">BBC</NamedEntityInText>
       <SimpleTextPart> werden diese nun durch somalische Stammesälteste geführt. Stammesälteste genießen in der somalischen Gesellschaft hohes Ansehen. Sie hatten bereits in der Vergangenheit erfolgreich zwischen Piraten und Reedern vermittelt.<!-- PARAGRAPH --> Die Piraten hatten das von </SimpleTextPart>
       <NamedEntityInText uri="http://aksw.org/notInWiki/Richard_Phillips" source="manualAnnotation">Phillips</NamedEntityInText>
-      <SimpleTextPart> geführte Containerschiff «<!--</SimpleTextPart>
-      <NamedEntityInText uri="http://de.dbpedia.org/resource/Maersk_Alabama" source="manualAnnotation">-->Maersk Alabama<!--</NamedEntityInText>
-      <SimpleTextPart>-->» am Mittwoch rund 500 Kilometer von der somalischen Küste entfernt gekapert. Innerhalb weniger Stunden konnte die Mannschaft das Schiff jedoch wieder unter ihre Kontrolle bringen. Die Piraten flohen daraufhin mit ihrer Geisel </SimpleTextPart>
+      <SimpleTextPart> geführte Containerschiff «</SimpleTextPart>
+      <NamedEntityInText uri="http://de.dbpedia.org/resource/Maersk_Alabama" source="manualAnnotation">Maersk Alabama</NamedEntityInText>
+      <SimpleTextPart>» am Mittwoch rund 500 Kilometer von der somalischen Küste entfernt gekapert. Innerhalb weniger Stunden konnte die Mannschaft das Schiff jedoch wieder unter ihre Kontrolle bringen. Die Piraten flohen daraufhin mit ihrer Geisel </SimpleTextPart>
       <NamedEntityInText uri="http://aksw.org/notInWiki/Richard_Phillips" source="manualAnnotation">Phillips</NamedEntityInText>
-      <SimpleTextPart> in dem Rettungsboot. Unklar war, wie sich das Boot der Küste nähern konnte. Zunächst hatte es geheißen, der Treibstoff sei ausgegangen.<!-- PARAGRAPH --> Die «<!--</SimpleTextPart>
-      <NamedEntityInText uri="http://de.dbpedia.org/resource/Maersk_Alabama" source="manualAnnotation">-->Maersk Alabama<!--</NamedEntityInText>
-      <SimpleTextPart>-->» erreichte in der Nacht zum Sonntag den kenianischen Hafen </SimpleTextPart>
+      <SimpleTextPart> in dem Rettungsboot. Unklar war, wie sich das Boot der Küste nähern konnte. Zunächst hatte es geheißen, der Treibstoff sei ausgegangen.<!-- PARAGRAPH --> Die «</SimpleTextPart>
+      <NamedEntityInText uri="http://de.dbpedia.org/resource/Maersk_Alabama" source="manualAnnotation">Maersk Alabama</NamedEntityInText>
+      <SimpleTextPart>» erreichte in der Nacht zum Sonntag den kenianischen Hafen </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Mombasa" source="manualAnnotation">Mombasa</NamedEntityInText>
       <SimpleTextPart>. Die Crew wurde von Sicherheitskräften abgeschirmt. </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/CNN" source="manualAnnotation">CNN</NamedEntityInText>
