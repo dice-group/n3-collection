@@ -2014,7 +2014,7 @@
       <SimpleTextPart> wurden die Schüsse mit einem Maschinengewehr abgefeuert. Die Boote seien nach den Salven mit hoher Fahrt in jemenitische Hoheitsgewässer gefahren. Die «</SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Astor_(Schiff)" source="manualAnnotation">MS Astor</NamedEntityInText>
       <SimpleTextPart>» bietet laut Bericht Platz für knapp 600 Passagiere. Das Schiff war nach Angaben des Reiseveranstalters </SimpleTextPart>
-      <NamedEntityInText uri="http://de.dbpedia.org/resource/Transocean_Tours" source="manualAnnotation">Transocean Tours</NamedEntityInText>
+      <NamedEntityInText uri="http://de.dbpedia.org/resource/Transocean_Kreuzfahrten" source="manualAnnotation">Transocean Tours</NamedEntityInText>
       <SimpleTextPart> auf dem Weg von </SimpleTextPart>
       <NamedEntityInText uri="http://de.dbpedia.org/resource/Scharm_el_Scheich" source="manualAnnotation">Scharm el Scheich</NamedEntityInText>
       <SimpleTextPart> in </SimpleTextPart>
