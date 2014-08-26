@@ -13,88 +13,44 @@
 <> a void:DatasetDescription ;
  dc:title "DataID of AKSW datasets" .
 
-<#kore50-nif>
-    dataid:licenseName "Creative Commons Attribution 4.0 International" ;
-    dc:description "Extracting Linked Data following the Semantic Web paradigm from unstructured sources has become a key driver for scientific research as well as new business models. Named Entity Recognition and Disambiguation are two basic steps in this extraction process. One key driver to realize the vision of the Semantic Web and develop highly accurate tools is the availability of data for performance validation. In this article, we present three novel, manually curated and annotated corpora, N3. Furthermore, we based them on a free licence and stored in the NLP Interchange Format for interoperability reasons. See http://aksw.org/Projects/N3NERNEDNIF.html" ;
-    dc:issued "8-13-2014"^^xsd:date ;
-    dc:language "English" ;
-    dc:license <http://purl.oclc.org/NET/rdflicense/cc-by> ;
-    dc:title "kore50 Dataset DataID Description" ;
-    void:exampleResource <http://www.yovisto.com/labs/ner-benchmarks/data/kore50-nif.ttl> ;
-    a dataid:Dataset, void:Dataset, rdfs:type, dcat:Dataset, prov:Entity, sd:Dataset ;
-    rdfs:label "kore50 Dataset DataID Description" ;
-    dcat:contactPoint [
-        a dataid:Agent ;
-        rdfs:label "Magnus Knuth" ;
-        foaf:mbox "magnusk.knuth@hpi.uni-potsdam.de" ;
-        foaf:name "Magnus Knuth"
-    ] ;
-    dcat:distribution <http://www.yovisto.com/labs/ner-benchmarks/data/kore50-nif.ttl> ;
-    dcat:landingPage <http://aksw.org/Projects/N3NERNEDNIF.html> .
-
 <#News-100-nif>
-    dataid:licenseName "Creative Commons Attribution 4.0 International" ;
+    dataid:licenseName "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License" ;
     dc:description "Extracting Linked Data following the Semantic Web paradigm from unstructured sources has become a key driver for scientific research as well as new business models. Named Entity Recognition and Disambiguation are two basic steps in this extraction process. One key driver to realize the vision of the Semantic Web and develop highly accurate tools is the availability of data for performance validation. In this article, we present three novel, manually curated and annotated corpora, N3. Furthermore, we based them on a free licence and stored in the NLP Interchange Format for interoperability reasons. See http://aksw.org/Projects/N3NERNEDNIF.html" ;
     dc:issued "8-13-2014"^^xsd:date ;
     dc:language "English" ;
-    dc:license <http://purl.oclc.org/NET/rdflicense/cc-by> ;
+    dc:license <http://purl.oclc.org/NET/rdflicense/cc-by-sa> ;
     dc:title "News-100 Dataset DataID Description" ;
     void:exampleResource <https://raw.github.com/AKSW/n3-collection/master/News-100.ttl> ;
     a dataid:Dataset, void:Dataset, rdfs:type, dcat:Dataset, prov:Entity, sd:Dataset ;
     rdfs:label "News-100 Dataset DataID Description" ;
-    dcat:contactPoint [
-        a dataid:Agent ;
-        rdfs:label "Sebastian Hellmann" ;
-        foaf:mbox "hellmann@informatik.uni-leipzig.de" ;
-        foaf:name "Sebastian Hellmann"
-    ] ;
     dcat:distribution <https://raw.github.com/AKSW/n3-collection/master/News-100.ttl> ;
     dcat:landingPage <http://aksw.org/Projects/N3NERNEDNIF.html> .
 
 <#RSS-500-nif>
-    dataid:licenseName "Creative Commons Attribution 4.0 International" ;
+    dataid:licenseName "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License" ;
     dc:description "RSS 500 NIF Dataset Main Distribution" ;
     dc:issued "8-13-2014"^^xsd:date ;
     dc:language "English" ;
-    dc:license <http://purl.oclc.org/NET/rdflicense/cc-by> ;
+    dc:license <http://purl.oclc.org/NET/rdflicense/cc-by-sa> ;
     dc:title "RSS-500 Dataset DataID Description" ;
     void:exampleResource <https://raw.github.com/AKSW/n3-collection/master/RSS-500.ttl> ;
     a dataid:Dataset, void:Dataset, rdfs:type, dcat:Dataset, prov:Entity, sd:Dataset ;
     rdfs:label "RSS-500 Dataset DataID Description" ;
-    dcat:contactPoint [
-        a dataid:Agent ;
-        rdfs:label "Sebastian Hellmann" ;
-        foaf:mbox "hellmann@informatik.uni-leipzig.de" ;
-        foaf:name "Sebastian Hellmann"
-    ] ;
     dcat:distribution <https://raw.github.com/AKSW/n3-collection/master/RSS-500.ttl> ;
     dcat:landingPage <http://aksw.org/Projects/N3NERNEDNIF.html> .
 
 <#Reuters-128-nif>
-    dataid:licenseName "Creative Commons Attribution 4.0 International" ;
+    dataid:licenseName "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License" ;
     dc:description "Extracting Linked Data following the Semantic Web paradigm from unstructured sources has become a key driver for scientific research as well as new business models. Named Entity Recognition and Disambiguation are two basic steps in this extraction process. One key driver to realize the vision of the Semantic Web and develop highly accurate tools is the availability of data for performance validation. In this article, we present three novel, manually curated and annotated corpora, N3. Furthermore, we based them on a free licence and stored in the NLP Interchange Format for interoperability reasons. See http://aksw.org/Projects/N3NERNEDNIF.html" ;
     dc:issued "8-13-2014"^^xsd:date ;
     dc:language "English" ;
-    dc:license <http://purl.oclc.org/NET/rdflicense/cc-by> ;
+    dc:license <http://purl.oclc.org/NET/rdflicense/cc-by-sa> ;
     dc:title "Reuters-128 Dataset DataID Description" ;
     void:exampleResource <https://raw.github.com/AKSW/n3-collection/master/Reuters-128.ttl> ;
     a dataid:Dataset, void:Dataset, rdfs:type, dcat:Dataset, prov:Entity, sd:Dataset ;
     rdfs:label "Reuters-128 Dataset DataID Description" ;
-    dcat:contactPoint [
-        a dataid:Agent ;
-        rdfs:label "Sebastian Hellmann" ;
-        foaf:mbox "hellmann@informatik.uni-leipzig.de" ;
-        foaf:name "Sebastian Hellmann"
-    ] ;
     dcat:distribution <https://raw.github.com/AKSW/n3-collection/master/Reuters-128.ttl> ;
     dcat:landingPage <http://aksw.org/Projects/N3NERNEDNIF.html> .
-
-<http://www.yovisto.com/labs/ner-benchmarks/data/kore50-nif.ttl>
-    dc:format "ttl" ;
-    dc:title "Kore50 NIF Distribution" ;
-    a dataid:Distribution ;
-    dcat:accessURL "http://www.yovisto.com/labs/ner-benchmarks/data/kore50-nif.ttl" ;
-    dcat:mediaType "text/plain" .
 
 <https://raw.github.com/AKSW/n3-collection/master/News-100.ttl>
     dc:format "ttl" ;
