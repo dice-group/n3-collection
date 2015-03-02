@@ -24,6 +24,13 @@
     a dataid:Dataset, void:Dataset, rdfs:type, dcat:Dataset, prov:Entity, sd:Dataset ;
     rdfs:label "News-100 Dataset DataID Description" ;
     dcat:distribution <https://raw.github.com/AKSW/n3-collection/master/News-100.ttl> ;
+    dataid:ontologyLocation <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> ;
+    dcat:contactPoint [
+        a dataid:Agent ;
+        rdfs:label "Ricardo Usbeck" ;
+        foaf:name "Ricardo Usbeck" ;
+        foaf:mbox "ricardo.usbeck(at)googlemail.com"
+      ] ;
     dcat:landingPage <http://aksw.org/Projects/N3NERNEDNIF.html> .
 
 <#RSS-500-nif>
@@ -37,6 +44,13 @@
     a dataid:Dataset, void:Dataset, rdfs:type, dcat:Dataset, prov:Entity, sd:Dataset ;
     rdfs:label "RSS-500 Dataset DataID Description" ;
     dcat:distribution <https://raw.github.com/AKSW/n3-collection/master/RSS-500.ttl> ;
+    dataid:ontologyLocation <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> ;
+    dcat:contactPoint [
+        a dataid:Agent ;
+        rdfs:label "Ricardo Usbeck" ;
+        foaf:name "Ricardo Usbeck" ;
+        foaf:mbox "ricardo.usbeck(at)googlemail.com"
+      ] ;
     dcat:landingPage <http://aksw.org/Projects/N3NERNEDNIF.html> .
 
 <#Reuters-128-nif>
@@ -50,12 +64,20 @@
     a dataid:Dataset, void:Dataset, rdfs:type, dcat:Dataset, prov:Entity, sd:Dataset ;
     rdfs:label "Reuters-128 Dataset DataID Description" ;
     dcat:distribution <https://raw.github.com/AKSW/n3-collection/master/Reuters-128.ttl> ;
+    dataid:ontologyLocation <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> ;
+    dcat:contactPoint [
+        a dataid:Agent ;
+        rdfs:label "Ricardo Usbeck" ;
+        foaf:name "Ricardo Usbeck" ;
+        foaf:mbox "ricardo.usbeck(at)googlemail.com"
+      ] ;
     dcat:landingPage <http://aksw.org/Projects/N3NERNEDNIF.html> .
 
 <https://raw.github.com/AKSW/n3-collection/master/News-100.ttl>
     dc:format "ttl" ;
     dc:title "News-100 NIF Distribution" ;
     a dataid:Distribution ;
+    dc:license <http://purl.oclc.org/NET/rdflicense/cc-by-sa> ;
     dcat:accessURL "https://raw.github.com/AKSW/n3-collection/master/News-100.ttl" ;
     dcat:mediaType "text/plain" .
 
@@ -63,6 +85,7 @@
     dc:format "ttl" ;
     dc:title "RSS-500 NIF Distribution" ;
     a dataid:Distribution ;
+    dc:license <http://purl.oclc.org/NET/rdflicense/cc-by-sa> ;
     dcat:accessURL "https://raw.github.com/AKSW/n3-collection/master/RSS-500.ttl" ;
     dcat:mediaType "text/plain" .
 
@@ -70,5 +93,6 @@
     dc:format "ttl" ;
     dc:title "Reuters-128 NIF Distribution" ;
     a dataid:Distribution ;
+    dc:license <http://purl.oclc.org/NET/rdflicense/cc-by-sa> ;
     dcat:accessURL "https://raw.github.com/AKSW/n3-collection/master/Reuters-128.ttl" ;
     dcat:mediaType "text/plain" .
