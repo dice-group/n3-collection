@@ -20,7 +20,7 @@
     dc:license <http://purl.oclc.org/NET/rdflicense/cc-by-sa> ;
     dc:title "News-100 Dataset DataID Description" ;
     void:exampleResource <https://raw.github.com/AKSW/n3-collection/master/News-100.ttl> ;
-    a dataid:Dataset, void:Dataset, rdfs:type, dcat:Dataset, prov:Entity, sd:Dataset ;
+    a dataid:Dataset, void:Dataset, dcat:Dataset, prov:Entity, sd:Dataset ;
     rdfs:label "News-100 Dataset DataID Description" ;
     dcat:distribution <https://raw.github.com/AKSW/n3-collection/master/News-100.ttl> ;
     dataid:ontologyLocation <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> ;
@@ -40,7 +40,7 @@
     dc:license <http://purl.oclc.org/NET/rdflicense/cc-by-sa> ;
     dc:title "RSS-500 Dataset DataID Description" ;
     void:exampleResource <https://raw.github.com/AKSW/n3-collection/master/RSS-500.ttl> ;
-    a dataid:Dataset, void:Dataset, rdfs:type, dcat:Dataset, prov:Entity, sd:Dataset ;
+    a dataid:Dataset, void:Dataset, dcat:Dataset, prov:Entity, sd:Dataset ;
     rdfs:label "RSS-500 Dataset DataID Description" ;
     dcat:distribution <https://raw.github.com/AKSW/n3-collection/master/RSS-500.ttl> ;
     dataid:ontologyLocation <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> ;
@@ -60,7 +60,7 @@
     dc:license <http://purl.oclc.org/NET/rdflicense/cc-by-sa> ;
     dc:title "Reuters-128 Dataset DataID Description" ;
     void:exampleResource <https://raw.github.com/AKSW/n3-collection/master/Reuters-128.ttl> ;
-    a dataid:Dataset, void:Dataset, rdfs:type, dcat:Dataset, prov:Entity, sd:Dataset ;
+    a dataid:Dataset, void:Dataset, dcat:Dataset, prov:Entity, sd:Dataset ;
     rdfs:label "Reuters-128 Dataset DataID Description" ;
     dcat:distribution <https://raw.github.com/AKSW/n3-collection/master/Reuters-128.ttl> ;
     dataid:ontologyLocation <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> ;
