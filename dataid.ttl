@@ -10,7 +10,7 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <> a void:DatasetDescription ;
- dc:title "DataID of AKSW datasets" .
+ dc:title "DataID of n3-collection datasets" .
 
 <#News-100-nif>
     dataid:licenseName "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License" ;
