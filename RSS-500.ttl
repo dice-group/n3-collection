@@ -11896,7 +11896,7 @@ nif:endIndex
       nif:endIndex "28"^^xsd:nonNegativeInteger ;
       nif:referenceContext
               <http://aksw.org/N3/RSS-500/178#char=0,74> ;
-      itsrdf:taIdentRef <http://dbpedia.org/page/Nebraska_Cornhuskers_football> ;
+      itsrdf:taIdentRef <http://dbpedia.org/resource/Nebraska_Cornhuskers_football> ;
       itsrdf:taSource "DBpedia_en_3.9"^^xsd:string .
 
 <http://aksw.org/N3/RSS-500/458#char=0,126>
