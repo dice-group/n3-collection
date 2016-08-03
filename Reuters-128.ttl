@@ -1374,7 +1374,7 @@ nif:referenceContext
       nif:endIndex "164"^^xsd:nonNegativeInteger ;
       nif:referenceContext
               <http://aksw.org/N3/Reuters-128/9#char=0,1676> ;
-      itsrdf:taIdentRef aksw:notInWiki .
+      itsrdf:taIdentRef <http://aksw.org/notInWiki/Christopher_Clark> .
 
 <http://aksw.org/N3/Reuters-128/60#char=150,179>
       a       nif:RFC5147String ;
