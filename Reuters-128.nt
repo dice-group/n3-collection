@@ -962,7 +962,7 @@
 <http://aksw.org/N3/Reuters-128/9#char=147,164> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex> "147"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
 <http://aksw.org/N3/Reuters-128/9#char=147,164> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#endIndex> "164"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
 <http://aksw.org/N3/Reuters-128/9#char=147,164> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#referenceContext> <http://aksw.org/N3/Reuters-128/9#char=0,1676> .
-<http://aksw.org/N3/Reuters-128/9#char=147,164> <http://www.w3.org/2005/11/its/rdf#taIdentRef> <http://aksw.org/notInWiki> .
+<http://aksw.org/N3/Reuters-128/9#char=147,164> <http://www.w3.org/2005/11/its/rdf#taIdentRef> <http://aksw.org/notInWiki/Christopher_Clark> .
 <http://aksw.org/N3/Reuters-128/60#char=150,179> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#RFC5147String> .
 <http://aksw.org/N3/Reuters-128/60#char=150,179> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#anchorOf> "Merrill Lynch Capital Markets"^^<http://www.w3.org/2001/XMLSchema#string> .
 <http://aksw.org/N3/Reuters-128/60#char=150,179> <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#beginIndex> "150"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
